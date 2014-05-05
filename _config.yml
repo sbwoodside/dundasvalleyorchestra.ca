@@ -35,10 +35,10 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
   - title: Concerts
     url: /concerts/
+  - title: About
+    url: /about/
   - title: Members
     url: /members/
   - title: Join Us!
