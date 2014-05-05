@@ -4,7 +4,8 @@ logo:             dvo-logo-inverted.png
 disqus_shortname: 
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+#url:              http://localhost:4000
+#url:              http://dundasvalleyorchestra.ca
 
 # Owner/author information
 owner:
