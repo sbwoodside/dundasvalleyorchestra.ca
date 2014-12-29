@@ -1,16 +1,13 @@
 # Site navigation links
-
+- title: Home
+  url: /
+- title: Concerts
+  url: /concerts/
 - title: About
   url: /about/
-
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Members
+  url: /members/
+- title: Join Us!
+  url: /join-us/
+- title: Contact
+  url: /contact/

@@ -1,30 +1,12 @@
 # Site wide configuration
-title:            Dundas Valley Orchestra
-description:      An amateur orchestra in Hamilton, Ontario.
-logo:             dvo-logo-inverted.png
-disqus_shortname: 
-search:           false
+title: Dundas Valley Orchestra
+locale: en_US
+description: An amateur orchestra in Hamilton, Ontario.
+logo: dvo-logo-inverted.png
+search: false
 # Change url to your domain. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
 #url:              http://dundasvalleyorchestra.ca
-
-
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Concerts
-    url: /concerts/
-  - title: About
-    url: /about/
-  - title: Members
-    url: /members/
-  - title: Join Us!
-    url: /join-us/
-  - title: Contact
-    url: /contact/
 
 # Jekyll configuration
 timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -32,6 +14,9 @@ future:      true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
 gems:
   - jekyll-sitemap
 
@@ -42,31 +27,24 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
 # Site owner
 owner:
-  name:           Dundas Valley Orchestra
-  avatar:         dvo-logo.png
-  email:          TODO@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       DundasValleyOrchestra
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  name: Dundas Valley Orchestra
+  avatar: dvo-logo.png
+  email: TODO@email.com
+  disqus-shortname:
+  twitter: 
+  facebook: DundasValleyOrchestra
+  github: 
+  stackexchange: 
+  linkedin: 
+  instagram: 
+  flickr: 
+  tumblr: 
   google:
     plus: #username
     analytics:
