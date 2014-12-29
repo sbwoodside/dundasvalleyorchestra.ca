@@ -1,3 +1,4 @@
+# Site wide configuration
 title:            Dundas Valley Orchestra
 description:      An amateur orchestra in Hamilton, Ontario.
 logo:             dvo-logo-inverted.png
@@ -7,28 +8,7 @@ search:           false
 #url:              http://localhost:4000
 #url:              http://dundasvalleyorchestra.ca
 
-# Owner/author information
-owner:
-  name:           Dundas Valley Orchestra
-  avatar:         dvo-logo.png
-  email:          TODO@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       DundasValleyOrchestra
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   UA-31585904-1
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
@@ -46,14 +26,14 @@ links:
   - title: Contact
     url: /contact/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Toronto
+# Jekyll configuration
+timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 future:      true
-highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
@@ -70,4 +50,32 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name:           Dundas Valley Orchestra
+  avatar:         dvo-logo.png
+  email:          TODO@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       DundasValleyOrchestra
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-31585904-1
+google_verify:      
+
