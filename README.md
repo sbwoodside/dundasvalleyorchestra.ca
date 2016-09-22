@@ -1,6 +1,6 @@
 
 For testing:
-  bundle exec jekyll serve
+  bundle exec jekyll serve --watch
 
 Regenerate various things:
   grunt
