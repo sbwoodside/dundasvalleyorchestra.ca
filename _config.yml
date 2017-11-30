@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Dundas Valley Orchestra
   avatar: dvo-logo.png
-  email: TODO@email.com
+  email: musicdirector@dundasvalleyorchestra.ca
   disqus-shortname:
   twitter: 
   facebook: DundasValleyOrchestra
