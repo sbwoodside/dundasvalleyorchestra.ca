@@ -10,6 +10,6 @@ Regenerate various things:
 
 For deployment:
 
-    bundle exec jekyll build --watch
+    bundle exec jekyll build
 
 Based on the [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
