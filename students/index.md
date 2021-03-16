@@ -27,15 +27,22 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### Winners
 
-*   2020 - Max Chen, Trombone
+*   2020 - Aanya Grewal, Flute
+*   2019 - Max Chen, Trombone
 *   2018 - Hannah Thompson, Clarinet
 *   2017 - Amelia McNiven Fontani, Violin
 *   2016 - Philip Darley, Cello
 *   2015 - Lindsey Rynders, Oboe
 
-### 2020 - Max Chen, Trombone
+### 2020 - Aanya Grewal, Flute
 
-![](/images/competition/2020-Max Chen.jpg)
+![Aanya Grewal](/images/competition/2020-Aanya Grewal.png)
+
+Aanya Grewal is a Grade 11 student at Hillfield Strathallan College in Hamilton, Ontario and has been playing the flute for 13 years. Her passion for music has been demonstrated in the Hamilton Philharmonic Youth Orchestra, where she has played for 5 years as principal flute, the Hamilton Children’s Choir Illumini and most recently, the Toronto Youth Symphonic Winds. She is a regular Kiwanis Festival participant, an RCM gold medalist as well as an OMFA Provincials finalist. A past member of the Westmount Wind Orchestra, and the HSC Wind Symphony, Aanya is a strong contributor to her school music program. Aanya is extremely excited to be playing with the DVO and is very grateful for this opportunity.
+
+### 2019 - Max Chen, Trombone
+
+![Max Chen](/images/competition/2019-Max Chen.jpg)
 
 Max Chen is a grade 11 student at Nelson High School in Burlington, Ontario. He has been playing the trombone for 6 years and is an aspiring classical musician. He has played in numerous exclusive honour ensembles across Canada, including the 2018 and 2019 Ontario Provincial Honour Band and the 2019 Denis Wick Canadian Wind Orchestra. He recently travelled to England and France in 2019 as a section leader with the Burlington Teen Tour Band to commemorate the 75th anniversary of D-Day, as well as to California in the 2018 Tournament of Roses Parade. Max is active at Nelson High School's music program, playing in their ensembles as well as leading the jazz big band, and he is also playing with the Toronto Youth Symphonic Winds.
 
