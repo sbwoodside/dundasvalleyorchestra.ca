@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert cancelled
+title: Welcome
 #title: Next concert — May 31, 2020 at 3:00 pm
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:

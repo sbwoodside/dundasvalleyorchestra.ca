@@ -12,7 +12,7 @@ url:              http://dundasvalleyorchestra.ca
 timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 future:      true
 permalink:   /:categories/:title/
-highlighter: pygments
+# highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed

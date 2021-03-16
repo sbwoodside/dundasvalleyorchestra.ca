@@ -12,7 +12,7 @@ On this page:
 
 ## Rehearsals
 
-*   [Rehearsal schedule for 2019 April 2 – May 28 (PDF)](files/rehearsal-schedule-2019-20.pdf)
+*   [Rehearsal schedule (PDF)](files/rehearsal-schedule-2019-20.pdf)
 *   Rehearsals are held every Tuesday evening from September to the end of May, with a two-week break in December/January.
 *   These run from 7:30pm to 9:45pm with a 10 minute break for refreshments.
 *   Note that several of these evenings are actually retirement home concerts.
