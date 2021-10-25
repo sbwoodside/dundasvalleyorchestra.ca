@@ -27,12 +27,19 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### Winners
 
+* 2021 - Gabriel Klassen, Voice
 * 2020 - Aanya Grewal, Flute
 * 2019 - Max Chen, Trombone
 * 2018 - Hannah Thompson, Clarinet
 * 2017 - Amelia McNiven Fontani, Violin
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
+
+#### 2021 - Gabriel Klassen
+
+![Gabriel Klassen](/images/competition/2021-Gabriel Klassen.jpeg)
+
+Gabriel Klassen is a second-year Bass-Baritone studying classical voice at the University of Toronto. Between the ages of 15 and 18, he studied with Roland Fix at the Hamilton Conservatory for the Arts, and he is now studying under Wendy Nielsen at the University of Toronto. Gabriel has had many solo and choral performance opportunities; most recently, he has performed as a soloist in the Songs of the Season concert in Walter Hall at the University of Toronto, and in Eternity - a concert held by the Hamilton Children's Choir. Alongside solo training and performances, Gabriel has participated in many choirs, including The Hamilton Children’s Choir, University of Toronto’s Tenor Bass Chorus, and most recently, the Macmillan Singers. In the summer of 2019, he had the opportunity to perform internationally with the Hamilton Children's Choir as a showcase choir at the World Youth & Children’s Choir Festival, held in Hong Kong.
 
 #### 2020 - Aanya Grewal, Flute
 
