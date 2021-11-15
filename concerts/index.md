@@ -12,68 +12,32 @@ On this page:
 
 ***
 
-Dear friends and supporters of the Dundas Valley Orchestra,
-
-While conditions during the COVID-19 pandemic make it difficult to announce a specific concert schedule, please know that we are monitoring all the factors involved in returning to rehearsals and performances.  We are extremely grateful for your continued support and look forward to performing for you again as soon as safely possible.
-
-In the meantime, we are still operating and gratefully accepting donations.  To support the DVO through this challenging time, please click the donation button below.
-
-<div id="canada_helps_link">
-  <a class="ic-noprint" href="http://www.canadahelps.org/CharityProfilePage.aspx?BN=118889476RR0001" target="_blank" onclick="recordOutboundLink('CanadaHelps',this);"><img src="/images/canada-helps.png" border="0" alt="Donate Now Through CanadaHelps.org!"></a>
-</div>
-
-***
-
 ## NEXT CONCERT
 
-***
+### Together Again!
 
-We have no scheduled concerts at this time.
+#### Sunday, November 21, 2021 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-***
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
-## POSTPONED CONCERT
+#### Concert Venue Protocol
 
-***
+The Dundas Valley Orchestra is excited to welcome you back to St. Paul’s United church.
+We have been working hard to make this a safe space. The following are the requirements to attend our concert.
+All Covid protocols are in place for both audience and performers.
+Due to social distance requirements, there is limited seating available so sign up now for our concert!
 
-### Victory in Europe!
+1. Please fill in [our Covid Tracing Document](https://forms.gle/C6cSxXNVgM3YQBBw7)
+1. Everyone must show proof of double vaccination with Identification upon entry. Without proof, you cannot enter the building.
+1. For those with paper identification we are required to see your vaccination record and ID. QR scanning will be available. If you have not signed onto the Covid Tracking form, we will also need your phone number and e-mail address.
+1. Masks are to be worn at all times.
+1. No food or drink is allowed.
+1. Social distancing is required within the sanctuary and also when moving in and out of the building.
+1. Please enter the church at the main front entrance or the entrance from the parking lot. Screeners will be at these entrances to assist you. Please be patient as this is a lengthy process.
 
-#### May 31, 2020 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+Thank you for helping to keep everyone safe.
 
-_Mandy Lagan, vocals_
-
-_Ross Wooldridge, clarinet_
-
-Celebrate the 75th Anniversary of VE Day!
-
-On May 8, 1945, the battles of World War II ended in Europe.  The DVO will mark this important anniversary with music of the big bands, the singers and some of the composers of the time. Vocalist Mandy Lagan and jazz clarinetist Ross Wooldridge will join the DVO to remember the music of Glenn Miller, Benny Goodman, Duke Ellington, Vera Lynn and others.
-
-1. arr. C. Custer: **A Salute to the Big Bands**
-2. R. Rodgers: **Victory at Sea**
-3. J. D. Ployhar: **Caravan**
-4. arr. Ellis: **Vera Lynn Tribute**
-5. N. Schultze, H. Leip, M. David: **Lilli Marlene**
-    *(Mandy Lagan, vocalist)*
-6. S. Manning, arr. T. Vosbein: **A Nightingale Sang in Berkley Square**
-7. F. Ahlert, R. Turk, arr. L. Thomas: **Mean To Me**
-    *(Ross Wooldridge, clarinet)*
-8. E. Coates: **Dambusters March**
-9. TBA: **Student Composer Competition Winner**
-10. arr. M. Lewis: **Moondust (Moonlight Serenade, Blue Moon, How High the Moon)**
-11. E. Elgar: **Enigma Variations, Variation 12**
-12. Consuelo Valasquez: **Bésame Mucho**
-13. C. Porter, arr. L. Thomas: **Everytime We Say Goodbye**
-    *(Mandy Lagan, vocalist and Ross Wooldridge, clarinet)*
-14. arr. B. Thachuk: **Boogie Woogie Bugle Boy**
-
-Reception afterwards — meet the musicians.
-
-Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more.
-
-DVO is comprised of talented amateur musicians from the Hamilton area.
-     The ensemble presents three major public concerts each year and performs at Hamilton retirement homes. 
-     Audience members are welcome to meet the musicians at the post-concert reception.
-     The venue is wheelchair accessible.
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
 
 ***
 
@@ -81,7 +45,7 @@ DVO is comprised of talented amateur musicians from the Hamilton area.
 
 ***
 
-Live concerts are postponed due to COVID-19.  Please check our YouTube channel for virtual and video performances.
+Please check the [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) for virtual and video performances.
 
 ***
 

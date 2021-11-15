@@ -1,19 +1,37 @@
 ---
 layout: page
-title: Welcome
-#title: Next concert — May 31, 2020 at 3:00 pm
+title: Next concert — Sunday, November 21, 2021 at 3pm
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   feature: DVO2013Jan-crop.jpg
 ---
 
-Friends of the Dundas Valley Orchestra!
+## Next Concert
 
-While the COVID-19 pandemic continues, we at the DVO are working on plans and projects that help us keep the music going.  While we miss playing together and performing for our audiences, we are learning new ways to make music and adapt in these unprecedented times.  We are working on video projects and virtual performances and will be updating our new Video Gallery page regularly.  Please check them out and come back often!
+### Together Again!
 
-We were terribly disappointed that the pandemic necessitated the cancellation of the May 2020 performance of our Victory in Europe 75th anniversary concert.  We were all looking forward to playing that wonderful music for you with two talented soloists.  The good news is that we have decided that the program is not going to cancelled but postponed!  We look forward to a time when we can confidently set a new date for VE75!  Stay tuned…
+#### Sunday, November 21, 2021 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-We wish you all good health and, in the words of the great Vera Lynn song, we “know we’ll meet again some sunny day”.
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+#### Concert Venue Protocol
+
+The Dundas Valley Orchestra is excited to welcome you back to St. Paul’s United church.
+We have been working hard to make this a safe space. The following are the requirements to attend our concert.
+All Covid protocols are in place for both audience and performers.
+Due to social distance requirements, there is limited seating available so sign up now for our concert!
+
+1. Please fill in [our Covid Tracing Document](https://forms.gle/C6cSxXNVgM3YQBBw7)
+1. Everyone must show proof of double vaccination with Identification upon entry. Without proof, you cannot enter the building.
+1. For those with paper identification we are required to see your vaccination record and ID. QR scanning will be available. If you have not signed onto the Covid Tracking form, we will also need your phone number and e-mail address.
+1. Masks are to be worn at all times.
+1. No food or drink is allowed.
+1. Social distancing is required within the sanctuary and also when moving in and out of the building.
+1. Please enter the church at the main front entrance or the entrance from the parking lot. Screeners will be at these entrances to assist you. Please be patient as this is a lengthy process.
+
+Thank you for helping to keep everyone safe.
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
 
 [More information about concerts past, present, and future →](/concerts)
 
