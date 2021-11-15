@@ -12,7 +12,7 @@ On this page:
 
 ## Glenn Mallory Scholarship
 
-Each season, the DVO makes a special award available the student members of our orchestra.  The Glenn Mallory Scholarship, named in honour of one of our past conductors, is given to a student in the DVO who makes a significant contribution to the orchestra on stage and behind the scenes.
+Each season, the DVO makes a special award available the student members of our orchestra. The Glenn Mallory Scholarship, named in honour of one of our past conductors, is given to a student in the DVO who makes a significant contribution to the orchestra on stage and behind the scenes.
 
 ## DVO-HAALSA Young Musician Award
 
@@ -25,7 +25,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * [Nomination Form](/images/competition/2021-2022/DVO-HAALSA Award Nomination Form 2021-2022.docx)
 * [Contest poster](/images/competition/2021-2022/DVO HAALSA Award Poster 2021-2022.pdf)
 
-### Winners
+### DVO-HAALSA Young Musician Winners
 
 * 2021 - Gabriel Klassen, Voice
 * 2020 - Aanya Grewal, Flute
@@ -57,7 +57,7 @@ Max Chen is a grade 11 student at Nelson High School in Burlington, Ontario. He 
 
 The Dundas Valley Orchestra holds an annual competition for student composers.
 
-### Winners
+### DVO Student Composer Winners
 
 * [2018 - Amy Brandon: **3 Portraits for Orchestra**](#2018)
 * [2017 - Timo Pehkonen: **Shapes of Things to Come**](#2017)
