@@ -18,9 +18,20 @@ On this page:
 
 #### Sunday, November 21, 2021 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+Music by Holst, Satie, Pierné, Oswald, Loeillet, Fedrerick the Great, and DVO Composer-in-residence Mark Thomas.
+
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
-#### Concert Venue Protocol
+#### Concert livestream
+
+The concert will be livestreamed on Sunday at 3pm! You can view it two ways:
+
+- [View livestream on the St. Paul's website](https://stpaulsdundas.com/dvo)
+- [View livestream on the St. Paul's Facebook page](https://www.facebook.com/StPaulsDundas)
+
+The link will be live as of 3pm on Sunday, November 21.
+
+#### Concert venue protocol
 
 The Dundas Valley Orchestra is excited to welcome you back to St. Paul’s United church.
 We have been working hard to make this a safe space. The following are the requirements to attend our concert.
