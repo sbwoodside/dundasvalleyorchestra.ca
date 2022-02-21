@@ -2,7 +2,7 @@
 layout: page
 title: Join Us!
 image:
-  feature: photos/carnegie-gallery.jpg
+  path: /images/photos/carnegie-gallery.jpg
 ---
 
 # Musicians Wanted

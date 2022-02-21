@@ -2,7 +2,7 @@
 layout: page
 title: Programs for Student Musicians
 image:
-  feature: photos/caroleen.jpg
+  path: /images/photos/caroleen.jpg
 ---
 
 On this page:

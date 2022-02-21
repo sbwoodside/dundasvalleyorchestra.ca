@@ -2,7 +2,7 @@
 layout: page
 title: Members Centre
 image:
-  feature: IMG_5330-crop.jpg
+  path: /images/IMG_5330-crop.jpg
 ---
 On this page: 
  [→ Rehearsals](#rehearsals), 

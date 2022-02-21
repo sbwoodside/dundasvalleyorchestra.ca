@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 image:
-  feature: photos/carnegie-gallery.jpg
+  path: /images/photos/carnegie-gallery.jpg
 ---
 
 On this page: [→ Our Conductor](#our-conductor),

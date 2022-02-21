@@ -2,7 +2,7 @@
 layout: page
 title: Concerts
 image:
-  feature: photos/old-photo.jpg
+  path: /images/photos/old-photo.jpg
 ---
 
 On this page:

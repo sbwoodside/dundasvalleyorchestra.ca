@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 image:
-  feature: photos/violins.jpg
+  path: /images/photos/violins.jpg
 ---
 
 [Click here to email us](mailto:DVOSecretary@hotmail.com?subject=DVO%20website%20contact%20form%20inquiry) if you wish to contact us about anything to do with the Dundas Valley Orchestra.

@@ -3,7 +3,7 @@ layout: page
 title: Next concert — Sunday, April 3, 2022 at 3pm
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
-  feature: DVO2013Jan-crop.jpg
+  path: /images/DVO2013Jan-crop.jpg
 ---
 
 ## Next Concert

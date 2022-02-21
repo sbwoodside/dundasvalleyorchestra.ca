@@ -2,11 +2,11 @@
 title: Dundas Valley Orchestra
 locale: en_US
 description: An amateur orchestra in Hamilton, Ontario.
-logo: dvo-logo-inverted.png
 search: false
 # Change url to your domain. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
 url:              http://dundasvalleyorchestra.ca
+logo: /images/dvo-logo-inverted.png
 
 # Jekyll configuration
 timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
