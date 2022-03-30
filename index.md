@@ -12,6 +12,10 @@ image:
 
 #### Sunday, April 3, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+> ⚠️ COVID protocols at our concert on April 3 at St. Paul’s: You are required to be fully vaccinated and to wear a mask when you attend the concert. We will have seating areas available for social distancing.
+
+Featured soloist: Alex Matwijiw, violin
+
 1. A. Dvorak: **Festival March**
 1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"**
 1. E. Greig: **Peer Gynt, Suite No. 1**
