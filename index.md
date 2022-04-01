@@ -14,15 +14,16 @@ image:
 
 > ⚠️ COVID protocols at our concert on April 3 at St. Paul’s: You are required to be fully vaccinated and to wear a mask when you attend the concert. We will have seating areas available for social distancing.
 
-Featured soloist: Alex Matwijiw, violin
-
-1. A. Dvorak: **Festival March**
-1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"**
-1. E. Greig: **Peer Gynt, Suite No. 1**
-1. P.I. Tchaikovsky: **Valse des Fleurs (from “The Nutcracker”)**
-1. P.I. Tchaikovsky: **Sérénade méancholique**
-1. K. Mak (Student Composer Competition): **Awakening**
+1. M. Lysenko, arr. L. Thomas: **Prayer of Ukraine**
+1. A. Dvořák: **Festival March**
+1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"** _for Peter Hill_
+1. E. Greig: **Peer Gynt, Suite No. 1** _for Molly Ann Schwarcz_
+1. P.I. Tchaikovsky: **Valse des Fleurs (from “The Nutcracker”)** _for Jenny Kyle_
+1. P.I. Tchaikovsky: **Sérénade méancholique** _Alex Matwijiw, violin_
+1. K. Mak: **Awakening** _(winning submission to the DVO Student Composer Competition, 2020)_
 1. Kenneth J. Alford: **Vesper Hymn**
+
+The St. Paul's United Church website is [streaming and recording the concert](https://stpaulsdundas.com/dvo).
 
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
