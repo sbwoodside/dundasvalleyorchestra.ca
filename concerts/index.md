@@ -14,6 +14,39 @@ On this page:
 
 ## NEXT CONCERT
 
+### The Heroes Among Us
+
+#### Sunday, May 29, 2022 at 7pm at the Canadian Warplane Heritage Museum, 9280 Airport Rd., Mount Hope
+
+🎟 [Purchase concert tickets: $15 each or four for $50](https://www.canadahelps.org/en/charities/burlington-concert-band-and-pops-orchestra/events/the-heroes-among-us-2/)
+
+* J. Williams: **March from 1941**
+* R. Rodgers: **Victory at Sea**
+* E. Coates: **The Dam Busters March**
+* G. Holst: **Jupiter**
+
+_DVO is comprised of talented amateur musicians from the Hamilton area._
+
+##### Concert poster
+
+[![The Heroes Among Us concert poster](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.png)](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.pdf)
+
+***
+
+## UPCOMING CONCERTS
+
+***
+
+Please check the [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) for virtual and video performances.
+
+***
+
+## PAST CONCERTS
+
+***
+
+## Concerts of the 2021-2022 Season
+
 ### Celebrating Friends
 
 #### Sunday, April 3, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
@@ -34,22 +67,6 @@ The St. Paul's United Church website is [streaming and recording the concert](ht
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
 _DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
-
-***
-
-## UPCOMING CONCERTS
-
-***
-
-Please check the [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) for virtual and video performances.
-
-***
-
-## PAST CONCERTS
-
-***
-
-## Concerts of the 2021-2022 Season
 
 ### Together Again!
 

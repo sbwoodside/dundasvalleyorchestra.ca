@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert — Sunday, April 3, 2022 at 3pm
+title: Next concert — Sunday, May 29, 2022 at 7pm
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
@@ -8,26 +8,22 @@ image:
 
 ## Next Concert
 
-### Celebrating Friends
+### The Heroes Among Us
 
-#### Sunday, April 3, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, May 29, 2022 at 7pm at the Canadian Warplane Heritage Museum, 9280 Airport Rd., Mount Hope
 
-> ⚠️ COVID protocols at our concert on April 3 at St. Paul’s: You are required to be fully vaccinated and to wear a mask when you attend the concert. We will have seating areas available for social distancing.
+🎟 [Purchase concert tickets: $15 each or four for $50](https://www.canadahelps.org/en/charities/burlington-concert-band-and-pops-orchestra/events/the-heroes-among-us-2/)
 
-1. M. Lysenko, arr. L. Thomas: **Prayer of Ukraine**
-1. A. Dvořák: **Festival March**
-1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"** _for Peter Hill_
-1. E. Greig: **Peer Gynt, Suite No. 1** _for Molly Ann Schwarcz_
-1. P.I. Tchaikovsky: **Valse des Fleurs (from “The Nutcracker”)** _for Jenny Kyle_
-1. P.I. Tchaikovsky: **Sérénade méancholique** _Alex Matwijiw, violin_
-1. K. Mak: **Awakening** _(winning submission to the DVO Student Composer Competition, 2020)_
-1. Kenneth J. Alford: **Vesper Hymn**
+* J. Williams: **March from 1941**
+* R. Rodgers: **Victory at Sea**
+* E. Coates: **The Dam Busters March**
+* G. Holst: **Jupiter**
 
-The St. Paul's United Church website is [streaming and recording the concert](https://stpaulsdundas.com/dvo).
+_DVO is comprised of talented amateur musicians from the Hamilton area._
 
-_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+##### Concert poster
 
-_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
+[![The Heroes Among Us concert poster](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.png)](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.pdf)
 
 [More information about concerts past, present, and future →](/concerts)
 
