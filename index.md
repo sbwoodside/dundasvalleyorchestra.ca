@@ -12,7 +12,12 @@ image:
 
 #### Sunday, May 29, 2022 at 7pm at the Canadian Warplane Heritage Museum, 9280 Airport Rd., Mount Hope
 
-🎟 [Purchase concert tickets: $15 each or four for $50](https://www.canadahelps.org/en/charities/burlington-concert-band-and-pops-orchestra/events/the-heroes-among-us-2/)
+[🎟 Purchase concert tickets: $15 each or four for $50](https://www.canadahelps.org/en/charities/burlington-concert-band-and-pops-orchestra/events/the-heroes-among-us-2/). Tickets are also available at the door.
+
+Museum doors open at 5pm for concert attendees to enjoy the museum exhibits.
+The Museum currently requires that visitors wear masks.
+
+The concert program includes:
 
 * J. Williams: **March from 1941**
 * R. Rodgers: **Victory at Sea**
