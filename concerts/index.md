@@ -23,11 +23,16 @@ On this page:
 Museum doors open at 5pm for concert attendees to enjoy the museum exhibits.
 The Museum currently requires that visitors wear masks.
 
-The concert program includes:
+DVO Concert Program:
 
-* J. Williams: **March from 1941**
+* L. v. Beethoven: **Symphony #3, 1st mvt.**
 * R. Rodgers: **Victory at Sea**
+* E. Morricone: **Gabriel’s Oboe**
 * E. Coates: **The Dam Busters March**
+
+Joint Finales with Burlington Concert Band:
+
+* J. Williams, arr. S. Hewis: **March from 1941**
 * G. Holst: **Jupiter**
 
 _DVO is comprised of talented amateur musicians from the Hamilton area._
