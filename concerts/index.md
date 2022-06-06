@@ -14,6 +14,22 @@ On this page:
 
 ## NEXT CONCERT
 
+Check back for news about the 2022-23 season.
+
+***
+
+## UPCOMING CONCERTS
+
+Check back for news about the 2022-23 season.
+
+***
+
+## PAST CONCERTS
+
+The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
+
+## Concerts of the 2021-2022 Season
+
 ### The Heroes Among Us
 
 #### Sunday, May 29, 2022 at 7pm at the Canadian Warplane Heritage Museum, 9280 Airport Rd., Mount Hope
@@ -40,22 +56,6 @@ _DVO is comprised of talented amateur musicians from the Hamilton area._
 ##### Concert poster
 
 [![The Heroes Among Us concert poster](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.png)](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.pdf)
-
-***
-
-## UPCOMING CONCERTS
-
-***
-
-Please check the [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) for virtual and video performances.
-
-***
-
-## PAST CONCERTS
-
-***
-
-## Concerts of the 2021-2022 Season
 
 ### Celebrating Friends
 

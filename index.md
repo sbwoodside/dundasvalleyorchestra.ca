@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert — Sunday, May 29, 2022 at 7pm
+title: Next concert — Fall 2022
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
@@ -8,32 +8,7 @@ image:
 
 ## Next Concert
 
-### The Heroes Among Us
-
-#### Sunday, May 29, 2022 at 7pm at the Canadian Warplane Heritage Museum, 9280 Airport Rd., Mount Hope
-
-[🎟 Purchase concert tickets: $15 each or four for $50](https://www.canadahelps.org/en/charities/burlington-concert-band-and-pops-orchestra/events/the-heroes-among-us-2/). Tickets are also available at the door.
-
-Museum doors open at 5pm for concert attendees to enjoy the museum exhibits.
-The Museum currently requires that visitors wear masks.
-
-DVO Concert Program:
-
-* L. v. Beethoven: **Symphony #3, 1st mvt.**
-* R. Rodgers: **Victory at Sea**
-* E. Morricone: **Gabriel’s Oboe**
-* E. Coates: **The Dam Busters March**
-
-Joint Finales with Burlington Concert Band:
-
-* J. Williams, arr. S. Hewis: **March from 1941**
-* G. Holst: **Jupiter**
-
-_DVO is comprised of talented amateur musicians from the Hamilton area._
-
-##### Concert poster
-
-[![The Heroes Among Us concert poster](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.png)](/images/concerts/2022/PROOF3_BurlConcertBand-HeroesAmongUs-11x17.pdf)
+Check back for news about the 2022-23 season.
 
 [More information about concerts past, present, and future →](/concerts)
 
