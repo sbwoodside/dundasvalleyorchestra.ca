@@ -36,7 +36,23 @@ _DVO is comprised of talented amateur musicians from the Hamilton area._
 
 ## UPCOMING CONCERTS
 
-Check back for news about the 2022-23 season.
+### A Costume Party for Kids of All Ages!
+
+October 30, 2022
+
+Join the DVO in a Halloween Costume Party, complete with a costume parade and prizes.  The DVO will perform popular music for the season from film and stage – spooky and exciting.
+
+### Travelling Again
+
+February 12, 2023
+
+A travelogue concert featuring music from around the world – traveling through melodies while we start to travel again after two years.
+
+### Swing into Spring!
+
+May 28, 2023
+
+The DVO will present a swinging concert of music from the big bands.
 
 ***
 
