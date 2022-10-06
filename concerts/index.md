@@ -14,6 +14,43 @@ On this page:
 
 ## NEXT CONCERT
 
+### A Costume Party for Kids of All Ages
+
+#### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint Saens with some of your favourite characters from Harry Potter, Star Wars and more! 
+
+Supported by the Dougher Community Fund.
+
+_Reception afterwards — meet the musicians._
+
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. Audience members are welcome to meet the musicians at the post-concert reception. The venue is wheelchair accessible._
+
+***
+
+## UPCOMING CONCERTS
+
+
+### Travelling Again
+
+#### Sunday, February 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+The DVO will take you on a musical journey in a travelogue concert featuring music from popular vacation destinations — a voyage through melodies as we start to travel again after the pandemic. Music from Canada, Ireland, Germany, South America, France and England.
+
+### Swing into Spring!
+
+#### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Our long awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe tapping swing, nostalgic ballads, beautiful melodies and infectious rhuthms. Guest clarinetist, Ross Wooldridge will join us to pay tribute to the dynamic soloists of the day.
+
+***
+
+## PAST CONCERTS
+
+The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
+
 ### Concert in the Park
 
 #### Sunday, June 26, 2022
@@ -31,34 +68,6 @@ On this page:
 1. **Meditations by the Sea**
 
 _DVO is comprised of talented amateur musicians from the Hamilton area._
-
-***
-
-## UPCOMING CONCERTS
-
-### A Costume Party for Kids of All Ages!
-
-October 30, 2022
-
-Join the DVO in a Halloween Costume Party, complete with a costume parade and prizes.  The DVO will perform popular music for the season from film and stage – spooky and exciting.
-
-### Travelling Again
-
-February 12, 2023
-
-A travelogue concert featuring music from around the world – traveling through melodies while we start to travel again after two years.
-
-### Swing into Spring!
-
-May 28, 2023
-
-The DVO will present a swinging concert of music from the big bands.
-
-***
-
-## PAST CONCERTS
-
-The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
 
 ## Concerts of the 2021-2022 Season
 
