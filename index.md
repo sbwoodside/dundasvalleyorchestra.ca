@@ -8,23 +8,19 @@ image:
 
 ## Next Concert
 
-### Concert in the Park
+### A Costume Party for Kids of All Ages
 
-#### Sunday, June 26, 2022
+#### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-1. E. Coates: **The Dam Busters March**
-1. **Summer Skies**
-1. **Pink Panther** 
-1. **Raindrops Keep Falling on My Head**
-1. Edward Elgar: **Nimrod (from “Enigma Variations”)**
-1. **Strollin’ (strings only - no other parts)**
-1. **Skybirds**
-1. **Big Band Medley**
-1. **So Nice (Summer Samba)**
-1. **Summertime in Venice**
-1. **Meditations by the Sea**
+Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint-Saëns with some of your favourite characters from Harry Potter, Star Wars and more! 
 
-_DVO is comprised of talented amateur musicians from the Hamilton area._
+Supported by the Dougher Community Fund.
+
+_Reception afterwards — meet the musicians._
+
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. Audience members are welcome to meet the musicians at the post-concert reception. The venue is wheelchair accessible._
 
 [More information about concerts past, present, and future →](/concerts)
 
