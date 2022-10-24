@@ -16,8 +16,6 @@ Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a c
 
 Supported by the Dougher Community Fund.
 
-_Reception afterwards — meet the musicians._
-
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
 _DVO is comprised of talented amateur musicians from the Hamilton area. Audience members are welcome to meet the musicians at the post-concert reception. The venue is wheelchair accessible._
