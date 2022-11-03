@@ -14,28 +14,19 @@ On this page:
 
 ## NEXT CONCERT
 
-### A Costume Party for Kids of All Ages
-
-#### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint Saens with some of your favourite characters from Harry Potter, Star Wars and more! 
-
-Supported by the Dougher Community Fund.
-
-_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
-
-_DVO is comprised of talented amateur musicians from the Hamilton area. Audience members are welcome to meet the musicians at the post-concert reception. The venue is wheelchair accessible._
-
-***
-
-## UPCOMING CONCERTS
-
-
 ### Travelling Again
 
 #### Sunday, February 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 The DVO will take you on a musical journey in a travelogue concert featuring music from popular vacation destinations — a voyage through melodies as we start to travel again after the pandemic. Music from Canada, Ireland, Germany, South America, France and England.
+
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
+
+***
+
+## UPCOMING CONCERTS
 
 ### Swing into Spring!
 

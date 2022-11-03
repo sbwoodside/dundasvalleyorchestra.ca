@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert — Sunday, October 30, 2022
+title: Next concert — Sunday, February 12, 2023
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
@@ -8,17 +8,15 @@ image:
 
 ## Next Concert
 
-### A Costume Party for Kids of All Ages
+### Travelling Again
 
-#### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, February 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint-Saëns with some of your favourite characters from Harry Potter, Star Wars and more! 
-
-Supported by the Dougher Community Fund.
+The DVO will take you on a musical journey in a travelogue concert featuring music from popular vacation destinations — a voyage through melodies as we start to travel again after the pandemic. Music from Canada, Ireland, Germany, South America, France and England.
 
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
-_DVO is comprised of talented amateur musicians from the Hamilton area. Audience members are welcome to meet the musicians at the post-concert reception. The venue is wheelchair accessible._
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
 
 [More information about concerts past, present, and future →](/concerts)
 
