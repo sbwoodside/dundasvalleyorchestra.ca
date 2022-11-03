@@ -40,6 +40,30 @@ Our long awaited concert featuring music of the big bands is back! The DVO will 
 
 The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
 
+### A Costume Party for Kids of All Ages
+
+#### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint-Saëns with some of your favourite characters from Harry Potter, Star Wars and more!
+
+[Complete Programme (PDF)](/images/concerts/2022/2022-10-30 programme.pdf)
+
+1. Charles Gounod: **Funeral March of a Marionette**
+1. John Williams, arr. Michael Story: **Highlights from Harry Potter**
+1. Howard Shore, arr. Bob Cerulli: **Lord of the Rings: The Fellowship of the Ring**
+1. Paul F. Webster & Bob Harris, arr. John Moss: **Spiderman (TV Theme)**
+1. Niccolò Paganini, arr. Shinichi Suzuki: **Witches’ Dance: Theme** _(Hamilton Suzuki School of Music violin students)_
+1. Klaus Badelt, arr. Ted Ricketts: **Pirates of the Caribbean**
+1. Camille Saint-Saëns: **Dance macabre** (Naomi Doré Brown, violin)
+1. John Williams, arr. Charles Sayre: **Star Wars: March**
+1. Robert McBride: **Pumpkin Eater’s Little Fugue**
+
+Supported by the Dougher Community Fund.
+
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
+
 ### Concert in the Park
 
 #### Sunday, June 26, 2022
