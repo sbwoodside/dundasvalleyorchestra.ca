@@ -119,10 +119,10 @@ _DVO is comprised of talented amateur musicians from the Hamilton area._
 
 1. M. Lysenko, arr. L. Thomas: **Prayer of Ukraine**
 1. A. Dvořák: **Festival March**
-1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"** _for Peter Hill_
-1. E. Greig: **Peer Gynt, Suite No. 1** _for Molly Ann Schwarcz_
-1. P.I. Tchaikovsky: **Valse des Fleurs (from “The Nutcracker”)** _for Jenny Kyle_
-1. P.I. Tchaikovsky: **Sérénade méancholique** _Alex Matwijiw, violin_
+1. S. Romberg, arr. L. Thomas: **Highlights from “The Student Prince"** _(for Peter Hill)_
+1. E. Greig: **Peer Gynt, Suite No. 1** _(for Molly Ann Schwarcz)_
+1. P.I. Tchaikovsky: **Valse des Fleurs (from “The Nutcracker”)** _(for Jenny Kyle)_
+1. P.I. Tchaikovsky: **Sérénade méancholique** _(Alex Matwijiw, violin)_
 1. K. Mak: **Awakening** _(winning submission to the DVO Student Composer Competition, 2020)_
 1. Kenneth J. Alford: **Vesper Hymn**
 
