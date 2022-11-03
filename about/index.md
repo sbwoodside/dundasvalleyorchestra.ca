@@ -40,19 +40,20 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 
 ### Elected board members
 
-| President | Brenda Hurlburt |
-| Vice President | Jeff Reynolds |
-| Past President | Margaret Sherman-Bell |
-| Treasurer | Ron Sealey |
+| President | Jeff Reynolds |
+| Vice President | Lianne Tan |
+| Past President | Brenda Hurlburt |
+| Treasurer | Lynne Calnek |
 | Secretary | Jim Jones |
-| Members at Large | Lynne Calnek, Rudin Knights, Baya Vertes, Glenn Welbourn |
+| Members at Large | Rudin Knights, Brian Liberty, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn |
 
 ### Ex-Officio Board Members
 
 | Music Director | Laura Thomas, M.F.A., B.Mus. |
-| Concert Master | Naomi Dore Brown |
+| Concert Master | Naomi Doré-Brown |
 | Librarian | Homer Seywerd |
-| Composer in Residence | Mark Thomas |
+| Archivist | Christina Brook |
+| Composer-in-Residence | Mark Thomas |
 
 ## Other Notables
 
