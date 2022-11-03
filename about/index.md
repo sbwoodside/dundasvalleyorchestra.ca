@@ -59,6 +59,5 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 
 | Webmaster | Simon Woodside |
 | Social Media Manager | Stan Alama |
-| Our Patrons | Dr. Doug Barber and Mrs. June Barber |
 
 The Dundas Valley Orchestra's CRA Charitable Registration number is 118889476 RR0001.
