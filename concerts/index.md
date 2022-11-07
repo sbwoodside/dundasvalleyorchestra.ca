@@ -51,6 +51,9 @@ Our long awaited concert featuring music of the big bands is back! The DVO will 
 
 #### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765446898?h=dadad3f8a6&color=fff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/765446898">Dundas Valley Orchestra - Oct. 30, 2022</a> from <a href="https://vimeo.com/user123205907">St Pauls Dundas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint-Saëns with some of your favourite characters from Harry Potter, Star Wars and more!
 
 [Complete Programme (PDF)](/images/concerts/2022/2022-10-30 programme.pdf)
@@ -121,6 +124,9 @@ _DVO is comprised of talented amateur musicians from the Hamilton area._
 ### Celebrating Friends
 
 #### Sunday, April 3, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/695421805?h=a0a642d36e&color=fff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/695421805">DVO Concert - April 3, 2022</a> from <a href="https://vimeo.com/user123205907">St Pauls Dundas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 > ⚠️ COVID protocols at our concert on April 3 at St. Paul’s: You are required to be fully vaccinated and to wear a mask when you attend the concert. We will have seating areas available for social distancing.
 
