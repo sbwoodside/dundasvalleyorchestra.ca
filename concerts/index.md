@@ -64,7 +64,7 @@ Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a c
 1. Paul F. Webster & Bob Harris, arr. John Moss: **Spiderman (TV Theme)**
 1. Niccolò Paganini, arr. Shinichi Suzuki: **Witches’ Dance: Theme** _(Hamilton Suzuki School of Music violin students)_
 1. Klaus Badelt, arr. Ted Ricketts: **Pirates of the Caribbean**
-1. Camille Saint-Saëns: **Dance macabre** (Naomi Doré Brown, violin)
+1. Camille Saint-Saëns: **Dance macabre** (_Naomi Doré Brown, violin_) ([video starts at 52:14](https://vimeo.com/765446898#t=52m14s))
 1. John Williams, arr. Charles Sayre: **Star Wars: March**
 1. Robert McBride: **Pumpkin Eater’s Little Fugue**
 
