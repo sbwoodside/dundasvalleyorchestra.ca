@@ -7,6 +7,7 @@ image:
 
 On this page:
   [→ Next Concert](#next-concert),
+  [→ Concert Video](#concert-video)
   [→ Upcoming Concerts](#upcoming-concerts),
   [→ Past Concerts](#past-concerts)
 
@@ -26,6 +27,14 @@ _DVO is comprised of talented amateur musicians from the Hamilton area. The venu
 
 ***
 
+## CONCERT VIDEO
+
+The [St. Paul's United Church Dundas DVO video page](https://stpaulsdundas.com/dvo) has livestreams of our concerts and videos of past concerts.
+
+The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
+
+***
+
 ## UPCOMING CONCERTS
 
 ### Swing into Spring!
@@ -37,8 +46,6 @@ Our long awaited concert featuring music of the big bands is back! The DVO will 
 ***
 
 ## PAST CONCERTS
-
-The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
 
 ### A Costume Party for Kids of All Ages
 
