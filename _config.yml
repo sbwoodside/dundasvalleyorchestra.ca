@@ -11,6 +11,9 @@ footer_links:
   - title: Facebook
     url: https://www.facebook.com/DundasValleyOrchestra
     icon: fab fa-facebook-square
+  - title: Instagram
+    url: https://www.instagram.com/dundasvalleyorchestra/
+    icon: fab fa-instagram
 
 # Jekyll configuration
 timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -25,7 +28,6 @@ author:
   name: Dundas Valley Orchestra
   picture: dvo-logo.png
   email: musicdirector@dundasvalleyorchestra.ca
-facebook: DundasValleyOrchestra
 google_analytics:   UA-31585904-1
 google_verify:      
 
