@@ -27,6 +27,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### DVO-HAALSA Young Musician Winners
 
+* 2022 - Nirvaan Grewal, Cello
 * 2021 - Gabriel Klassen, Voice
 * 2020 - Aanya Grewal, Flute
 * 2019 - Max Chen, Trombone
@@ -34,6 +35,12 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * 2017 - Amelia McNiven Fontani, Violin
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
+
+#### 2022 - Nirvaan Grewal
+
+![Nirvaan Grewal](/images/competition/2022-Nirvaan Grewal.png)
+
+Nirvaan Grewal, a high school student with an immense passion for the cello, is an incredible musical talent. He has completed his Grade 10 RCM certification and placed first in both Grade 7 and 8 Lower Strings Ontario Music Festivals Association (OMFA) Provincials. A long-time member of the Hamilton Philharmonic Youth Orchestra (HPYO), the youngest member of Sinfonia Ancaster, and an artist in the community, Nirvaan’s musicianship is versatile and varied. He plays with an exceptionally mature sound, expressing mood and evoking emotion through his deep connection with the music.
 
 #### 2021 - Gabriel Klassen
 
