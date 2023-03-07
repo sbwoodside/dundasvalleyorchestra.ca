@@ -15,6 +15,29 @@ On this page:
 
 ## NEXT CONCERT
 
+### Swing into Spring!
+
+#### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Our long awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe tapping swing, nostalgic ballads, beautiful melodies and infectious rhuthms. Guest clarinetist, Ross Wooldridge will join us to pay tribute to the dynamic soloists of the day.
+
+***
+
+## CONCERT VIDEO
+
+The [St. Paul's United Church Dundas DVO video page](https://stpaulsdundas.com/dvo) has livestreams of our concerts and videos of past concerts.
+
+The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
+
+***
+
+## UPCOMING CONCERTS
+
+
+***
+
+## PAST CONCERTS
+
 ### Travelling again
 
 #### Sunday, February 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
@@ -22,6 +45,8 @@ On this page:
 The DVO will take you on a musical journey in a travelogue concert featuring music from popular vacation destinations — a voyage through melodies as we start to travel again after the pandemic. Music from Canada, Ireland, Germany, South America, France and England.
 
 HAALSA Young Musician Award winner: Gabriel Klassen, baritone
+
+<iframe src="https://player.vimeo.com/video/798144835?h=2e77253868&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 1. Ludwig van Beethoven: **Twelve German Dances, WoO 8**
     - No. 1 in C major
@@ -46,36 +71,13 @@ _DVO is comprised of talented amateur musicians from the Hamilton area. The venu
 
 [![Travelling Again concert poster](/images/concerts/2023/poster-2023-02-12-small.jpg)](/images/concerts/2023/poster-2023-02-12.jpg)
 
-***
-
-## CONCERT VIDEO
-
-The [St. Paul's United Church Dundas DVO video page](https://stpaulsdundas.com/dvo) has livestreams of our concerts and videos of past concerts.
-
-The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
-
-***
-
-## UPCOMING CONCERTS
-
-### Swing into Spring!
-
-#### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Our long awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe tapping swing, nostalgic ballads, beautiful melodies and infectious rhuthms. Guest clarinetist, Ross Wooldridge will join us to pay tribute to the dynamic soloists of the day.
-
-***
-
-## PAST CONCERTS
-
 ### A Costume Party for Kids of All Ages
 
 #### Sunday, October 30, 2022 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765446898?h=dadad3f8a6&color=fff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/765446898">Dundas Valley Orchestra - Oct. 30, 2022</a> from <a href="https://vimeo.com/user123205907">St Pauls Dundas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 Join the Dundas Valley Orchestra in a Halloween Costume Party, complete with a costume parade, prizes and special guest performers from the Hamilton Suzuki School of Music.  The DVO will perform popular music for the season from film and stage – spooky and exciting music by Gounod, Badelt and Saint-Saëns with some of your favourite characters from Harry Potter, Star Wars and more!
+
+<iframe src="https://player.vimeo.com/video/765446898?h=dadad3f8a6&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 [Complete Programme (PDF)](/images/concerts/2022/2022-10-30 programme.pdf)
 

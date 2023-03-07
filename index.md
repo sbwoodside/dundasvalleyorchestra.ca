@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert — Sunday, February 12, 2023
+title: Next concert — Sunday, May 28, 2023
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
@@ -8,36 +8,11 @@ image:
 
 ## Next Concert
 
-### Travelling again
+### Swing into Spring!
 
-#### Sunday, February 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-The DVO will take you on a musical journey in a travelogue concert featuring music from popular vacation destinations — a voyage through melodies as we start to travel again after the pandemic. Music from Canada, Ireland, Germany, South America, France and England.
-
-HAALSA Young Musician Award winner: Gabriel Klassen, baritone
-
-1. Ludwig van Beethoven: **Twelve German Dances, WoO 8**
-    - No. 1 in C major
-    - No. 9 in F major
-    - No. 10 in D major
-    - No. 11 in G major
-    - No. 12 in C major
-1. Percy Grainger: **Irish Tune from County Derry**
-1. Donald Coakley: **Bonavist’ Harbour**
-1. Paul Creston: **Night in Mexico** _(Larry Allen, Associate Conductor)_
-1. Steven Verhelst: **Song for Japan** _(DVO Trombone Trio ~ Dan Grieve, John Stockton, Steven Burditt)_
-1. Jean-Paul-Égide Martini: **Plaisir d'amour** _(Text by Jean-Pierre Claris de Florian, Orchestrated by Hector Berlioz)_ _(Gabriel Klassen, baritone)_
-1. George Frideric Handel: **Si tra i ceppi from “Berenice”, Act II** _(Gabriel Klassen, baritone)_
-1. Intermission
-1. Charles Hubert Hastings Parry: **Symphony #3 in C, (“The English”)**
-
-_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
-
-_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible._
-
-#### Concert poster
-
-[![Travelling Again concert poster](/images/concerts/2023/poster-2023-02-12-small.jpg)](/images/concerts/2023/poster-2023-02-12.jpg)
+Our long awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe tapping swing, nostalgic ballads, beautiful melodies and infectious rhuthms. Guest clarinetist, Ross Wooldridge will join us to pay tribute to the dynamic soloists of the day.
 
 [More information about concerts past, present, and future →](/concerts)
 
