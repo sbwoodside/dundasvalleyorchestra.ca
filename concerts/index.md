@@ -19,7 +19,35 @@ On this page:
 
 #### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Our long awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe tapping swing, nostalgic ballads, beautiful melodies and infectious rhuthms. Guest clarinetist, Ross Wooldridge will join us to pay tribute to the dynamic soloists of the day.
+- Ross Wooldridge, clarinet
+- Serena Paton, vocal
+- Doug Mundy, piano
+- Clark Johnston, bass
+- Kevin Dempsey, drums
+
+Our long-awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe-tapping swing, nostalgic ballads, beautiful melodies and infectious rhythms. Guest clarinetist, Ross Wooldridge, and guest vocalist, Sarena Paton, will join us to pay tribute to the dynamic soloists of the day.
+
+1. **A Salute to the Big Bands**
+1. **Bopsickle** _(soloist Steve Burditt, trombone)_
+1. **Caravan** _(Larry Allen, Associate Conductor)_
+1. **A Nightingale Sang in Berkeley Square** _(Larry Allen, Associate Conductor)_
+1. **Moonglow** _(soloist Ross Wooldridge, clarinet)_
+1. **Begin the Beguine** _(soloist Ross Wooldridge, clarinet)_
+1. **Frenesi** _(soloist Ross Wooldridge, clarinet)_
+1. **Besame Mucho** _(soloist Sarena Paton, vocal)_
+1. **Moondust**
+1. **Chattanooga Choo Choo** _(Larry Allen, Associate Conductor)_
+1. **You’d Be So Nice to Come Home To** _(soloist Sarena Paton, vocal)_
+1. **Big Noise from Winnetaka**
+1. **Goodbye** _(soloist Ross Wooldridge, clarinet)_
+1. **Benny’s Tunes** _(soloist Ross Wooldridge, clarinet)_
+1. **Duke Ellington Medley**
+
+_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
+
+_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility._
+
+[![Swing into Spring! concert poster](/images/concerts/2023/poster-2023-05-28-small.jpg)](/images/concerts/2023/poster-2023-05-28.pdf)
 
 ***
 
