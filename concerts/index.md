@@ -7,7 +7,6 @@ image:
 
 On this page:
   [→ Next Concert](#next-concert),
-  [→ Concert Video](#concert-video)
   [→ Upcoming Concerts](#upcoming-concerts),
   [→ Past Concerts](#past-concerts)
 
@@ -52,11 +51,8 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 
 ***
 
-## CONCERT VIDEO
 
-The [St. Paul's United Church Dundas DVO video page](https://stpaulsdundas.com/dvo) has livestreams of our concerts and videos of past concerts.
 
-The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UCWZ8-oXO6gf_35eoGCB08Mg) has virtual and video performances.
 
 ***
 
