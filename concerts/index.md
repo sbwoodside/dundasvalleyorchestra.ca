@@ -51,14 +51,26 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 
 ***
 
-
-
-
-***
-
 ## UPCOMING CONCERTS
 
-- Check back for upcoming concert dates
+### Requiem
+
+#### Sunday, November 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+The DVO joins with Chorus Hamilton and its Artistic Director David Holler, St. Paul’s Minister of Music Fredric Devries, soprano Ariel Harwood Jones, baritone Adam Kuiack and the Dundas Pipes and Drums for a Remembrance Day weekend performance of Fauré’s Requiem and other moving selections.
+Supported by the Dougher Community Fund.
+
+### Romance and Adventure
+
+#### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+The DVO celebrates memorable movie music with romantic themes and rollicking adventure.  Soprano soloist Lisa Brillon will be featured in this concert highlighting music from great westerns, musicals, romantic films and adventures like Indiana Jones, Harry Potter and Pirates of the Caribbean.  We will also present our HAALSA Student Soloist for the year.
+
+### Symphonic Spotlight
+
+#### Sunday, May 26, 2024 at 3pm at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto #1.  We will also present our Student Composer Competition winning piece and Schumann’s Symphony #4.
 
 ***
 
