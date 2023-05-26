@@ -19,6 +19,8 @@ On this page:
 
 #### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
 - Ross Wooldridge, clarinet
 - Serena Paton, vocal
 - Doug Mundy, piano
@@ -43,9 +45,8 @@ Our long-awaited concert featuring music of the big bands is back! The DVO will 
 1. **Benny’s Tunes** _(soloist Ross Wooldridge, clarinet)_
 1. **Duke Ellington Medley**
 
-_Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
-
-_DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility._
+Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
 
 [![Swing into Spring! concert poster](/images/concerts/2023/poster-2023-05-28-small.jpg)](/images/concerts/2023/poster-2023-05-28.pdf)
 
@@ -61,6 +62,7 @@ The [Dundas Valley Orchestra YouTube channel](https://www.youtube.com/channel/UC
 
 ## UPCOMING CONCERTS
 
+- Check back for upcoming concert dates
 
 ***
 
