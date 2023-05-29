@@ -22,6 +22,15 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 
 ***
 
+# Last concert video
+
+Swing into Spring! Sunday, May 28, 2023 at 3pm at St. Paul's United Church
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/830993873?h=f8c96d4064" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+***
+
 # Dundas Valley Orchestra
 
 [Laura M. Thomas, B.Mus., M.F.A., Music Director](/about/#conductor)
