@@ -1,47 +1,22 @@
 ---
 layout: page
-title: Next concert — Sunday, May 28, 2023
+title: Next concert — Sunday, November 12, 2023
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-## Next Concert
+# Next Concert
 
-### Swing into Spring!
+### Requiem
 
-#### Sunday, May 28, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, November 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
-
-- Ross Wooldridge, clarinet
-- Serena Paton, vocal
-- Doug Mundy, piano
-- Clark Johnston, bass
-- Kevin Dempsey, drums
-
-Our long-awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe-tapping swing, nostalgic ballads, beautiful melodies and infectious rhythms. Guest clarinetist, Ross Wooldridge, and guest vocalist, Sarena Paton, will join us to pay tribute to the dynamic soloists of the day.
-
-1. **A Salute to the Big Bands**
-1. **Bopsickle** _(soloist Steve Burditt, trombone)_
-1. **Caravan** _(Larry Allen, Associate Conductor)_
-1. **A Nightingale Sang in Berkeley Square** _(Larry Allen, Associate Conductor)_
-1. **Moonglow** _(soloist Ross Wooldridge, clarinet)_
-1. **Begin the Beguine** _(soloist Ross Wooldridge, clarinet)_
-1. **Frenesi** _(soloist Ross Wooldridge, clarinet)_
-1. **Besame Mucho** _(soloist Sarena Paton, vocal)_
-1. **Moondust**
-1. **Chattanooga Choo Choo** _(Larry Allen, Associate Conductor)_
-1. **You’d Be So Nice to Come Home To** _(soloist Sarena Paton, vocal)_
-1. **Big Noise from Winnetaka**
-1. **Goodbye** _(soloist Ross Wooldridge, clarinet)_
-1. **Benny’s Tunes** _(soloist Ross Wooldridge, clarinet)_
-1. **Duke Ellington Medley**
+The DVO joins with Chorus Hamilton and its Artistic Director David Holler, St. Paul’s Minister of Music Fredric Devries, soprano Ariel Harwood Jones, baritone Adam Kuiack and the Dundas Pipes and Drums for a Remembrance Day weekend performance of Fauré’s Requiem and other moving selections.
+Supported by the Dougher Community Fund.
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-[![Swing into Spring! concert poster](/images/concerts/2023/poster-2023-05-28-small.jpg)](/images/concerts/2023/poster-2023-05-28.pdf)
 
 [More information about concerts past, present, and future →](/concerts)
 
