@@ -14,6 +14,8 @@ On this page:
 
 Each season, the DVO makes a special award available the student members of our orchestra. The Glenn Mallory Scholarship, named in honour of one of our past conductors, is given to a student in the DVO who makes a significant contribution to the orchestra on stage and behind the scenes.
 
+***
+
 ## DVO-HAALSA Young Musician Award
 
 Every year, the Hamilton Association for the Advancement of Literature, Science and Art (HAALSA), under the auspices of the Dundas Valley Orchestra (DVO), gives out an award to a young promising musician from the Greater Hamilton Area. The winner will receive a cash prize and will have the opportunity to perform with the DVO at one of its concerts. If teachers and students wish to express their interest please contact DVO at: [dvo.haalsa@gmail.com](mailto:dvo.haalsa@gmail.com)
@@ -60,11 +62,19 @@ Aanya Grewal is a Grade 11 student at Hillfield Strathallan College in Hamilton,
 
 Max Chen is a grade 11 student at Nelson High School in Burlington, Ontario. He has been playing the trombone for 6 years and is an aspiring classical musician. He has played in numerous exclusive honour ensembles across Canada, including the 2018 and 2019 Ontario Provincial Honour Band and the 2019 Denis Wick Canadian Wind Orchestra. He recently travelled to England and France in 2019 as a section leader with the Burlington Teen Tour Band to commemorate the 75th anniversary of D-Day, as well as to California in the 2018 Tournament of Roses Parade. Max is active at Nelson High School's music program, playing in their ensembles as well as leading the jazz big band, and he is also playing with the Toronto Youth Symphonic Winds.
 
+***
+
 ## DVO Student Composer Competition
+
+### 2024 Student Composer Competition
 
 The Dundas Valley Orchestra holds an annual competition for student composers.
 
-### DVO Student Composer Winners
+[2024 Call for Submissions](/images/competition/2023/Call for Submissions SCC 2024.pdf)
+
+The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
+
+### Past DVO Student Composer Winners
 
 * [2018 - Amy Brandon: **3 Portraits for Orchestra**](#2018)
 * [2017 - Timo Pehkonen: **Shapes of Things to Come**](#2017)

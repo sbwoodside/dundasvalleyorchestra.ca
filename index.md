@@ -28,6 +28,15 @@ Swing into Spring! Sunday, May 28, 2023 at 3pm at St. Paul's United Church
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/830993873?h=f8c96d4064" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+***
+
+# 2024 Student Composer Competition
+
+[2024 Call for Submissions (PDF)](/images/competition/2023/Call for Submissions SCC 2024.pdf)
+
+The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
+
+[More information about the competition →](/students/#dvo-student-composer-competition)
 
 ***
 
