@@ -32,6 +32,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### DVO-HAALSA Young Musician Winners
 
+* 2023 - Victoria Zeng, Piano
 * 2022 - Nirvaan Grewal, Cello
 * 2021 - Gabriel Klassen, Voice
 * 2020 - Aanya Grewal, Flute
@@ -41,7 +42,11 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
 
-#### 2022 - Nirvaan Grewal
+#### 2023 DVO-HAALSA Young Musician winner: Victoria Zeng
+
+![Victoria Zeng](/images/competition/2023-Victoria Zeng.jpg)
+
+Victoria Zeng is a dedicated pianist studying under the tutelage of Lang-Ning Liu at the Phil and Eli Taylor Academy of the Royal Conservatory of Music. She is passionate about her craft, and enjoys exploring and broadening her perspectives within all facets of music. She has had the pleasure of working with many respected professors, including Stanislav Ioudenitch, Alan Hobbins, Robert Shannon, Stewart Goodyear, and Haewon Song, among others. Victoria has also won awards and participated in many festivals, competitions, and programs, most notably the Claudette Sorel Fellows Program, Oberlin Piano Festival, CMC National Competition, OYMI Competition, as well as being invited to the Amalfi Coast Festival, and the PYPA Festival as a Program Young Artist. She is the current pianist of the Oakville Symphony Youth Orchestra, as well as the Westmount Jazz Ensemble. Outside of her musical pursuits, Victoria enjoys going skiing, taking pictures, and is an avid mindfulness enthusiast.
 
 ![Nirvaan Grewal](/images/competition/2022-Nirvaan Grewal.png)
 
