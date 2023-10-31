@@ -25,6 +25,10 @@ Supported by the Dougher Community Fund.
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
+#### Concert poster
+
+[![Requiem concert poster](/images/concerts/2023/poster-2023-11-12-small.jpg)](/images/concerts/2023/poster-2023-11-12.pdf)
+
 ***
 
 ## UPCOMING CONCERTS
