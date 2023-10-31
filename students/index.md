@@ -48,23 +48,25 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 Victoria Zeng is a dedicated pianist studying under the tutelage of Lang-Ning Liu at the Phil and Eli Taylor Academy of the Royal Conservatory of Music. She is passionate about her craft, and enjoys exploring and broadening her perspectives within all facets of music. She has had the pleasure of working with many respected professors, including Stanislav Ioudenitch, Alan Hobbins, Robert Shannon, Stewart Goodyear, and Haewon Song, among others. Victoria has also won awards and participated in many festivals, competitions, and programs, most notably the Claudette Sorel Fellows Program, Oberlin Piano Festival, CMC National Competition, OYMI Competition, as well as being invited to the Amalfi Coast Festival, and the PYPA Festival as a Program Young Artist. She is the current pianist of the Oakville Symphony Youth Orchestra, as well as the Westmount Jazz Ensemble. Outside of her musical pursuits, Victoria enjoys going skiing, taking pictures, and is an avid mindfulness enthusiast.
 
+#### 2022 DVO-HAALSA Young Musician winner: Nirvaan Grewal
+
 ![Nirvaan Grewal](/images/competition/2022-Nirvaan Grewal.png)
 
 Nirvaan Grewal, a high school student with an immense passion for the cello, is an incredible musical talent. He has completed his Grade 10 RCM certification and placed first in both Grade 7 and 8 Lower Strings Ontario Music Festivals Association (OMFA) Provincials. A long-time member of the Hamilton Philharmonic Youth Orchestra (HPYO), the youngest member of Sinfonia Ancaster, and an artist in the community, Nirvaan’s musicianship is versatile and varied. He plays with an exceptionally mature sound, expressing mood and evoking emotion through his deep connection with the music.
 
-#### 2021 - Gabriel Klassen
+#### 2021 DVO-HAALSA Young Musician winner: Gabriel Klassen
 
 ![Gabriel Klassen](/images/competition/2021-Gabriel Klassen.jpeg)
 
 Gabriel Klassen is a second-year Bass-Baritone studying classical voice at the University of Toronto. Between the ages of 15 and 18, he studied with Roland Fix at the Hamilton Conservatory for the Arts, and he is now studying under Wendy Nielsen at the University of Toronto. Gabriel has had many solo and choral performance opportunities; most recently, he has performed as a soloist in the Songs of the Season concert in Walter Hall at the University of Toronto, and in Eternity - a concert held by the Hamilton Children's Choir. Alongside solo training and performances, Gabriel has participated in many choirs, including The Hamilton Children’s Choir, University of Toronto’s Tenor Bass Chorus, and most recently, the Macmillan Singers. In the summer of 2019, he had the opportunity to perform internationally with the Hamilton Children's Choir as a showcase choir at the World Youth & Children’s Choir Festival, held in Hong Kong.
 
-#### 2020 - Aanya Grewal, Flute
+#### 2020 DVO-HAALSA Young Musician winner: Aanya Grewal, Flute
 
 ![Aanya Grewal](/images/competition/2020-Aanya Grewal.png)
 
 Aanya Grewal is a Grade 11 student at Hillfield Strathallan College in Hamilton, Ontario and has been playing the flute for 13 years. Her passion for music has been demonstrated in the Hamilton Philharmonic Youth Orchestra, where she has played for 5 years as principal flute, the Hamilton Children’s Choir Illumini and most recently, the Toronto Youth Symphonic Winds. She is a regular Kiwanis Festival participant, an RCM gold medalist as well as an OMFA Provincials finalist. A past member of the Westmount Wind Orchestra, and the HSC Wind Symphony, Aanya is a strong contributor to her school music program. Aanya is extremely excited to be playing with the DVO and is very grateful for this opportunity.
 
-#### 2019 - Max Chen, Trombone
+#### 2019 DVO-HAALSA Young Musician winner: Max Chen, Trombone
 
 ![Max Chen](/images/competition/2019-Max Chen.jpg)
 
@@ -91,7 +93,7 @@ The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 
 * [2014 - Simon Servida: **Clashing Colours**](#2014)
 * [2013 - Christopher Barletta: **Relative Flutes**](#2013)
 
-#### 2018 - Amy Brandon: 3 Portraits for Orchestra
+#### 2018 DVO Student Composer winner: Amy Brandon: 3 Portraits for Orchestra
 
 ![Amy Brandon](/images/competition/2018-Brandon.jpg)
 
@@ -101,13 +103,13 @@ Holding degrees in jazz guitar performance and composition, guitarist Amy Brando
 
 Awards include the National Sawdust Hildegard Initiative (2018 Honourable Mention), nominations for Music Nova Scotia and ECMA awards for her jazz-electroacoustic album 'Scavenger' as well as the 2017 Roberta Stephen Award from the Association of Canadian Women Composers. In addition to performance and composition, she writes and presents academic workconcerning music cognition, virtual reality, improvisation and the guitar. She has presented her work at Berklee College of Music in Boston and at conferences in Australia, USA, Switzerland, Hungary and the UK.
 
-#### 2017 - Timo Pehkonen: Shapes of Things to Come
+#### 2017 DVO Student Composer winner: Timo Pehkonen: Shapes of Things to Come
 
 ![Timo Pehkonen](/images/competition/2017-Pehkonen.jpg)
 
 Timo Pehkonen was born in 1992 in Thunder Bay, Ontario. He is currently a music student at Lakehead University in Thunder Bay. Along with composing, he is a private piano/guitar teacher and drummer for recording/touring band, Android 16. Pehkonen was recently accepted into the Masters of Music Composition program at University of Victoria, where he will attend in September 2017.
 
-#### 2016 - Yuang Chen: Le porcelet de valse
+#### 2016 DVO Student Composer winner: Yuang Chen: Le porcelet de valse
 
 ![Yuang Chen](/images/competition/2016-Chen.jpg)
 
@@ -115,11 +117,11 @@ Yuang Chen (age 19) is an award winning, emerging Canadian composer for orchestr
 
 In 2014, his submission “Ouverture Diabolique” was deemed the best overall contest piece in the Toronto Symphony Youth Orchestra nation wide open call for scores from emerging comsers by Gary Kulesha and Kevin Lau. As a current student of composer Marjan Mozetich at Queen’s University, Yuang has also studied previously with Robert Rival, Maya Badian and Colin Mack.
 
-#### 2015 - Christopher Barletta: L’eroe e il cattivo
+#### 2015 DVO Student Composer winner: Christopher Barletta: L’eroe e il cattivo
 
 See [2013](#2013)
 
-#### 2014 - Simon Servida: Clashing Colours
+#### 2014 DVO Student Composer winner: Simon Servida: Clashing Colours
 
 ![Simon Servida](/images/competition/2014-Servida.jpg)
 
@@ -127,7 +129,7 @@ Simon Servida grew up in Scarborough, Ontario, where he started studying music a
 
 His interest in composition grew out of his experiments making up hip-hop beats and led eventually into orchestral music. As a composer, he is interested in the work of many film scorers like Hans Zimmer, John Powell, and Thomas Newman. After completing his studies, Mr. Servida hopes to pursue a career in film scoring.
 
-#### 2013 - Christopher Barletta: Relative Flutes
+#### 2013 DVO Student Composer winner: Christopher Barletta: Relative Flutes
 
 ![Christopher Barletta](/images/competition/2013-Barletta.png)
 
