@@ -6,9 +6,12 @@ image:
 ---
 
 On this page:
- [→ Glenn Mallory Scholarship](#glenn-mallory-scholarship)
- [→ DVO-HAALSA Young Musician Award](#dvo-haalsa-young-musician-award),
+ [→ Glenn Mallory Scholarship](#glenn-mallory-scholarship) • 
+ [→ DVO-HAALSA Young Musician Award](#dvo-haalsa-young-musician-award) •
  [→ DVO Student Composer Competition](#dvo-student-composer-competition)
+{: .notice}
+
+***
 
 ## Glenn Mallory Scholarship
 

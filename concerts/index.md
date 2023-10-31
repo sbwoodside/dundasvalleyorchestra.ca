@@ -6,9 +6,10 @@ image:
 ---
 
 On this page:
-  [→ Next Concert](#next-concert),
-  [→ Upcoming Concerts](#upcoming-concerts),
+  [→ Next Concert](#next-concert) •
+  [→ Upcoming Concerts](#upcoming-concerts) •
   [→ Past Concerts](#past-concerts)
+{: .notice}
 
 ***
 

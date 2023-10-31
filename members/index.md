@@ -4,11 +4,13 @@ title: Members Centre
 image:
   path: /images/IMG_5330-crop.jpg
 ---
-On this page: 
- [→ Rehearsals](#rehearsals), 
- [→ Hi Notes Newsletter](#hi-notes-newsletter), 
- [→ Concerts](#concerts), 
+
+On this page:
+ [→ Rehearsals](#rehearsals) •
+ [→ Concerts](#concerts) •
+ [→ Hi Notes Newsletter](#hi-notes-newsletter-archives) •
  [→ Practice Cancelations](#practice-cancelations)
+{: .notice}
 
 ## Rehearsals
 
