@@ -82,6 +82,9 @@ The Dundas Valley Orchestra holds an annual competition for student composers.
 
 [2024 Call for Submissions](/images/competition/2023/Call for Submissions SCC 2024.pdf)
 
+Update October 2023: Note that the email address to submit has changed to `dvomusicdirector@gmail.com`
+{: .notice--warning}
+
 The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
 
 ### Past DVO Student Composer Winners
