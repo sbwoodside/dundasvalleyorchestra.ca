@@ -15,39 +15,90 @@ On this page:
 
 ## NEXT CONCERT
 
-### Requiem
+### Romance and Adventure
 
-#### Sunday, November 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-The DVO joins with Chorus Hamilton and its Artistic Director David Holler, St. Paul’s Minister of Music Fredric Devries, soprano Ariel Harwood Jones, baritone Adam Kuiack and the Dundas Pipes and Drums for a Remembrance Day weekend performance of Fauré’s Requiem and other moving selections.
-Supported by the Dougher Community Fund.
+[![Romance and Adventure concert poster](/images/concerts/2024/poster-2024-02-04-small.png)](/images/concerts/2024/poster-2024-02-04.pdf)
+
+The DVO celebrates memorable movie music with romantic themes and rollicking adventure. Soprano soloist Callista Foti will be featured in this concert highlighting music from great westerns, musicals, romantic films and adventures like Indiana Jones, Harry Potter and Pirates of the Caribbean. We will also present this year's HAALSA Student Soloist, cellist Nirvaan Grewal who will perform F. J. Haydn's Concerto in C Major for cello.
+
+Featuring:
+
+- *Callista Foti, soprano*
+- *Nirvaan Grewal, cello* (HAALSA Student Soloist)
+
+Programme:
+
+1. Loewe & Lerner: **My Fair Lady - Selections for Orchestra**
+1. Menken: **Beauty and the Beast** _(Larry Allen, Associate Conductor)_
+1. Jones & Kahn: **It Had To Be You** _(Callista Foti, soprano)_
+1. Schifrin: **Mission: Impossible Theme**
+1. Haydn: ((Concerto in C Major)) _(Nirvaan Grewal, 'cello)_
+1. **Great Themes from Great Western Movies**
+1. Doyle & Williams: **Harry Potter and the Goblet of Fire** _(Larry Allen, Associate Conductor)_
+1. **You've Got a Friend in Me**
+1. Bernstein & Sondheim: **West Side Story - Selections for Orchestra**
+1. Styne & Merrill: **Don't Rain on My Parade** _(Callista Foti, soprano)_
+1. Badelt: **Pirates of the Caribbean**
+
+St. Paul's United Church will [livestream the concert at this page](https://stpaulsdundas.com/dvo).
+{: .notice--info}
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-#### Concert poster
-
-[![Requiem concert poster](/images/concerts/2023/poster-2023-11-12-small.jpg)](/images/concerts/2023/poster-2023-11-12.pdf)
 
 ***
 
 ## UPCOMING CONCERTS
 
-### Romance and Adventure
-
-#### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-The DVO celebrates memorable movie music with romantic themes and rollicking adventure.  Soprano soloist Lisa Brillon will be featured in this concert highlighting music from great westerns, musicals, romantic films and adventures like Indiana Jones, Harry Potter and Pirates of the Caribbean.  We will also present our HAALSA Student Soloist for the year.
 
 ### Symphonic Spotlight
 
 #### Sunday, May 26, 2024 at 3pm at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto #1.  We will also present our Student Composer Competition winning piece and Schumann’s Symphony #4.
+Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto #1.  We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
 
 ***
 
 ## PAST CONCERTS
+
+## Concerts of the 2023-2024 Season
+
+### Requiem
+
+#### Sunday, November 12, 2023 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[![Requiem concert poster](/images/concerts/2023/poster-2023-11-12-small.jpg)](/images/concerts/2023/poster-2023-11-12.pdf)
+
+<iframe src="https://player.vimeo.com/video/883735915?h=a04630180a&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+The DVO joins with Chorus Hamilton and its Artistic Director David Holler, St. Paul’s Minister of Music Fredric Devries, soprano Ariel Harwood Jones, baritone Adam Kuiack and the Dundas Pipes and Drums for a Remembrance Day weekend performance of Fauré’s Requiem and other moving selections.
+Supported by the Dougher Community Fund.
+
+- *Ariel Harwood-Jones, soprano*
+- *Adam Kuiack, baritone*
+- *Fredric DeVries, organ*
+- *Chorus Hamilton; David Holler, Artistic Director*
+- *Dundas Pipes and Drums*
+
+1. William Robb: **When the Battle's O'er**
+1. Ludwig van Beethoven: **Symphony No. 7, second movement**
+1. Gabriel Fauré: **Requiem**
+    1. Introit et Kyrie
+    1. Offertory
+    1. Sanctus
+    1. Pie Jesu
+    1. Agnus Dei
+    1. Libera me
+    1. In Paradisum
+1. John Newton, arr. L. Thomas: **Amazing Grace**
+1. Ulrich Roever & Michael Korb: Highland Cathedral
+
+Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
+
+## Concerts of the 2022-2023 Season
 
 ### Swing into Spring!
 
