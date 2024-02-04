@@ -6,11 +6,12 @@ image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-# Next Concert
-
 ### Romance and Adventure
 
 #### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[Download complete program](/images/concerts/2024/2024-02-04 DVO program.pdf){: .btn .btn--accent}
+[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
 [![Romance and Adventure concert poster](/images/concerts/2024/poster-2024-02-04-small.png)](/images/concerts/2024/poster-2024-02-04.pdf)
 
@@ -34,9 +35,6 @@ Programme:
 1. Bernstein & Sondheim: **West Side Story - Selections for Orchestra**
 1. Styne & Merrill: **Don't Rain on My Parade** _(Callista Foti, soprano)_
 1. Badelt: **Pirates of the Caribbean**
-
-St. Paul's United Church will [livestream the concert at this page](https://stpaulsdundas.com/dvo).
-{: .notice--info}
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
