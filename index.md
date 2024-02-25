@@ -1,43 +1,17 @@
 ---
 layout: page
-title: Next concert — Sunday, February 4, 2024
+title: Next concert Sunday, May 26, 2024
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### Romance and Adventure
+### Symphonic Spotlight
 
-#### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+#### Sunday, May 26, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[Download complete program](/images/concerts/2024/2024-02-04 DVO program.pdf){: .btn .btn--accent}
-[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
-
-[![Romance and Adventure concert poster](/images/concerts/2024/poster-2024-02-04-small.png)](/images/concerts/2024/poster-2024-02-04.pdf)
-
-The DVO celebrates memorable movie music with romantic themes and rollicking adventure. Soprano soloist Callista Foti will be featured in this concert highlighting music from great westerns, musicals, romantic films and adventures like Indiana Jones, Harry Potter and Pirates of the Caribbean. We will also present this year's HAALSA Student Soloist, cellist Nirvaan Grewal who will perform F. J. Haydn's Concerto in C Major for cello.
-
-Featuring:
-
-- *Callista Foti, soprano*
-- *Nirvaan Grewal, cello* (HAALSA Student Soloist)
-
-Programme:
-
-1. Loewe & Lerner: **My Fair Lady - Selections for Orchestra**
-1. Menken: **Beauty and the Beast** _(Larry Allen, Associate Conductor)_
-1. Jones & Kahn: **It Had To Be You** _(Callista Foti, soprano)_
-1. Schifrin: **Mission: Impossible Theme**
-1. Haydn: ((Concerto in C Major)) _(Nirvaan Grewal, 'cello)_
-1. **Great Themes from Great Western Movies**
-1. Doyle & Williams: **Harry Potter and the Goblet of Fire** _(Larry Allen, Associate Conductor)_
-1. **You've Got a Friend in Me**
-1. Bernstein & Sondheim: **West Side Story - Selections for Orchestra**
-1. Styne & Merrill: **Don't Rain on My Parade** _(Callista Foti, soprano)_
-1. Badelt: **Pirates of the Caribbean**
-
-Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
-{: .notice--info}
+Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto No. 1.
+We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
 
 [More information about concerts past, present, and future →](/concerts)
 
@@ -45,9 +19,7 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 
 # Last concert video
 
-Requiem: Sunday, November 12, 2023 at 3pm at St. Paul's United Church
-
-<iframe src="https://player.vimeo.com/video/883735915?h=a04630180a&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/909844019?h=26ff8d9bdf&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ***
 

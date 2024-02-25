@@ -15,12 +15,41 @@ On this page:
 
 ## NEXT CONCERT
 
+### Symphonic Spotlight
+
+#### Sunday, May 26, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto No. 1.
+We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
+
+***
+
+## UPCOMING CONCERTS
+
+### Sight, Sound, Symphony!
+
+#### Sunday, November 3, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+In partnership with the Dundas Valley School of Art (DVSA).
+
+Featuring Live Art by Sandee Ewasiuk & a pre-concert art experience for families with Artist Keira McArthur, DVSA
+
+This one-hour concert is designed for families and children. Repertoire will include music by Copland, Villa-Lobos, Beethoven and Mussorgsky. Evocative projected images will accompany the repertoire. With the support of the pre-concert art experience, children in the audience will be encouraged make their own piece of art during one of the musical selections.
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2023-2024 Season
+
 ### Romance and Adventure
 
 #### Sunday, February 4, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [Download complete program](/images/concerts/2024/2024-02-04 DVO program.pdf){: .btn .btn--accent}
 [View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+<iframe src="https://player.vimeo.com/video/909844019?h=26ff8d9bdf&color=fff&byline=0&portrait=0" width="320" height="180" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 [![Romance and Adventure concert poster](/images/concerts/2024/poster-2024-02-04-small.png)](/images/concerts/2024/poster-2024-02-04.pdf)
 
@@ -47,23 +76,6 @@ Programme:
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
-
-### Symphonic Spotlight
-
-#### Sunday, May 26, 2024 at 3pm at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto #1.  We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2023-2024 Season
 
 ### Requiem
 
