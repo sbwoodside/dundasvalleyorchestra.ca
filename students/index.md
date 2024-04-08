@@ -23,12 +23,12 @@ Each season, the DVO makes a special award available the student members of our 
 
 Every year, the Hamilton Association for the Advancement of Literature, Science and Art (HAALSA), under the auspices of the Dundas Valley Orchestra (DVO), gives out an award to a young promising musician from the Greater Hamilton Area. The winner will receive a cash prize and will have the opportunity to perform with the DVO at one of its concerts. If teachers and students wish to express their interest please contact DVO at: [dvo.haalsa@gmail.com](mailto:dvo.haalsa@gmail.com)
 
-### 2023 contest information
+### 2024 contest information
 
-* Application deadline: **April 30, 2023**
-* [Criteria for Nominees](/images/competition/2023/DVO-HAALSA Award Criteria for Nominee 2023.docx)
-* [Nomination Form](/images/competition/2023/DVO-HAALSA Award Nomination Form 2023.docx)
-* [Contest poster](/images/competition/2023/DVO HAALSA Award Poster 2023.pdf)
+* Application deadline: **April 30, 2024**
+* [Criteria for Nominees](/images/competition/2024/DVO-HAALSA Award Criteria for Nominee 2024.docx)
+* [Nomination Form](/images/competition/2024/DVO-HAALSA Award Nomination Form 2024.docx)
+* [Contest poster](/images/competition/2024/DVO HAALSA Award Poster 2024.pdf)
 
 ### DVO-HAALSA Young Musician Winners
 
