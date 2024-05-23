@@ -19,8 +19,35 @@ On this page:
 
 #### Sunday, May 26, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[Download complete program](/images/concerts/2024/2024-05-26 DVO program.pdf){: .btn .btn--accent}
+[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+[![Symphonic Spotlight concert poster](/images/concerts/2024/poster-2024-05-26-small.png)](/images/concerts/2024/poster-2024-05-26.pdf)
+
 Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto No. 1.
 We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
+
+Featuring:
+
+- *Michael Westwood, clarinet*
+- *Christiaan VanZyl, composer*
+
+Programme:
+
+1. Carl Maria von Weber: **Overture and Act II March for Turandot, op. 37**
+1. Christiaan VanZyl: **Scenes from the Summit** *(Premiere performance, DVO Student Composer Competition 2024 winner)*
+1. Louis Spohr: **Clarinet concerto no. 1, op. 26** *(Michael Westwood, clarinet)*
+    1. Adagio — Allegro
+    1. Adagio
+    1. Rondo (Vivace)
+1. Robert Schumann: **Symphony no. 4 in d minor, op. 120**
+    1. Andante con moto — Allegro di molto 
+    1. Romanza: Andante
+    1. Scherzo: Presto
+    1. Largo — Finale: Allegro vivace
+
+Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
 
 ***
 
