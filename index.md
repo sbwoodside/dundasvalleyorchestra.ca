@@ -1,52 +1,31 @@
 ---
 layout: page
-title: Next concert Sunday, May 26, 2024
+title: Next concert Sunday, November 3, 2024
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### Symphonic Spotlight
+### Sight, Sound, Symphony! – Sunday, November 3, 2024
 
-#### Sunday, May 26, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[Download complete program](/images/concerts/2024/2024-05-26 DVO program.pdf){: .btn .btn--accent}
-[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+- In partnership with The Dundas Valley School of the Arts
+- Sandee Ewasiuk, Guest Artist
+- *Pre-concert Program for young people with Keira McArthur*
 
-[![Symphonic Spotlight concert poster](/images/concerts/2024/poster-2024-05-26-small.png)](/images/concerts/2024/poster-2024-05-26.pdf)
-
-Enjoy a concert that will spotlight many of the DVO’s wonderful musicians including clarinetist Michael Westwood on Spohr’s Clarinet Concerto No. 1.
-We will also present our Student Composer Competition winning piece and Schumann’s Symphony No. 4.
-
-Featuring:
-
-- *Michael Westwood, clarinet*
-- *Christiaan VanZyl, composer*
-
-Programme:
-
-1. Carl Maria von Weber: **Overture and Act II March for Turandot, op. 37**
-1. Christiaan VanZyl: **Scenes from the Summit** *(Premiere performance, DVO Student Composer Competition 2024 winner)*
-1. Louis Spohr: **Clarinet concerto no. 1, op. 26** *(Michael Westwood, clarinet)*
-    1. Adagio — Allegro
-    1. Adagio
-    1. Rondo (Vivace)
-1. Robert Schumann: **Symphony no. 4 in d minor, op. 120**
-    1. Andante con moto — Allegro di molto 
-    1. Romanza: Andante
-    1. Scherzo: Presto
-    1. Largo — Finale: Allegro vivace
+The DVO and the DVSA team up to present a performance for the eyes and the ears! Music by Copland, Beethoven, Mussorgsky and others will demonstrate the imaginative visual aspects of music. Sandee Ewasiuk will paint during the performance, accompanied by the orchestra. The audience will then be invited to do the same. This concert has been planned to be very accessible to young people and kids of all ages and is supported by the Dougher Community Fund.
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
-[More information about concerts past, present, and future →](/concerts)
+[MORE CONCERTS ▶](/concerts){: .btn .btn--accent}
 
 ***
 
 # Last concert video
 
-<iframe src="https://player.vimeo.com/video/909844019?h=26ff8d9bdf&color=fff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/950514579?h=247f3839c4&color=fff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ***
 

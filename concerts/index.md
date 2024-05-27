@@ -15,9 +15,55 @@ On this page:
 
 ## NEXT CONCERT
 
+### Sight, Sound, Symphony! – Sunday, November 3, 2024
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+- In partnership with The Dundas Valley School of the Arts
+- Sandee Ewasiuk, Guest Artist
+- *Pre-concert Program for young people with Keira McArthur*
+
+The DVO and the DVSA team up to present a performance for the eyes and the ears! Music by Copland, Beethoven, Mussorgsky and others will demonstrate the imaginative visual aspects of music. Sandee Ewasiuk will paint during the performance, accompanied by the orchestra. The audience will then be invited to do the same. This concert has been planned to be very accessible to young people and kids of all ages and is supported by the Dougher Community Fund.
+
+Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
+
+***
+
+## UPCOMING CONCERTS
+
+### Centuries of Dance
+
+#### Sunday, February 16, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a cham- ber group from our Chamber Ensembles Program.
+
+### From The New World
+
+#### Sunday, May 25, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto no. 2*.
+
+
+
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2023-2024 Season
+
 ### Symphonic Spotlight
 
 #### Sunday, May 26, 2024 at 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+View the concert livestream recording:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/950514579?h=247f3839c4&color=fff&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [Download complete program](/images/concerts/2024/2024-05-26 DVO program.pdf){: .btn .btn--accent}
 [View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
@@ -48,49 +94,6 @@ Programme:
 
 Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
-### Sight, Sound, Symphony!
-
-#### Sunday, November 3, 2024
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-In partnership with The Dundas Valley School of the Arts
-
-Sandee Ewasiuk, Guest Artist
-
-*Pre-concert Program for young people with Keira McArthur*
-
-The DVO and the DVSA team up to present a performance for the eyes and the ears! Music by Copland, Beethoven, Mussorgsky and others will demonstrate the imaginative visual aspects of music. Sandee Ewasiuk will paint during the performance, accompanied by the orchestra. The audience will then be invited to do the same. This concert has been planned to be very accessible to young people and kids of all ages and is supported by the Dougher Community Fund.
-
-### Centuries of Dance
-
-#### Sunday, February 16, 2025
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a cham- ber group from our Chamber Ensembles Program.
-
-### From The New World
-
-#### Sunday, May 25, 2025
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto no. 2*.
-
-
-
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2023-2024 Season
 
 ### Romance and Adventure
 
