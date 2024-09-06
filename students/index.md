@@ -25,7 +25,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### 2025 contest information
 
-* Application deadline: **April 30, 2025**
+* Application deadline: **April 15, 2025**
 * [Criteria for Nominees](/images/competition/2025/DVO-HAALSA Award Criteria for Nominee 2025.docx)
 * [Nomination Form](/images/competition/2025/DVO-HAALSA Award Nomination Form 2025.docx)
 * [Contest poster](/images/competition/2025/DVO HAALSA Award Poster 2025.pdf)
