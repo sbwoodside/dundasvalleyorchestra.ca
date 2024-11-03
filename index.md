@@ -10,6 +10,8 @@ image:
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
 - In partnership with The Dundas Valley School of the Arts
 - Sandee Ewasiuk, Guest Artist
 - *Pre-concert Program for young people with Keira McArthur*
