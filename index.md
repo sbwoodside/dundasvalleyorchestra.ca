@@ -1,24 +1,23 @@
 ---
 layout: page
-title: Next concert Sunday, November 3, 2024
+title: Next concert Sunday, November 24, 2024
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### Sight, Sound, Symphony! – Sunday, November 3, 2024
+### The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert – Sunday, November 24, 2024
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
-- In partnership with The Dundas Valley School of the Arts
-- Sandee Ewasiuk, Guest Artist
-- *Pre-concert Program for young people with Keira McArthur*
+[![The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert concert poster](/images/concerts/2024/poster-2024-11-24.jpg)](/images/concerts/2024/poster-2024-11-24.pdf)
 
-The DVO and the DVSA team up to present a performance for the eyes and the ears! Music by Copland, Beethoven, Mussorgsky and others will demonstrate the imaginative visual aspects of music. Sandee Ewasiuk will paint during the performance, accompanied by the orchestra. The audience will then be invited to do the same. This concert has been planned to be very accessible to young people and kids of all ages and is supported by the Dougher Community Fund.
+Featuring members of the Dundas Valley Orchestra
 
-Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more. DVO is comprised of talented amateur musicians from the Hamilton area. The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+Pay what you like.
+The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
 [MORE CONCERTS ▶](/concerts){: .btn .btn--accent}
