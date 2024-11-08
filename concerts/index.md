@@ -33,24 +33,23 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ## UPCOMING CONCERTS
 
-### Centuries of Dance
-
-#### Sunday, February 16, 2025
+### Centuries of Dance – Sunday, February 16, 2025
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a cham- ber group from our Chamber Ensembles Program.
+Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a chamber group from our Chamber Ensembles Program.
 
-### From The New World
-
-#### Sunday, May 25, 2025
+### From The New World – Sunday, May 25, 2025
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto no. 2*.
+Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
 
+### Peace – Sunday, June 22
 
+**7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
+The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The perform- ance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
 
 ***
 
