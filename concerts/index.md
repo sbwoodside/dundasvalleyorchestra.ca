@@ -71,8 +71,11 @@ The DVO and Chorus Hamilton will join forces again to present a peace themed con
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[View concert livestream recording](https://vimeo.com/1025882868){: .btn .btn--accent}
+
+<div style="padding: 56.25% 0px 0px; position: relative; margin-bottom: 2em !important;"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1025882868?h=53d0dec84d" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 [Download complete program](/images/concerts/2024/2024-11-03 DVO program.pdf){: .btn .btn--accent}
-[View concert livestream](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
 [![The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert concert poster](/images/concerts/2024/poster-2024-11-03-small.jpg)](/images/concerts/2024/poster-2024-11-03-small.jpg)
 
