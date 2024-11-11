@@ -15,7 +15,7 @@ On this page:
 
 ## NEXT CONCERT
 
-### The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert – Sunday November 24, 2024
+### The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert – Sunday, November 24, 2024
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
