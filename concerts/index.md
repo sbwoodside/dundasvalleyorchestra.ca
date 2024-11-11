@@ -83,6 +83,7 @@ The DVO and Chorus Hamilton will join forces again to present a peace themed con
 - Sandee Ewasiuk, Guest Artist
 - *Pre-concert Program for young people with Keira McArthur*
 
+Programme:
 
 1. Aaron Copland: **Rodeo**
     - **Hoe Down**
@@ -199,6 +200,8 @@ Supported by the Dougher Community Fund.
 - *Chorus Hamilton; David Holler, Artistic Director*
 - *Dundas Pipes and Drums*
 
+Programme:
+
 1. William Robb: **When the Battle's O'er**
 1. Ludwig van Beethoven: **Symphony No. 7, second movement**
 1. Gabriel Fauré: **Requiem**
@@ -234,6 +237,8 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 Our long-awaited concert featuring music of the big bands is back! The DVO will present a concert of music from the big band era — toe-tapping swing, nostalgic ballads, beautiful melodies and infectious rhythms. Guest clarinetist, Ross Wooldridge, and guest vocalist, Sarena Paton, will join us to pay tribute to the dynamic soloists of the day.
 
 [Complete Program (PDF)](/images/concerts/2023/2023-05-28 DVO program.pdf){: .btn .btn--accent}
+
+Programme:
 
 1. arr. Calvin Custer: **A Salute to the Big Bands**
     - April in Paris • I’m Getting Sentimental Over You • Pennsylvania 6-5000 • Serenade in Blue • Sing Sing Sing
