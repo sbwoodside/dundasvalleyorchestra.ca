@@ -30,9 +30,9 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ***
 
-# 2024 Student Composer Competition
+# 2025 Student Composer Competition
 
-[2024 Call for Submissions (PDF)](/images/competition/2023/Call for Submissions SCC 2024.pdf)
+[2025 Call for Submissions (PDF)](/images/competition/2025/Call for Submissions SCC 2025.pdf)
 
 The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
 
