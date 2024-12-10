@@ -41,11 +41,11 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 ### Elected board members
 
 | President | Jeff Reynolds |
-| Vice President | Lianne Tan |
-| Past President | Brenda Hurlburt |
-| Treasurer | Lynne Calnek |
+| Vice President | Michael Westwood |
+| Past President | Lianne Tan |
+| Treasurer | Sharon Millar |
 | Secretary | Jim Jones |
-| Members at Large | Rudin Knights, Brian Liberty, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn |
+| Members at Large | Brenda Hurlburt, Rudin Knights, Brian Liberty, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn, Andrea Bandow |
 
 ### Ex-Officio Board Members
 
