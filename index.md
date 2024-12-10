@@ -24,9 +24,9 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 # Last concert video
 
-[View concert livestream recording](https://vimeo.com/1025882868){: .btn .btn--accent}
+[View concert  recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax){: .btn .btn--accent}
 
-<div style="padding: 56.25% 0px 0px; position: relative; margin-bottom: 2em !important;"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1025882868?h=53d0dec84d" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=IIJ5l6KU32nGlJ2m&amp;list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 

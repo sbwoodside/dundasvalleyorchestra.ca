@@ -52,6 +52,11 @@ The DVO and Chorus Hamilton will join forces again to present a peace themed con
 ### The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert – Sunday, November 24, 2024
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[View concert  recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax){: .btn .btn--accent}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=IIJ5l6KU32nGlJ2m&amp;list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [![The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert concert poster](/images/concerts/2024/poster-2024-11-24.jpg)](/images/concerts/2024/poster-2024-11-24.pdf)
 
 The DVO is excited to present its first Nancy Cassals Christmas chamber music concert! Nancy Cassals has been a pillar of the music community in Dundas for many years, and the DVO is pleased to be continuing the tradition she began in Dundas many years ago. Forty years ago, Nancy organised a popular chamber music concert at Christmastime and continued to do so every year since. With her retirement from this wonderful tradition, the DVO is continuing this yearly concert in her name as a tribute to such a wonderful musician and supporter of music in Dundas. Thank you, Nancy!
