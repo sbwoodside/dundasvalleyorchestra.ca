@@ -32,6 +32,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### DVO-HAALSA Young Musician Winners
 
+* 2024 - Sohan Mukherjee
 * 2023 - Victoria Zeng, Piano
 * 2022 - Nirvaan Grewal, Cello
 * 2021 - Gabriel Klassen, Voice
@@ -41,6 +42,12 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * 2017 - Amelia McNiven Fontani, Violin
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
+
+#### 2024 DVO-HAALSA Young Musician winner: Sohan Mukherjee
+
+![Sohan Mukherjee](/images/competition/2024/2024-Sohan%20Mukherjee.jpeg)
+
+Sohan Mukherjee is a Grade 5 student attending Greensville Elementary School in Dundas, Ontario.  He is an aspiring young musician with a passion for playing classical music on the violin since the age of 7 and piano since the age of 3.  Sohan is an active member of the senior Cricket Chamber Orchestra in Dundas, Ontario and has had experience playing as a soloist in the orchestra since 2022. He has completed the Royal Conservatory of Music (RCM) grade two certification in violin and grade two RCM certification in piano with First Class Honours with Distinction. At the 2024 Guelph Kiwanis Festival, Sohan was selected as a provincial nominee for the Ontario Kiwanis Festival Competition in piano and awarded a music scholarship.  He also received a platinum award in violin at the 2023 Toronto Kiwanis Festival.  His love of music outside of violin and piano extends to the ukulele, recorder and singing in the Greensville Elementary School choir.  In his free time, Sohan enjoys playing ball hockey, swimming and skiing.
 
 #### 2023 DVO-HAALSA Young Musician winner: Victoria Zeng
 
