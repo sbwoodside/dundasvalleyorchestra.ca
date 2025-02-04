@@ -21,7 +21,24 @@ On this page:
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
+[![Centuries of Dance concert poster](/images/concerts/2025/poster-2025-02-16.jpg)](/images/concerts/2025/poster-2025-02-16.pdf)
+
 Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a chamber group from our Chamber Ensembles Program.
+
+Programme:
+
+1. Edward German: Three Dances from Henry VIII
+2. Manuel de Falla: Ritual Fire Dance
+3. Béla Bartók: Rumanian Dances
+4. Johann Strauss, Jr.: Pizzicato Polka
+5. Piotr I. Tchaikovsky: Sleeping Beauty Waltz
+6. Aleksandr Borodin: Polovtsian Dances
+7. arr. Laura Thomas: My Home-Pipers Cave-High Road to Linton (Reel set) featuring the DVO Celtic Ensemble
+8.  Leroy Anderson: Blue Tango
+9.  Elton John, arr. John Cerulli: Crocodile Rock
+10. Ronan Hardiman, arr. Larry Moore: Lord of the Dance
+11. Dmitri Schostakovich: Waltz No. 2
+12. Aram Khachaturian: Sabre Dance
 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
@@ -53,7 +70,7 @@ The DVO and Chorus Hamilton will join forces again to present a peace themed con
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[View concert  recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax){: .btn .btn--accent}
+[View concert recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax){: .btn .btn--accent}
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=IIJ5l6KU32nGlJ2m&amp;list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
