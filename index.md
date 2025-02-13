@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Next concert Sunday, February 16, 2025
+title: Next concert POSTPONED – Date TBA
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### Centuries of Dance – Sunday, February 16, 2025
+### Centuries of Dance – POSTPONED – Date TBA
+
+Update Thursday February 13, 2025: The concert is **postponed** due to the predicted weather and will no longer be held on February 16. A new concert date will be announced shortly.
+{: .notice--warning}
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
