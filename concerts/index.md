@@ -15,16 +15,14 @@ On this page:
 
 ## NEXT CONCERT
 
-### Centuries of Dance – POSTPONED – Date TBA
+### Centuries of Dance – RESCHEDULED – Saturday March 22nd at 7pm
 
-Update Thursday February 13, 2025: The concert is **postponed** due to the predicted weather and will no longer be held on February 16. A new concert date will be announced shortly.
+Update: The concert is rescheduled due to weather. The new concert date is **Saturday** March 22nd at 7pm. Note the different day of the week and time.
 {: .notice--warning}
 
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+**7pm** at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
-
-[![Centuries of Dance concert poster](/images/concerts/2025/poster-2025-02-16.jpg)](/images/concerts/2025/poster-2025-02-16.pdf)
 
 Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a chamber group from our Chamber Ensembles Program.
 
