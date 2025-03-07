@@ -61,7 +61,7 @@ Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiratio
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
-The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The perform- ance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
+The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The performance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
 
 ***
 
