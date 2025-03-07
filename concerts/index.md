@@ -24,6 +24,8 @@ Update: The concert is rescheduled due to weather. The new concert date is **Sat
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
+[![Centuries of Dance concert poster](/images/concerts/2025/poster-2025-03-22.png)](/images/concerts/2025/poster-2025-03-22.pdf)
+
 Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a chamber group from our Chamber Ensembles Program.
 
 Programme:
