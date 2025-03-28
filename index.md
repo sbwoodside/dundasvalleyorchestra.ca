@@ -1,41 +1,18 @@
 ---
 layout: page
-title: Next concert RESCHEDULED – Saturday March 22nd at 7pm
+title: Next concert Sunday, May 25, 2025
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### Centuries of Dance – RESCHEDULED – Saturday March 22nd at 7pm
+### From The New World – Sunday, May 25, 2025
 
-Update: The concert is rescheduled due to weather. The new concert date is **Saturday** March 22nd at 7pm. Note the different day of the week and time.
-{: .notice--warning}
-
-**7pm** at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
-[Download complete program](/images/concerts/2025/2025-03-22 DVO program.pdf){: .btn .btn--accent}
-(note program has previous date)
-
-[![Centuries of Dance concert poster](/images/concerts/2025/poster-2025-03-22.png)](/images/concerts/2025/poster-2025-03-22.pdf)
-
-Music and dance have always been performed together and the DVO is going to celebrate this artistic mixture—from polka to celtic, rock to tango! Hear *The Sleeping Beauty Waltz*, *Polovetsian Dances*, *Crocodile Rock* and *Sabre Dance*. Special guests: the DVO Celtic Ensemble, a chamber group from our Chamber Ensembles Program.
-
-Programme:
-
-1. Edward German: Three Dances from Henry VIII
-2. Manuel de Falla: Ritual Fire Dance
-3. Béla Bartók: Rumanian Dances
-4. Johann Strauss, Jr.: Pizzicato Polka
-5. Piotr I. Tchaikovsky: Sleeping Beauty Waltz
-6. Aleksandr Borodin: Polovtsian Dances
-7. arr. Laura Thomas: My Home-Pipers Cave-High Road to Linton (Reel set) featuring the DVO Celtic Ensemble
-8.  Leroy Anderson: Blue Tango
-9.  Elton John, arr. John Cerulli: Crocodile Rock
-10. Ronan Hardiman, arr. Larry Moore: Lord of the Dance
-11. Dmitri Schostakovich: Waltz No. 2
-12. Aram Khachaturian: Sabre Dance
+Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
@@ -47,9 +24,9 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 # Last concert video
 
-[View concert  recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax){: .btn .btn--accent}
+[View concert livestream recording](https://vimeo.com/1068327335){: .btn .btn--accent}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=IIJ5l6KU32nGlJ2m&amp;list=PLnkv37XcSBcTHAvgxmZpsipUtsHbgB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1068327335?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dundas Valley Orchestra - March 22, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ***
 

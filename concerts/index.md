@@ -15,14 +15,44 @@ On this page:
 
 ## NEXT CONCERT
 
-### Centuries of Dance – RESCHEDULED – Saturday March 22nd at 7pm
+### From The New World – Sunday, May 25, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
+
+Pay what you like.
+The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
+
+***
+
+## UPCOMING CONCERTS
+
+### Peace – Sunday, June 22
+
+**7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
+
+The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The performance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2024-2025 Season
+
+### Centuries of Dance – rescheduled – Saturday March 22nd at 7pm
 
 Update: The concert is rescheduled due to weather. The new concert date is **Saturday** March 22nd at 7pm. Note the different day of the week and time.
 {: .notice--warning}
 
 **7pm** at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+[View concert livestream recording](https://vimeo.com/1068327335){: .btn .btn--accent}
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1068327335?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dundas Valley Orchestra - March 22, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [Download complete program](/images/concerts/2025/2025-03-22 DVO program.pdf){: .btn .btn--accent}
 (note program has previous date)
@@ -49,28 +79,6 @@ Programme:
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
-### From The New World – Sunday, May 25, 2025
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
-
-### Peace – Sunday, June 22
-
-**7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
-
-The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The performance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2024-2025 Season
 
 ### The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert – Sunday, November 24, 2024
 
