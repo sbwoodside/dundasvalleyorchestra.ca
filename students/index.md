@@ -51,9 +51,31 @@ Sohan Mukherjee is a Grade 5 student attending Greensville Elementary School in 
 
 #### 2023 DVO-HAALSA Young Musician winner: Victoria Zeng
 
-![Victoria Zeng](/images/competition/2023-Victoria Zeng.jpg)
+![Victoria Zeng](/images/competition/2025/2023-Victoria%20Zeng%20in%202025.jpeg)
 
-Victoria Zeng is a dedicated pianist studying under the tutelage of Lang-Ning Liu at the Phil and Eli Taylor Academy of the Royal Conservatory of Music. She is passionate about her craft, and enjoys exploring and broadening her perspectives within all facets of music. She has had the pleasure of working with many respected professors, including Stanislav Ioudenitch, Alan Hobbins, Robert Shannon, Stewart Goodyear, and Haewon Song, among others. Victoria has also won awards and participated in many festivals, competitions, and programs, most notably the Claudette Sorel Fellows Program, Oberlin Piano Festival, CMC National Competition, OYMI Competition, as well as being invited to the Amalfi Coast Festival, and the PYPA Festival as a Program Young Artist. She is the current pianist of the Oakville Symphony Youth Orchestra, as well as the Westmount Jazz Ensemble. Outside of her musical pursuits, Victoria enjoys going skiing, taking pictures, and is an avid mindfulness enthusiast.
+*Note: Photo and biography updated for 2025 performance*
+
+Victoria Zeng is a dedicated pianist currently studying with Lang-Ning Liu at the Phil and
+Eli Taylor Academy of the Royal Conservatory of Music. She is passionate about her craft
+and is always looking for new ways to deepen her understanding of music, both on and off
+the stage.
+
+In 2024-2025, Victoria will have the privilege of performing at Carnegie Hall in New York,
+Koerner Hall in Toronto, and The Meridian Arts Centre with Sinfonia Toronto, among other
+venues. Her musical achievements have earned her accolades in competitions like the
+Canadian Chopin Competition, the Hartford Chopin Competition, Music International
+Grand Prix, and the Classical Stars International Competition. She has also been fortunate
+enough to attend the Frost Chopin Festival, Vivace Music Festival, and the Inaugural
+Mannes Piano Festival on scholarship.
+
+Victoria’s musical journey has been shaped by the guidance of several renowned mentors,
+including Jeremy Denk, Vladimir Feltsman, Stanislav Ioudenitch, John O’Conor, Stewart
+Goodyear, Marina Lomazov, and Dina Yoffe. Previously, she also studied with Alexei
+Gulenco and Tanya Gernburd.
+
+When she’s not at the piano, Victoria can be found watching MasterChef, skiing, or
+perpetually clearing out her phone storage to make room for her ever-growing photo
+collection.
 
 #### 2022 DVO-HAALSA Young Musician winner: Nirvaan Grewal
 
