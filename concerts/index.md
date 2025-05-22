@@ -50,7 +50,23 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
-The DVO and Chorus Hamilton will join forces again to present a peace themed concert at the Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams’ *Dona Nobis Pacem (Grant Us Peace)*, written and first performed in 1936 as Europe reflected on the horrors of the First World War and feared the possibility of a second. The performance will take place in the main hangar of the museum, surrounded by historical airplanes and educational exhibits. This special event is sup- ported by the incite Foundation.
+On Sunday June 22th, at the Canadian Warplane Heritage Museum, enjoy an evening of music dedicated to Peace, featuring the Dundas Valley Orchestra and Chorus Hamilton.
+
+The DVO and Chorus Hamilton will join forces to present a peace themed concert at the Canadian Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams *Dona Nobis Pacem* (Grant us Peace). This was written and first performed in 1936 as Europe reflected on the horrors of World War I and feared the possibility of a second. The performance will take place in the main hanger of the Museum, where you will be surrounded by historical planes and educational exhibits.
+
+This special event is sponsored by the incite Foundation.
+
+- Doors open to ticket holders at 5 p.m., allowing the opportunity to wander the museum, gift shop and exhibits. With the museum closed to the public, you will have time to look at these amazingly restored planes, most that still fly to this day. 
+- The concert itself will start at 7:00 p.m.
+- There will be a cash refreshment area open to concert attendees as well.
+- Tickets are $20.00 per person.
+- Children under the age of 12 are free.
+- Parking is free.
+
+[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
+
+
+Tickets are also available at the door.
 
 ***
 
