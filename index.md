@@ -10,6 +10,9 @@ image:
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+Please note that the Lincoln M. Alexander Parkway [will be closed all weekend](https://www.hamilton.ca/alert/linc-maintenance-weekend-may-23-26).
+{: .notice}
+
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
 [![From The New World concert poster](/images/concerts/2025/poster-2025-05-25.jpg)](/images/concerts/2025/poster-2025-05-25.pdf)
