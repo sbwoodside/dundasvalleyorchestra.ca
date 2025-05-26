@@ -15,36 +15,6 @@ On this page:
 
 ## NEXT CONCERT
 
-### From The New World – Sunday, May 25, 2025
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
-
-[Download complete program](/images/concerts/2025/2025-05-25%20DVO%20program.pdf){: .btn .btn--accent}
-
-[![From The New World concert poster](/images/concerts/2025/poster-2025-05-25.jpg)](/images/concerts/2025/poster-2025-05-25.pdf)
-
-Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
-
-Programme:
-
-1. Aaron Copland: **Fanfare for the Common Man**
-2. Gabriela Ortiz: **Kauyumari**
-3. Benjamin Fraser: **The Storm**
-4. Sergei Rachmaninoff: **Concerto No. 2, Op. 18; Mvt. 1**
-5. Antonín Dvořák: **Symphony No. 9 (“From the New World”)**
-
-*“The Storm” by Benjamin Fraser is the 2025 DVO Student Composer Competition winning composition.  The DVO gratefully acknowledges the financial support of the Student Composer Competition by Dr. Peter Banting.*
-
-Pay what you like.
-The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
-{: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
 ### Peace – Sunday, June 22
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
@@ -65,13 +35,42 @@ This special event is sponsored by the incite Foundation.
 [🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
 
 
-Tickets are also available at the door.
 
 ***
 
 ## PAST CONCERTS
 
 ## Concerts of the 2024-2025 Season
+
+### From The New World – Sunday, May 25, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[View concert livestream recording](https://vimeo.com/1087523961){: .btn .btn--accent}
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1087523961#t=1m30s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dundas Valley Orchestra - March 22, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+[Download complete program](/images/concerts/2025/2025-05-25%20DVO%20program.pdf){: .btn .btn--accent}
+
+[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+[![From The New World concert poster](/images/concerts/2025/poster-2025-05-25.jpg)](/images/concerts/2025/poster-2025-05-25.pdf)
+
+Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
+
+Programme:
+
+1. Aaron Copland: **Fanfare for the Common Man**
+2. Gabriela Ortiz: **Kauyumari**
+3. Benjamin Fraser: **The Storm**
+4. Sergei Rachmaninoff: **Concerto No. 2, Op. 18; Mvt. 1**
+5. Antonín Dvořák: **Symphony No. 9 (“From the New World”)**
+
+*“The Storm” by Benjamin Fraser is the 2025 DVO Student Composer Competition winning composition.  The DVO gratefully acknowledges the financial support of the Student Composer Competition by Dr. Peter Banting.*
+
+Pay what you like.
+The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
 
 ### Centuries of Dance – rescheduled – Saturday March 22nd at 7pm
 

@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Next concert Sunday, May 25, 2025
+title: Next concert Sunday, June 22, 2025
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/DVO2013Jan-crop.jpg
 ---
 
-### From The New World – Sunday, May 25, 2025
+### Peace – Sunday, June 22
 
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+**7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
-[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+On Sunday June 22th, at the Canadian Warplane Heritage Museum, enjoy an evening of music dedicated to Peace, featuring the Dundas Valley Orchestra and Chorus Hamilton.
 
-[Download complete program](/images/concerts/2025/2025-05-25%20DVO%20program.pdf){: .btn .btn--accent}
+The DVO and Chorus Hamilton will join forces to present a peace themed concert at the Canadian Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams *Dona Nobis Pacem* (Grant us Peace). This was written and first performed in 1936 as Europe reflected on the horrors of World War I and feared the possibility of a second. The performance will take place in the main hanger of the Museum, where you will be surrounded by historical planes and educational exhibits.
 
-[![From The New World concert poster](/images/concerts/2025/poster-2025-05-25.jpg)](/images/concerts/2025/poster-2025-05-25.pdf)
+This special event is sponsored by the incite Foundation.
 
-Dvořák’s popular Symphony no. 9, “From the New World”, is the inspiration for this concert focusing on music from the Americas. Copland’s *Fanfare for the Common Man* will showcase the DVO Brass and Percussion sections. The DVO will also present *Kauyumari* by Mexican composer Gabriela Ortiz, as well as the winning composition from our 2025 Student Composer Competition. Talented young pianist, Victoria Zeng, our 2023 DVO-HAALSA Young Musician award winner, will perform the first movement of *Rachmaninoff’s Piano Concerto No. 2*.
+- Doors open to ticket holders at 5 p.m., allowing the opportunity to wander the museum, gift shop and exhibits. With the museum closed to the public, you will have time to look at these amazingly restored planes, most that still fly to this day. 
+- The concert itself will start at 7:00 p.m.
+- There will be a cash refreshment area open to concert attendees as well.
+- Tickets are $20.00 per person.
+- Children under the age of 12 are free.
+- Parking is free.
 
-Programme:
-
-1. Aaron Copland: **Fanfare for the Common Man**
-2. Gabriela Ortiz: **Kauyumari**
-3. Benjamin Fraser: **The Storm**
-4. Sergei Rachmaninoff: **Concerto No. 2, Op. 18; Mvt. 1**
-5. Antonín Dvořák: **Symphony No. 9 (“From the New World”)**
-
-*“The Storm” by Benjamin Fraser is the 2025 DVO Student Composer Competition winning composition.  The DVO gratefully acknowledges the financial support of the Student Composer Competition by Dr. Peter Banting.*
-
-Pay what you like.
-The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
-{: .notice--info}
+[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
 
 [MORE CONCERTS ▶](/concerts){: .btn .btn--accent}
 
