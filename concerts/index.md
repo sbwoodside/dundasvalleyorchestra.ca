@@ -19,6 +19,10 @@ On this page:
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
+[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
+
+[![DVO Peace concert poster](/images/concerts/2025/poster-2025-06-22.jpg)](/images/concerts/2025/poster-2025-06-22.pdf)
+
 On Sunday June 22th, at the Canadian Warplane Heritage Museum, enjoy an evening of music dedicated to Peace, featuring the Dundas Valley Orchestra and Chorus Hamilton.
 
 The DVO and Chorus Hamilton will join forces to present a peace themed concert at the Canadian Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams *Dona Nobis Pacem* (Grant us Peace). This was written and first performed in 1936 as Europe reflected on the horrors of World War I and feared the possibility of a second. The performance will take place in the main hanger of the Museum, where you will be surrounded by historical planes and educational exhibits.
