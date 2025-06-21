@@ -19,7 +19,7 @@ On this page:
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
-[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
+[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent} Tickets are also available at the door.
 
 [Download complete program for Peace concert](/images/concerts/2025/2025-06-22%20DVO%20program.pdf){: .btn .btn--accent}
 
