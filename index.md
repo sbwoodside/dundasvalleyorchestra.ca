@@ -12,6 +12,8 @@ image:
 
 [🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
 
+[Download complete program for Peace concert](/images/concerts/2025/2025-06-22%20DVO%20program.pdf){: .btn .btn--accent}
+
 [![DVO Peace concert poster](/images/concerts/2025/poster-2025-06-22.jpg)](/images/concerts/2025/poster-2025-06-22.pdf)
 
 On Sunday June 22th, at the Canadian Warplane Heritage Museum, enjoy an evening of music dedicated to Peace, featuring the Dundas Valley Orchestra and Chorus Hamilton.
