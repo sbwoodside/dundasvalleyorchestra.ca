@@ -1,35 +1,16 @@
 ---
 layout: page
-title: Next concert Sunday, June 22, 2025
+title: Next concert Sunday, November 9, 2025
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/photos/2024-25 group picture cropped.jpeg
 ---
 
-### Peace – Sunday, June 22
+### Our Space Odyssey – Sunday, November 9, 2025
 
-**7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent} Tickets are also available at the door.
-
-[Download complete program for Peace concert](/images/concerts/2025/2025-06-22%20DVO%20program.pdf){: .btn .btn--accent}
-
-[![DVO Peace concert poster](/images/concerts/2025/poster-2025-06-22.jpg)](/images/concerts/2025/poster-2025-06-22.pdf)
-
-On Sunday June 22th, at the Canadian Warplane Heritage Museum, enjoy an evening of music dedicated to Peace, featuring the Dundas Valley Orchestra and Chorus Hamilton.
-
-The DVO and Chorus Hamilton will join forces to present a peace themed concert at the Canadian Warplane Heritage Museum. The concert will feature Ralph Vaughan Williams *Dona Nobis Pacem* (Grant us Peace). This was written and first performed in 1936 as Europe reflected on the horrors of World War I and feared the possibility of a second. The performance will take place in the main hanger of the Museum, where you will be surrounded by historical planes and educational exhibits.
-
-This special event is sponsored by the incite Foundation.
-
-- Doors open to ticket holders at 5 p.m., allowing the opportunity to wander the museum, gift shop and exhibits. With the museum closed to the public, you will have time to look at these amazingly restored planes, most that still fly to this day. 
-- The concert itself will start at 7:00 p.m.
-- There will be a cash refreshment area open to concert attendees as well.
-- Tickets are $20.00 per person.
-- Children under the age of 12 are free.
-- Parking is free.
-
-[🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
+Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
 
 [MORE CONCERTS ▶](/concerts){: .btn .btn--accent}
 

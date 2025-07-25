@@ -15,6 +15,36 @@ On this page:
 
 ## NEXT CONCERT
 
+### Our Space Odyssey – Sunday, November 9, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
+
+***
+
+## UPCOMING CONCERTS
+
+### 2025-26 Season
+
+### Celebration of Black History – Sunday, February 1, 2026
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature music that reflects a broad range of styles, genres and time periods by composers and songwriters of the African diaspora.
+
+### The DVO plays Mahler! – Sunday, May 31, 2026
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2024-2025 Season
+
 ### Peace – Sunday, June 22
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
@@ -39,36 +69,6 @@ This special event is sponsored by the incite Foundation.
 - Parking is free.
 
 [🎟️ Purchase concert tickets](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/events/dvo-peace/){: .btn .btn--accent}
-
-***
-
-## UPCOMING CONCERTS
-
-### 2025-26 Season
-
-### Our Space Odyssey – Sunday November 9, 2025
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
-
-### Celebration of Black History – Sunday, February 1, 2026
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature music that reflects a broad range of styles, genres and time periods by composers and songwriters of the African diaspora.
-
-### The DVO plays Mahler! – Sunday, May 31, 2026
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2024-2025 Season
 
 ### From The New World – Sunday, May 25, 2025
 
