@@ -2,7 +2,7 @@
 layout: page
 title: Members Centre
 image:
-  path: /images/IMG_5330-crop.jpg
+  path: /images/photos/2024-25 group picture cropped.jpeg
 ---
 
 On this page:
