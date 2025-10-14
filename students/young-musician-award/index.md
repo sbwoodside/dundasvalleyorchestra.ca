@@ -16,6 +16,9 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ### DVO-HAALSA Young Musician Winners
 
+*Full details for each winner appear below.*
+
+* 2025 - Patrick Wilson, Saxophone
 * 2024 - Sohan Mukherjee, Violin
 * 2023 - Victoria Zeng, Piano
 * 2022 - Nirvaan Grewal, Cello
