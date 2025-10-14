@@ -5,14 +5,12 @@ title: DVO-HAALSA Young Musician Award
 
 Every year, the Hamilton Association for the Advancement of Literature, Science and Art (HAALSA), under the auspices of the Dundas Valley Orchestra (DVO), gives out an award to a young promising musician from the Greater Hamilton Area. The winner will receive a cash prize and will have the opportunity to perform with the DVO at one of its concerts. If teachers and students wish to express their interest please contact DVO at: [dvo.haalsa@gmail.com](mailto:dvo.haalsa@gmail.com)
 
-2026 contest information TBA.
+### 2026 contest information
 
-### 2025 contest information
-
-* Application deadline: **April 15, 2025**
-* [Criteria for Nominees](/images/competition/2025/DVO-HAALSA Award Criteria for Nominee 2025.docx)
-* [Nomination Form](/images/competition/2025/DVO-HAALSA Award Nomination Form 2025.docx)
-* [Contest poster](/images/competition/2025/DVO HAALSA Award Poster 2025.pdf)
+* Application deadline: **March 27, 2026**
+* [Criteria for Nominees](/images/competition/2026/DVO-HAALSA%20Award%20Criteria%20for%20Nominee%202026.docx)
+* [Nomination Form](/images/competition/2026/DVO-HAALSA%20Award%20Nomination%20Form%202026.docx)
+* [Contest poster](/images/competition/2026/DVO%20HAALSA%20Award%20Poster%202026.pdf)
 
 ***
 
@@ -28,6 +26,31 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * 2017 - Amelia McNiven Fontani, Violin
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
+
+#### 2025 DVO-HAALSA Young Musician winner: Patrick Wilson
+
+![Patrick Wilson](/images/competition/2025/2025-Patrick%20Wilson.jpg)
+
+Patrick Wilson is a Saxophone player and senior at Westdale Secondary School.
+
+Since discovering his passion for Jazz at age 14, he has worked diligently to develop his
+performance skills. He is greatly influenced by players like Stan Getz, Chalie Parker,
+Patrick Bartley, and many more.
+
+Patrick has studied jazz saxophone locally with Scott Neilson for the past two years.
+
+This past summer he took part in the 5-Week Aspire program at the Berklee College of
+Music in Boston. There he studied jazz with some of the best students from across the
+globe under the tutelage of professors like Jonathan Suazo, Jeff Herrington, Greg Hopkins,
+and Ilona Kudina.
+
+Patrick is a member of the Hamilton Allstar Jazz Band, a big band based in Ancaster that
+performs regularly in Southern Ontario. He also leads a volunteer jazz trio that performs
+monthly at Extendicare Assisted Living.
+
+Beyond his passion for jazz, Patrick also enjoys the local rock scene, playing regularly as a
+member of local indie band In The Same Bed. He has recently guested on a record by
+Hamilton band Smit, and in a live performance by local favourites Superstar Crush.
 
 #### 2024 DVO-HAALSA Young Musician winner: Sohan Mukherjee
 
