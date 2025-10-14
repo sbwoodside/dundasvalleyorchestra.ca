@@ -51,13 +51,13 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ***
 
-# 2025 Student Composer Competition
+# Student musician programs
 
-[2025 Call for Submissions (PDF)](/images/competition/2025/Call for Submissions SCC 2025.pdf)
+* Glenn Mallory Scholarship
+* DVO-HAALSA Young Musician Award
+* DVO Student Composer Competition
 
-The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
-
-[More information about the competition →](/students/#dvo-student-composer-competition)
+[More information about the student programs →](/students/){: .btn .btn--accent}
 
 ***
 
@@ -67,13 +67,7 @@ The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 
 
 The Dundas Valley Orchestra provides amateur musicians the opportunity and joy of performing orchestral music. Musicians of all ages improve their skills and share this talent by performing community concerts and free concerts at community institutions such as nursing and retirement homes.
 
-[More information about the orchestra →](/about)
-
-## DVO Student Composer Competition
-
-We hold an annual student composer competition.
-
-[More information about our annual competition for student composers →](/students/)
+[More information about the orchestra →](/about){: .btn .btn--accent}
 
 <hr>
 
