@@ -75,15 +75,15 @@ The Dundas Valley Orchestra provides amateur musicians the opportunity and joy o
 
 <img src="/images/supporters/Orchestras-Canada-logo.jpg" alt="Orchestras Canada" width="40%" border="0">
 
-A member of <a href="http://orchestrascanada.org">Orchestras Canada</a>
+A member of <a href="https://oc.ca/">Orchestras Canada</a>
 
 ## Financial Supporters
 
 |  |  |
 |:-:|:-:|
 | <img src="/images/supporters/Trillium-logo.jpg" alt="Ontario Trillium Foundation" width="40%" border="0"> | <img src="/images/supporters/Hamilton-logo.jpg" alt="The City of Hamilton" width="40%" border="0"> |
-| <a href="http://www.otf.ca/en/">Ontario Trillium Foundation</a> | <a href="https://www.hamilton. ca">The City of Hamilton</a> |
+| <a href="http://www.otf.ca/">Ontario Trillium Foundation</a> | <a href="https://www.hamilton.ca">The City of Hamilton</a> |
 | <img src="/images/supporters/OAC-logo.gif" alt="Ontario Arts Council" width="40%" border="0"> | <img src="/images/supporters/HCF-logo.png" alt="Hamilton Community Foundation" width="50%" border="0"> |
-| <a href="http://www.arts.on.ca">Ontario Arts Council</a> | <a href="https://www.hamiltoncommunityfoundation.ca">Hamilton Community Foundation</center></a> |
+| <a href="http://www.arts.on.ca">Ontario Arts Council</a> | <a href="https://www.hamiltoncommunityfoundation.ca">Hamilton Community Foundation</a> |
 | <img src="/images/supporters/Rotary-logo.jpg" alt="Rotary Club of Dundas" width="40%" border="0"> | <img src="/images/supporters/haalsa.png" alt="Hamilton Association for the Advancement of Literature, Science and Art" width="40%" border="0"> |
 | <a href="https://portal.clubrunner.ca/285">Rotary Club of Dundas</a> | <a href="http://www.haalsa.org">Hamilton Association for the Advancement of Literature, Science and Art</a> |
