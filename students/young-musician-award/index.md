@@ -30,7 +30,9 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 * 2016 - Philip Darley, Cello
 * 2015 - Lindsey Rynders, Oboe
 
-#### 2025 DVO-HAALSA Young Musician winner: Patrick Wilson
+***
+
+#### 2025 DVO-HAALSA Young Musician winner: Patrick Wilson, Saxophone
 
 ![Patrick Wilson](/images/competition/2025/2025-Patrick%20Wilson.jpg)
 
@@ -55,13 +57,13 @@ Beyond his passion for jazz, Patrick also enjoys the local rock scene, playing r
 member of local indie band In The Same Bed. He has recently guested on a record by
 Hamilton band Smit, and in a live performance by local favourites Superstar Crush.
 
-#### 2024 DVO-HAALSA Young Musician winner: Sohan Mukherjee
+#### 2024 DVO-HAALSA Young Musician winner: Sohan Mukherjee, Violin
 
 ![Sohan Mukherjee](/images/competition/2024/2024-Sohan%20Mukherjee.jpeg)
 
 Sohan Mukherjee is a Grade 5 student attending Greensville Elementary School in Dundas, Ontario.  He is an aspiring young musician with a passion for playing classical music on the violin since the age of 7 and piano since the age of 3.  Sohan is an active member of the senior Cricket Chamber Orchestra in Dundas, Ontario and has had experience playing as a soloist in the orchestra since 2022. He has completed the Royal Conservatory of Music (RCM) grade two certification in violin and grade two RCM certification in piano with First Class Honours with Distinction. At the 2024 Guelph Kiwanis Festival, Sohan was selected as a provincial nominee for the Ontario Kiwanis Festival Competition in piano and awarded a music scholarship.  He also received a platinum award in violin at the 2023 Toronto Kiwanis Festival.  His love of music outside of violin and piano extends to the ukulele, recorder and singing in the Greensville Elementary School choir.  In his free time, Sohan enjoys playing ball hockey, swimming and skiing.
 
-#### 2023 DVO-HAALSA Young Musician winner: Victoria Zeng
+#### 2023 DVO-HAALSA Young Musician winner: Victoria Zeng, Piano
 
 ![Victoria Zeng](/images/competition/2025/2023-Victoria%20Zeng%20in%202025.jpeg)
 
@@ -89,13 +91,13 @@ When she’s not at the piano, Victoria can be found watching MasterChef, skiing
 perpetually clearing out her phone storage to make room for her ever-growing photo
 collection.
 
-#### 2022 DVO-HAALSA Young Musician winner: Nirvaan Grewal
+#### 2022 DVO-HAALSA Young Musician winner: Nirvaan Grewal, Cello
 
 ![Nirvaan Grewal](/images/competition/2022-Nirvaan Grewal.png)
 
 Nirvaan Grewal, a high school student with an immense passion for the cello, is an incredible musical talent. He has completed his Grade 10 RCM certification and placed first in both Grade 7 and 8 Lower Strings Ontario Music Festivals Association (OMFA) Provincials. A long-time member of the Hamilton Philharmonic Youth Orchestra (HPYO), the youngest member of Sinfonia Ancaster, and an artist in the community, Nirvaan’s musicianship is versatile and varied. He plays with an exceptionally mature sound, expressing mood and evoking emotion through his deep connection with the music.
 
-#### 2021 DVO-HAALSA Young Musician winner: Gabriel Klassen
+#### 2021 DVO-HAALSA Young Musician winner: Gabriel Klassen, Voice
 
 ![Gabriel Klassen](/images/competition/2021-Gabriel Klassen.jpeg)
 
