@@ -15,6 +15,8 @@ Each season, the DVO makes a special award available the student members of our 
 
 Every year, the Hamilton Association for the Advancement of Literature, Science and Art (HAALSA), under the auspices of the Dundas Valley Orchestra (DVO), gives out an award to a young promising musician from the Greater Hamilton Area. The winner will receive a cash prize and will have the opportunity to perform with the DVO at one of its concerts. If teachers and students wish to express their interest please contact DVO at: [dvo.haalsa@gmail.com](mailto:dvo.haalsa@gmail.com)
 
+2026 contest information TBA.
+
 ### 2025 contest information
 
 * Application deadline: **April 15, 2025**
@@ -28,15 +30,14 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ## DVO Student Composer Competition
 
-### 2024 Student Composer Competition
-
 The Dundas Valley Orchestra holds an annual competition for student composers.
 
-[2025 Call for Submissions (PDF)](/images/competition/2025/Call for Submissions SCC 2025.pdf)
+### 2026 Student Composer Competition
+
+* [2026 Call for Submissions (PDF)](/images/competition/2026/Call%20for%20Submissions%20SCC%202026.pdf)
+* Deadline for submission: March 27, 2026
 
 The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
+The winning composition will be performed by the DVO in May 2026 and earn a cash prize of $300.00.
 
-
-
-
-
+[More information about the DVO Student Composer Competition →](/students/student-composer-competition/){: .btn .btn--accent}

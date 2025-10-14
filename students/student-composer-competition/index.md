@@ -5,6 +5,13 @@ title: DVO Student Composer Competition
 
 The Dundas Valley Orchestra holds an annual competition for student composers.
 
+### 2026 Student Composer Competition
+
+* [2026 Call for Submissions (PDF)](/images/competition/2026/Call%20for%20Submissions%20SCC%202026.pdf)
+* Deadline for submission: March 27, 2026
+
+The Dundas Valley Orchestra is accepting compositions (suggested length: 5 to 8 minutes) by students currently enrolled in a Canadian educational institution (secondary or post-secondary, full or part time).
+The winning composition will be performed by the DVO in May 2026 and earn a cash prize of $300.00.
 
 ***
 
