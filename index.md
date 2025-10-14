@@ -39,7 +39,7 @@ Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
-[MORE CONCERTS ▶](/concerts){: .btn .btn--accent}
+[More concert information →](/concerts){: .btn .btn--accent}
 
 ***
 
