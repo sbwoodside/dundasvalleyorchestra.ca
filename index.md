@@ -16,6 +16,8 @@ image:
 
 Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
 
+At 2 p.m. there will be a pre-concert youth educational experience in the Moss Davidson Room at the church.
+
 Featuring:
 
 - *Soprano Soloist: Sarena Paton*
