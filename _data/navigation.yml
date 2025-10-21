@@ -9,7 +9,9 @@
   url: /students/
 - title: Members
   url: /members/
-- title: Join Us!
+- title: Join Us
   url: /join-us/
+- title: Support Us
+  url: /support-us/
 - title: Contact
   url: /contact/

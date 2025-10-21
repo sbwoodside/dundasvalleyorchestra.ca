@@ -25,4 +25,4 @@ Come on out and help us make beautiful music.
 
 Please Contact Laura Thomas, Music Director
 
-dvomusicdirector@gmail.com
+[laura@dundasvalleyorchestra.ca](mailto:laura@dundasvalleyorchestra.ca)
