@@ -27,7 +27,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 author:
   name: Dundas Valley Orchestra
   picture: dvo-logo.png
-  email: dvomusicdirector@gmail.com
+  email: simon@dundasvalleyorchestra.ca
 google_analytics:   UA-31585904-1
 google_verify:      
 
