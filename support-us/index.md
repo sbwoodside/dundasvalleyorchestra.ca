@@ -5,6 +5,8 @@ title: Support Us
 
 # Become a Friend of the DVO!
 
+[Donate securely online with CanadaHelps.org](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/campaign/friends-of-the-dvo/){: .btn .btn--success .btn--block .btn--large}
+
 ## Invest in the future of the DVO, and support our programs, by donating by December 31, 2025
 
 The Dundas Valley Orchestra (DVO) is a vibrant group of over 75 dedicated and talented amateur musicians who are passionate about sharing extraordinary musical experiences with our community. Through free live and virtual concerts, we bring orchestral music to audiences of all ages, making the arts accessible to everyone. 
@@ -30,6 +32,6 @@ As our orchestra continues to grow in size and musical scope, so do the needs of
 
 **Friends of the DVO** and **Ongoing Donors** will be recognized in our final concert program in May 2026. Memorial and anonymous donations are also appreciated. Charitable receipts will be issued for donations over $10.
 
-[Donate securely online with CanadaHelps.org](https://www.canadahelps.org/en/charities/dundas-valley-orchestra){: .btn .btn--success .btn--block .btn--large}
+[Donate securely online with CanadaHelps.org](https://www.canadahelps.org/en/charities/dundas-valley-orchestra/campaign/friends-of-the-dvo/){: .btn .btn--success .btn--block .btn--large}
 
 Email [DVOcontact@gmail.com](mailto:DVOcontact@gmail.com) for more information.
