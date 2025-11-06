@@ -12,6 +12,8 @@ image:
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
+[Download complete program](/images/concerts/2025/2025-11-09%20DVO%20program.pdf){: .btn .btn--accent}
+
 [![Our Space Odyssey concert poster](/images/concerts/2025/poster-2025-11-09.jpg)](/images/concerts/2025/poster-2025-11-09.pdf)
 
 Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
