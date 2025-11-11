@@ -57,6 +57,8 @@ For the first time, the DVO is going to perform music by one of the titans of th
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1135073884#t=4m00s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Our Space Odyssey - DVO Concert - Nov 9, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 [Download complete program](/images/concerts/2025/2025-11-09%20DVO%20program.pdf){: .btn .btn--accent}
 
 [![Our Space Odyssey concert poster](/images/concerts/2025/poster-2025-11-09.jpg)](/images/concerts/2025/poster-2025-11-09.pdf)

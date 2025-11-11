@@ -26,7 +26,7 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 [View concert livestream recording](https://vimeo.com/1087523961){: .btn .btn--accent}
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1087523961#t=1m30s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dundas Valley Orchestra - March 22, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1135073884#t=4m00s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Our Space Odyssey - DVO Concert - Nov 9, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ***
 
