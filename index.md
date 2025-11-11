@@ -1,43 +1,18 @@
 ---
 layout: page
-title: Next concert Sunday, November 9, 2025
+title: Next concert Sunday, December 7, 2025
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/photos/2024-25 group picture cropped.jpeg
 ---
 
-### Our Space Odyssey – Sunday, November 9, 2025
+### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
-[Download complete program](/images/concerts/2025/2025-11-09%20DVO%20program.pdf){: .btn .btn--accent}
-
-[![Our Space Odyssey concert poster](/images/concerts/2025/poster-2025-11-09.jpg)](/images/concerts/2025/poster-2025-11-09.pdf)
-
-Join the DVO and our concert partner Hamilton Amateur Astronomers on a musical and visual journey to the stars! Guest performers include students from the Hamilton Suzuki School of Music and HAALSA Student Soloist Award winner, violinist Sohan Mukherjee.
-
-At 2 p.m. there will be a pre-concert youth educational experience in the Moss Davidson Room at the church.
-
-Featuring:
-
-- *Soprano Soloist: Sarena Paton*
-- *Students of The Hamilton Suzuki School of Music*
-- *HAALSA Student Soloist: Sohan Mukherjee*
-
-Programme:
-
-1. Richard Strauss: **Also Sprach Zarathustra - Fanfare (Sunrise)**
-2. Franz Joseph Haydn: **Il Mondo della Luna: Overture**
-3. John Estacio: **Wondrous Light**
-4. music by Harry Warren, lyrics by Leo Robin: **A Journey to a Star** *(Sarena Paton, soprano)*
-5. John Williams: **Theme from E.T. (The Extra-Terrestrial)**
-6. arr. Calvin Custer: **Star Trek Through the Years**
-7. Shinichi Suzuki: **Twinkle Variations** *(Students of The Hamilton Suzuki School of Music)*
-8. Gustav Holst, arr. Laura Thomas: **Theme from *Jupiter* (from *The Planets*)** *(Students of The Hamilton Suzuki School of Music)*
-9. Friedrich Seitz: **Student's Concerto #2 in G Major** *(Sohan Mukherjee, violin, HAALSA Young Musician Award winner)*
-10. Leigh Harline and Ned Washington: **When You Wish Upon a Star** *(Sarena Paton, soprano)*
+[![The Nancy Cassels Christmas Chamber Music Concert poster](/images/concerts/2025/poster-2025-12-07.jpg)](/images/concerts/2025/poster-2025-12-07.pdf)
 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
