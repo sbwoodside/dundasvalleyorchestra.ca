@@ -21,6 +21,8 @@ On this page:
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
+[Download complete program](/images/concerts/2025/2025-12-07%20DVO%20program.pdf){: .btn .btn--accent}
+
 [![The Nancy Cassels Christmas Chamber Music Concert poster](/images/concerts/2025/poster-2025-12-07.jpg)](/images/concerts/2025/poster-2025-12-07.pdf)
 
 Join us for our very special second annual Nancy Cassels Christmas chamber music concert. This is a chance to hear members of the Dundas Valley Orchestra performing music in much smaller groups which has proven to be very popular, exciting, and a fun event for everyone.
