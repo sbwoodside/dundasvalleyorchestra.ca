@@ -15,11 +15,41 @@ On this page:
 
 ## NEXT CONCERT
 
-### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
+### Celebration of Black History – Sunday, February 1, 2026
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate
+the inspirations and influences of Black music in Canadian culture. The
+performance will feature a wide range of musical styles and eras by composers
+and songwriters of the African diaspora, including Scott Joplin, Samuel Coleridge-
+Taylor, and Wynton Marsalis.
+
+Pay what you like.
+The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
+
+***
+
+## UPCOMING CONCERTS
+
+### 2025-26 Season
+
+### The DVO plays Mahler! – Sunday, May 31, 2026
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2025-2026 Season
+
+### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [Download complete program](/images/concerts/2025/2025-12-07%20DVO%20program.pdf){: .btn .btn--accent}
 
@@ -36,30 +66,6 @@ You won’t want to miss this seasonal DVO event!
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
-### 2025-26 Season
-
-### Celebration of Black History – Sunday, February 1, 2026
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature music that reflects a broad range of styles, genres and time periods by composers and songwriters of the African diaspora.
-
-### The DVO plays Mahler! – Sunday, May 31, 2026
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2025-2026 Season
 
 ### Our Space Odyssey – Sunday, November 9, 2025
 
