@@ -28,6 +28,12 @@ Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
+
+
+[Donate now](http://www.canadahelps.org/CharityProfilePage.aspx?BN=118889476RR0001){: .btn .btn--success .btn--block .btn--large}
+
+***
+
 [More concert information →](/concerts){: .btn .btn--accent}
 
 ***
