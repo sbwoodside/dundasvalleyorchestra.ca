@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next concert Sunday, December 7, 2025
+title: Next concert Sunday, February 1, 2026
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/photos/2024-25 group picture cropped.jpeg
