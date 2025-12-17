@@ -7,8 +7,8 @@ image:
 
 On this page: [→ Our Conductor](#our-conductor),
  [→ DVO Sheet Music Library](#dvo-sheet-music-library),
- [→ Orchestra Board Members](#orchestra-board-members),
- [→ Other Notables](#other-notables)
+ [→ Orchestra Board Members & Administration](#orchestra-board-members--administration)
+
 
 ## Dundas Valley Orchestra
 
@@ -36,28 +36,47 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 
 [Information about our Library of Sheet Music →](/about/library/)
 
-## Orchestra Board Members
+## Orchestra Board Members & Administration
 
 ### Elected board members
 
 | President | Jeff Reynolds |
 | Vice President | Michael Westwood |
-| Past President | Lianne Tan |
-| Treasurer | Sharon Millar |
+| Past President | Vacant |
+| Treasurer | Claire Morris |
 | Secretary | Jim Jones |
-| Members at Large | Brenda Hurlburt, Rudin Knights, Brian Liberty, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn, Andrea Bandow |
+| Members at Large | Stan Alama, Andrea Bandow, Brenda Hurlburt, Rudin Knights (on leave), Sharon Miller, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn |
 
 ### Ex-Officio Board Members
 
 | Music Director | Laura Thomas, M.F.A., B.Mus. |
+| Assistant Music Director | Larry Allen |
 | Concert Master | Naomi Doré-Brown |
 | Librarian | Homer Seywerd |
 | Archivist | Christina Brook |
 | Composer-in-Residence | Mark Thomas |
 
-## Other Notables
+### Artistic Administration
 
-| Webmaster | Simon Woodside |
-| Social Media Manager | Stan Alama |
+| Librarian | Homer Seywerd
+| Archivist | Christina Brook
+| Ensembles Coordinator | Margaret Sherman-Bell
+
+### Community Engagement
+
+| Community Engagement | Andrea Bandow
+
+### Communications & Marketing
+
+| Social Media & Program Notes | Stan Alama
+| Social Media | Ian Kivell
+| Web Support | Simon Woodside
+| Graphic Design | Kate Lynn Robles
+
+### Patron Services
+
+| Front of House Manager & Volunteer Coordinator | Izzy Ferguson
+
+## The Dundas Valley Orchestra is a Charity
 
 The Dundas Valley Orchestra's CRA Charitable Registration number is 118889476 RR0001.
