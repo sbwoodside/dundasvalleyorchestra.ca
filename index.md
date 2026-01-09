@@ -28,9 +28,9 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 # Last concert video
 
-[View concert livestream recording](https://vimeo.com/1087523961){: .btn .btn--accent}
+[View concert recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb){: .btn .btn--accent}
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1135073884#t=4m00s" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Our Space Odyssey - DVO Concert - Nov 9, 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=c6TZ4WhllufGtd4n&amp;list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 

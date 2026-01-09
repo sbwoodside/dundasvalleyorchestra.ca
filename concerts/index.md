@@ -53,6 +53,10 @@ For the first time, the DVO is going to perform music by one of the titans of th
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[View concert recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb){: .btn .btn--accent}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=c6TZ4WhllufGtd4n&amp;list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Download complete program](/images/concerts/2025/2025-12-07%20DVO%20program.pdf){: .btn .btn--accent}
 
 [![The Nancy Cassels Christmas Chamber Music Concert poster](/images/concerts/2025/poster-2025-12-07.jpg)](/images/concerts/2025/poster-2025-12-07.pdf)
