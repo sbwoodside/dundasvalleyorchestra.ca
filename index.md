@@ -10,6 +10,8 @@ image:
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[![Celebration of Black History concert poster](/images/concerts/2026/poster-2026-02-01.jpg)](/images/concerts/2026/poster-2026-02-01.pdf)
+
 The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate
 the inspirations and influences of Black music in Canadian culture. The
 performance will feature a wide range of musical styles and eras by composers
