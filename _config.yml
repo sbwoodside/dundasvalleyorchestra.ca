@@ -14,6 +14,9 @@ footer_links:
   - title: Instagram
     url: https://www.instagram.com/dundasvalleyorchestra/
     icon: fab fa-instagram
+  - title: YouTube
+    url: https://www.youtube.com/@dundasvalleyorchestra4839
+    icon: fab fa-youtube
 
 # Jekyll configuration
 timezone:    America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
