@@ -21,11 +21,7 @@ On this page:
 
 [![Celebration of Black History concert poster](/images/concerts/2026/poster-2026-02-01.jpg)](/images/concerts/2026/poster-2026-02-01.pdf)
 
-The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate
-the inspirations and influences of Black music in Canadian culture. The
-performance will feature a wide range of musical styles and eras by composers
-and songwriters of the African diaspora, including Scott Joplin, Samuel Coleridge-
-Taylor, and Wynton Marsalis.
+The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature a wide range of musical styles and eras by composers and songwriters of the African diaspora, including Scott Joplin, Samuel Coleridge-Taylor, Florence Price and Wynton Marsalis.  Our 2026 HAALSA Student Soloist Patrick Wilson will also perform with the DVO in two selections from Charlie Parker's historic recording "Charlie Parker with Strings".
 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
