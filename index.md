@@ -30,6 +30,14 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ***
 
+# DVO on social media
+
+[Facebook page](https://www.facebook.com/DundasValleyOrchestra){: .btn .btn--info} [Instagram feed](https://www.instagram.com/dundasvalleyorchestra/){: .btn .btn--info} [Youtube channel](https://www.youtube.com/@dundasvalleyorchestra4839){: .btn .btn--info}
+
+Note that the Youtube channel has some of our concerts and clips. Many of our concerts are on Vimeo, accessed through this website.
+
+***
+
 # Student musician programs
 
 * Glenn Mallory Scholarship
