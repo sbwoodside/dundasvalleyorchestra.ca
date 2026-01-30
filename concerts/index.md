@@ -19,6 +19,10 @@ On this page:
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
+[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+[Download complete program](/images/concerts/2026/2026-02-01%20DVO%20program.pdf){: .btn .btn--accent}
+
 [![Celebration of Black History concert poster](/images/concerts/2026/poster-2026-02-01.jpg)](/images/concerts/2026/poster-2026-02-01.pdf)
 
 The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature a wide range of musical styles and eras by composers and songwriters of the African diaspora, including Scott Joplin, Samuel Coleridge-Taylor, Florence Price and Wynton Marsalis.  Our 2026 HAALSA Student Soloist Patrick Wilson will also perform with the DVO in two selections from Charlie Parker's historic recording "Charlie Parker with Strings".
