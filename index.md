@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Next concert Sunday, February 1, 2026
+title: Next concert Sunday, May 31, 2026
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/photos/2024-25 group picture cropped.jpeg
 ---
 
-### Celebration of Black History – Sunday, February 1, 2026
+### The DVO plays Mahler! – Sunday, May 31, 2026
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
 
-[Download complete program](/images/concerts/2026/2026-02-01%20DVO%20program.pdf){: .btn .btn--accent}
-
-[![Celebration of Black History concert poster](/images/concerts/2026/poster-2026-02-01.jpg)](/images/concerts/2026/poster-2026-02-01.pdf)
-
-The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the inspirations and influences of Black music in Canadian culture. The performance will feature a wide range of musical styles and eras by composers and songwriters of the African diaspora, including Scott Joplin, Samuel Coleridge-Taylor, Florence Price and Wynton Marsalis.  Our 2026 HAALSA Student Soloist Patrick Wilson will also perform with the DVO in two selections from Charlie Parker's historic recording "Charlie Parker with Strings".
+For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
@@ -28,9 +24,13 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 # Last concert video
 
-[View concert recording](https://www.youtube.com/playlist?list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb){: .btn .btn--accent}
+Full livestream:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=c6TZ4WhllufGtd4n&amp;list=PLnkv37XcSBcTZtTHagRDcBBTtIJeKhzGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1160798655?h=c66e037952" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration of Black History – Sunday, February 1, 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Excerpts:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GUCO4eYn1W0D1JeW&amp;list=PLnkv37XcSBcQDkCENQe4isBbT4JaQzuCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 

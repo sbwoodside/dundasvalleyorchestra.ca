@@ -15,11 +15,45 @@ On this page:
 
 ## NEXT CONCERT
 
+### The DVO plays Mahler! – Sunday, May 31, 2026
+
+3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
+
+[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
+
+Pay what you like.
+The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
+{: .notice--info}
+
+***
+
+## UPCOMING CONCERTS
+
+### 2026-27 Season
+
+TBA
+
+***
+
+## PAST CONCERTS
+
+## Concerts of the 2025-2026 Season
+
 ### Celebration of Black History – Sunday, February 1, 2026
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
 [View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
+
+Full livestream:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1160798655?h=c66e037952" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration of Black History – Sunday, February 1, 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Excerpts:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GUCO4eYn1W0D1JeW&amp;list=PLnkv37XcSBcQDkCENQe4isBbT4JaQzuCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Download complete program](/images/concerts/2026/2026-02-01%20DVO%20program.pdf){: .btn .btn--accent}
 
@@ -30,24 +64,6 @@ The DVO welcomes vocalist and theatre performer Alexandra Kane to celebrate the 
 Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
-
-***
-
-## UPCOMING CONCERTS
-
-### 2025-26 Season
-
-### The DVO plays Mahler! – Sunday, May 31, 2026
-
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
-
-***
-
-## PAST CONCERTS
-
-## Concerts of the 2025-2026 Season
 
 ### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
 
