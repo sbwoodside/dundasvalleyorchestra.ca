@@ -24,6 +24,16 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 # Last concert video
 
+### Special online-only performance: Oliver Wesley-James 100th Birthday
+
+March 31, 2026, recorded at St. Paul's United Church
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://drive.google.com/file/d/1GbfwQxlZd4JtO6viF1EDQSXxbMQAP6v0/preview" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Oliver Wesley-James 100th Birthday"></iframe></div>
+
+A special celebration of our founding member Oliver Wesley-James's 100th birthday
+
+### Last concert
+
 Full livestream:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1160798655?h=c66e037952" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration of Black History – Sunday, February 1, 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
