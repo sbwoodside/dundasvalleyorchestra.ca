@@ -86,5 +86,5 @@ A member of <a href="https://oc.ca/">Orchestras Canada</a>
 | <a href="http://www.otf.ca/">Ontario Trillium Foundation</a> | <a href="https://www.hamilton.ca">The City of Hamilton</a> |
 | <img src="/images/supporters/OAC-logo.gif" alt="Ontario Arts Council" width="40%" border="0"> | <img src="/images/supporters/HCF-logo.png" alt="Hamilton Community Foundation" width="50%" border="0"> |
 | <a href="http://www.arts.on.ca">Ontario Arts Council</a> | <a href="https://www.hamiltoncommunityfoundation.ca">Hamilton Community Foundation</a> |
-| <img src="/images/supporters/Rotary-logo.jpg" alt="Rotary Club of Dundas" width="40%" border="0"> | <img src="/images/supporters/haalsa.png" alt="Hamilton Association for the Advancement of Literature, Science and Art" width="40%" border="0"> |
-| <a href="https://portal.clubrunner.ca/285">Rotary Club of Dundas</a> | <a href="http://www.haalsa.org">Hamilton Association for the Advancement of Literature, Science and Art</a> |
+| <img src="/images/supporters/haalsa.png" alt="Hamilton Association for the Advancement of Literature, Science and Art" width="40%" border="0"> | <img src="/images/supporters/incite-logo.png" alt="incite Foundation for the Arts" width="40%" border="0"> |
+| <a href="http://www.haalsa.org">Hamilton Association for the Advancement of Literature, Science and Art</a> | <a href="https://incitefoundation.ca">incite Foundation for the Arts</a> |
