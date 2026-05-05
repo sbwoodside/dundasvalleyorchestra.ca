@@ -22,6 +22,10 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ***
 
+[Donate now](http://www.canadahelps.org/CharityProfilePage.aspx?BN=118889476RR0001){: .btn .btn--success .btn--block .btn--large}
+
+***
+
 # Last concert video
 
 ### Special online-only performance: Oliver Wesley-James 100th Birthday
