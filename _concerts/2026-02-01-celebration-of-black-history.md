@@ -3,7 +3,7 @@ title: "Celebration of Black History"
 date: 2026-02-01
 time: "3pm"
 season: "2025-2026"
-livestream_url: https://stpaulsdundas.com/dvo
+livestream_url: "https://stpaulsdundas.com/dvo"
 video_embed: "https://player.vimeo.com/video/1160798655?h=c66e037952"
 program_pdf: "/images/concerts/2026/2026-02-01 DVO program.pdf"
 poster: /images/concerts/2026/poster-2026-02-01.jpg
