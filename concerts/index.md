@@ -15,7 +15,7 @@ On this page:
 
 ## NEXT CONCERT
 
-### The DVO plays Mahler! – Sunday, May 31, 2026
+### The DVO plays Mahler! – Sunday, May 31, 2026
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
@@ -49,7 +49,7 @@ March 31, 2026, recorded at St. Paul's United Church
 
 A special celebration of our founding member Oliver Wesley-James's 100th birthday
 
-### Celebration of Black History – Sunday, February 1, 2026
+### Celebration of Black History – Sunday, February 1, 2026
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
@@ -57,7 +57,7 @@ A special celebration of our founding member Oliver Wesley-James's 100th birthda
 
 Full livestream:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1160798655?h=c66e037952" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration of Black History – Sunday, February 1, 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1160798655?h=c66e037952" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration of Black History – Sunday, February 1, 2026"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Excerpts:
 
@@ -73,7 +73,7 @@ Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
-### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
+### The DVO presents The Nancy Cassels Christmas Chamber Music Concert – Sunday, December 7, 2025
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
@@ -97,7 +97,7 @@ Pay what you like.
 The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
 {: .notice--info}
 
-### Our Space Odyssey – Sunday, November 9, 2025
+### Our Space Odyssey – Sunday, November 9, 2025
 
 3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
@@ -138,7 +138,7 @@ The venue is wheelchair accessible. Please remember that St. Paul’s is a fragr
 
 ## Concerts of the 2024-2025 Season
 
-### Peace – Sunday, June 22
+### Peace – Sunday, June 22
 
 **7pm** at the [Canadian Warplane Heritage Museum](https://www.warplane.com), 9280 Airport Rd., Mount Hope
 
@@ -634,7 +634,7 @@ Also performing will be Max Chen, the winner of our annual student soloist compe
 
 [![Hamilton Community Foundation](/images/supporters/HCF-logo.png)](https://www.hamiltoncommunityfoundation.ca)
 
-_Reception afterwards — meet the musicians._
+_Reception afterwards — meet the musicians._
 
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
@@ -665,7 +665,7 @@ The music of the Great White Way comes to Dundas! Featuring Dundas vocalists Sar
 
 [![Hamilton Community Foundation](/images/supporters/HCF-logo.png)](https://www.hamiltoncommunityfoundation.ca)
 
-_Reception afterwards — meet the musicians._
+_Reception afterwards — meet the musicians._
 
 _Admission is free. DVO gratefully accepts donations, and tax receipts are provided for donations of $10 or more._
 
@@ -677,7 +677,7 @@ _DVO is comprised of talented amateur musicians from the Hamilton area. The ense
 
 #### Sunday May 26, 2019 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Reception afterwards — meet the musicians.
+Reception afterwards — meet the musicians.
 
 1. Otto Nicolai: **Merry Wives of Windsor Overture**
 2. Sergei Prokofiev: **Concerto for Violin No. 1 in D major, opus 19** _(soloist: Corey Gemmel, violin)_
@@ -693,7 +693,7 @@ DVO is comprised of talented amateur musicians from the Hamilton area. The ensem
 
 #### Sunday January 27, 2019 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Reception afterwards — meet the musicians.
+Reception afterwards — meet the musicians.
 
 1. Wolfgang Amadeus Mozart: **Overture to Die Entführung aus dem Serail**
 2. Johann Hummel, arr. Brown: **Concertante**
@@ -715,7 +715,7 @@ DVO is comprised of talented amateur musicians from the Hamilton area. The ensem
 
 #### Sunday November 4, 2018 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Reception afterwards — meet the musicians.
+Reception afterwards — meet the musicians.
 
 1. Johann Strauss Jr.: **Kaiser-Walzer**
 2. Johann Strauss Sr.: **Radetzky March**
@@ -735,7 +735,7 @@ DVO is comprised of talented amateur musicians from the Hamilton area. The ensem
 
 #### Sunday May 27, 2018 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Reception afterwards — meet the musicians.
+Reception afterwards — meet the musicians.
 
 1. Johan Halvorsen: **Entry March of the Boyars, op. 17**
 2. Micah Thomas: **Einherjar**
@@ -752,7 +752,7 @@ DVO is comprised of talented amateur musicians from the Hamilton area. The ensem
 
 #### Sunday January 28, 2018 at 3:00 pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
 
-Reception afterwards — meet the musicians.
+Reception afterwards — meet the musicians.
 
 1. G. Handel, arr. A. Luck: **Largo (from “Xerxes”)** _with Steve Burditt, Euphonium_
 2. Mozart: **Smanie implacabili (from "Così fan tutte")** _with Rebecca Cuddy, mezzo soprano_
