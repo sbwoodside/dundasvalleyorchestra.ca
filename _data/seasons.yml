@@ -1,0 +1,3 @@
+# List of concert seasons, populated in Phase 3 of the concerts refactor.
+# Each entry: { id: "YYYY-YYYY", label: "YYYY-YYYY Season" }
+seasons: []

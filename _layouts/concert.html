@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<article class="concert">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="concert-meta">
+      {% assign date_str = page.date | date: "%A, %B %-d, %Y" %}
+      {% if page.time %}{{ page.time }}{% endif %}
+      {% if page.time and page.venue %} at {% endif %}
+      {% if page.venue_url %}<a href="{{ page.venue_url }}">{{ page.venue }}</a>{% else %}{{ page.venue }}{% endif %}{% if page.venue_address %}, {{ page.venue_address }}{% endif %}
+      &mdash; {{ date_str }}
+    </p>
+  </header>
+
+  {% if page.livestream_url %}
+  <p><a href="{{ page.livestream_url }}" class="btn btn--accent">View concert livestream (on the day)</a></p>
+  {% endif %}
+
+  {% if page.video_embed %}
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="{{ page.video_embed }}" frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="{{ page.title | escape }}"></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+  {% endif %}
+
+  {% if page.program_pdf %}
+  <p><a href="{{ page.program_pdf | uri_escape }}" class="btn btn--accent">Download complete program</a></p>
+  {% endif %}
+
+  {% if page.poster %}
+  <p>
+    {% if page.poster_pdf %}<a href="{{ page.poster_pdf }}">{% endif %}
+    <img src="{{ page.poster }}" alt="{{ page.title | escape }} concert poster">
+    {% if page.poster_pdf %}</a>{% endif %}
+  </p>
+  {% endif %}
+
+  <div class="concert-body">
+    {{ content }}
+  </div>
+</article>
