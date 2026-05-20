@@ -121,6 +121,15 @@ def split_title_date(h3_raw)
   end
 end
 
+def scan_body_for_date(body_lines, hint_year: nil)
+  body_lines.each do |l|
+    next if l.strip.empty?
+    d = parse_date(l, hint_year: hint_year)
+    return d if d
+  end
+  nil
+end
+
 def first_meaningful_line(lines)
   # Return first line after H3 that is non-blank
   lines[1..].find { |l| !l.strip.empty? }
@@ -214,7 +223,7 @@ def extract_fields_and_body(body_lines)
   [fields, out.join, removed_captions]
 end
 
-def build_front_matter(title:, date:, time:, season:, venue:, venue_url:, venue_address:, fields:)
+def build_front_matter(title:, date:, time:, season:, venue:, venue_url:, venue_address:, fields:, needs_review: [])
   yaml = +"---\n"
   yaml << "title: #{title.inspect}\n"
   yaml << "date: #{date.iso8601}\n" if date
@@ -234,6 +243,10 @@ def build_front_matter(title:, date:, time:, season:, venue:, venue_url:, venue_
       yaml << "#{k}: #{v}\n"
     end
   end
+  unless needs_review.empty?
+    yaml << "needs_review:\n"
+    needs_review.each { |n| yaml << "  - #{n.inspect}\n" }
+  end
   yaml << "---\n"
   yaml
 end
@@ -247,8 +260,9 @@ report << "Output: #{OUTPUT_DIR}"
 report << "Total chunks parsed: #{chunks.size}"
 report << ""
 
-stats = { ok: 0, skip: 0, manual: 0 }
+stats = { ok: 0, review: 0, skip: 0, manual: 0 }
 manual_entries = []
+review_entries = []
 
 chunks.each do |chunk|
   h3_raw = chunk[:lines].first.sub(/^### /, '').rstrip
@@ -256,6 +270,7 @@ chunks.each do |chunk|
 
   begin
     title, date_text_h3 = split_title_date(h3_raw)
+    needs_review = []
 
     # Find the "metadata" line (date/time/venue). Often #1 non-blank after H3.
     # In older format: it's an H4. Strip leading "#### " if present.
@@ -271,15 +286,37 @@ chunks.each do |chunk|
       date = parse_date(date_text_h3, hint_year: hint_year) || parse_date(meta_clean, hint_year: hint_year)
     end
 
+    # Fallback: scan the full H3 (no dash split needed — parse_date matches anywhere)
     if date.nil?
-      manual_entries << "[NEEDS-MANUAL] #{src_loc}: cannot parse date from H3 #{h3_raw.inspect} or metadata #{meta_clean&.strip.inspect}"
-      stats[:manual] += 1
-      next
+      hint = chunk[:season]&.split('-')&.last&.to_i
+      date = parse_date(h3_raw, hint_year: hint)
     end
 
-    season = chunk[:season] || infer_season(date)
+    # Fallback: scan body for a parseable date
+    if date.nil?
+      hint = chunk[:season]&.split('-')&.last&.to_i
+      date = scan_body_for_date(chunk[:lines][1..] || [], hint_year: hint)
+      needs_review << "date scanned from body" if date
+    end
 
-    if PILOT_DATES && !PILOT_DATES.include?(date.iso8601)
+    # No more fallbacks — if we can't find a real date in the source, leave it
+    # blank for the human. Do NOT invent (e.g. day=1 from month-only).
+    if date.nil?
+      needs_review << "date"
+    end
+
+    # If split_title_date couldn't separate a date out, the "title" is the whole H3
+    # (likely contains date/venue/prose). Flag it for human cleanup rather than
+    # guessing. Detect by checking whether the title still has a year or month in it.
+    if title.nil? || title.strip.empty? ||
+       title =~ /\d{4}/ || title =~ /\b(?:#{MONTHS.join('|')})\b/
+      title = "TODO"
+      needs_review << "title"
+    end
+
+    season = chunk[:season] || (date && infer_season(date))
+
+    if PILOT_DATES && (date.nil? || !PILOT_DATES.include?(date.iso8601))
       next
     end
 
@@ -295,7 +332,11 @@ chunks.each do |chunk|
 
     fields, body, removed_captions = extract_fields_and_body(body_lines)
 
-    fname = "#{date.iso8601}-#{slugify(title)}.md"
+    fname = if date
+              "#{date.iso8601}-#{slugify(title)}.md"
+            else
+              "TODO-#{slugify(h3_raw)}.md"
+            end
     out_path = File.join(OUTPUT_DIR, fname)
 
     if File.exist?(out_path)
@@ -312,19 +353,27 @@ chunks.each do |chunk|
       venue: meta[:venue],
       venue_url: meta[:venue_url],
       venue_address: meta[:venue_address],
-      fields: fields
+      fields: fields,
+      needs_review: needs_review
     )
 
     File.write(out_path, front + "\n" + body.gsub(/\n{3,}/, "\n\n").rstrip + "\n")
 
-    stats[:ok] += 1
+    tag = needs_review.empty? ? '[OK]' : '[REVIEW]'
+    if needs_review.empty?
+      stats[:ok] += 1
+    else
+      stats[:review] += 1
+      review_entries << "#{src_loc} → #{fname}: needs_review=#{needs_review.inspect}"
+    end
     info = []
     info << "title=#{title.inspect}"
     info << "date=#{date}"
     info << "season=#{season}"
     info << "extracted=[#{fields.keys.join(', ')}]" unless fields.empty?
+    info << "needs_review=#{needs_review.inspect}" unless needs_review.empty?
     info << "dropped_caption=#{removed_captions.first.inspect}" if removed_captions.any?
-    report << "[OK] #{fname}  (#{src_loc})"
+    report << "#{tag} #{fname}  (#{src_loc})"
     report << "     #{info.join('; ')}"
   rescue => e
     manual_entries << "[ERROR] #{src_loc}: #{e.class}: #{e.message}"
@@ -334,14 +383,19 @@ end
 
 report << ""
 report << "=== STATS ==="
-report << "OK (newly written): #{stats[:ok]}"
-report << "Skipped (already exist): #{stats[:skip]}"
-report << "Manual fixup needed: #{stats[:manual]}"
+report << "OK (clean, newly written):     #{stats[:ok]}"
+report << "REVIEW (stub w/ needs_review): #{stats[:review]}"
+report << "Skipped (already exist):       #{stats[:skip]}"
+report << "Manual fixup needed:           #{stats[:manual]}"
+report << ""
+report << "=== REVIEW (human fill-ins) ==="
+report.concat(review_entries) unless review_entries.empty?
+report << "(none)" if review_entries.empty?
 report << ""
 report << "=== MANUAL FIXUP ==="
 report.concat(manual_entries) unless manual_entries.empty?
 report << "(none)" if manual_entries.empty?
 
 File.write(REPORT_FILE, report.join("\n") + "\n")
-puts "Wrote #{stats[:ok]} files, skipped #{stats[:skip]}, #{stats[:manual]} need manual fixup."
+puts "Wrote #{stats[:ok]} clean + #{stats[:review]} review files, skipped #{stats[:skip]}, #{stats[:manual]} manual."
 puts "See #{REPORT_FILE}"
