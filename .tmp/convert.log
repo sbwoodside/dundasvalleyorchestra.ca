@@ -1,0 +1,113 @@
+=== CONVERT REPORT — 2026-05-20 14:19:07 -0400 ===
+Source: /Users/simon/sandbox/dundasvalleyorchestra.ca/concerts/index.md
+Output: /Users/simon/sandbox/dundasvalleyorchestra.ca/.tmp/expected
+Total chunks parsed: 45
+
+[OK] 2026-05-31-the-dvo-plays-mahler.md  (concerts/index.md:18)
+     title="The DVO plays Mahler!"; date=2026-05-31; season=2025-2026; extracted=[livestream_url]
+[OK] 2026-03-31-special-online-only-performance-oliver-wesley-james-100th-birthday.md  (concerts/index.md:44)
+     title="Special online-only performance: Oliver Wesley-James 100th Birthday"; date=2026-03-31; season=2025-2026
+[OK] 2026-02-01-celebration-of-black-history.md  (concerts/index.md:52)
+     title="Celebration of Black History"; date=2026-02-01; season=2025-2026; extracted=[livestream_url, video_embed, program_pdf, poster, poster_pdf]; dropped_caption="Full livestream:"
+[OK] 2025-12-07-the-dvo-presents-the-nancy-cassels-christmas-chamber-music-concert.md  (concerts/index.md:76)
+     title="The DVO presents The Nancy Cassels Christmas Chamber Music Concert"; date=2025-12-07; season=2025-2026; extracted=[program_pdf, poster, poster_pdf]
+[OK] 2025-11-09-our-space-odyssey.md  (concerts/index.md:100)
+     title="Our Space Odyssey"; date=2025-11-09; season=2025-2026; extracted=[livestream_url, video_embed, program_pdf, poster, poster_pdf]
+[OK] 2025-06-22-peace.md  (concerts/index.md:141)
+     title="Peace"; date=2025-06-22; season=2024-2025; extracted=[program_pdf, poster, poster_pdf]
+[OK] 2025-05-25-from-the-new-world.md  (concerts/index.md:166)
+     title="From The New World"; date=2025-05-25; season=2024-2025; extracted=[video_embed, program_pdf, livestream_url, poster, poster_pdf]
+[OK] 2025-03-22-centuries-of-dance-rescheduled.md  (concerts/index.md:196)
+     title="Centuries of Dance – rescheduled"; date=2025-03-22; season=2024-2025; extracted=[video_embed, program_pdf, poster, poster_pdf]
+[OK] 2024-11-24-the-dundas-valley-orchestra-presents-the-nancy-cassals-christmas-chamber-music-concert.md  (concerts/index.md:233)
+     title="The Dundas Valley Orchestra presents: the Nancy Cassals Christmas Chamber Music Concert"; date=2024-11-24; season=2024-2025; extracted=[poster, poster_pdf]
+[OK] 2024-11-03-sight-sound-symphony.md  (concerts/index.md:259)
+     title="Sight, Sound, Symphony!"; date=2024-11-03; season=2024-2025; extracted=[program_pdf, poster]
+[OK] 2024-05-26-symphonic-spotlight.md  (concerts/index.md:302)
+     title="Symphonic Spotlight"; date=2024-05-26; season=2023-2024; extracted=[video_embed, program_pdf, livestream_url, poster, poster_pdf]; dropped_caption="View the concert livestream recording:"
+[OK] 2024-02-04-romance-and-adventure.md  (concerts/index.md:340)
+     title="Romance and Adventure"; date=2024-02-04; season=2023-2024; extracted=[program_pdf, livestream_url, video_embed, poster, poster_pdf]
+[OK] 2023-11-12-requiem.md  (concerts/index.md:375)
+     title="Requiem"; date=2023-11-12; season=2023-2024; extracted=[poster, poster_pdf, video_embed]
+[OK] 2023-05-28-swing-into-spring.md  (concerts/index.md:412)
+     title="Swing into Spring!"; date=2023-05-28; season=2022-2023; extracted=[video_embed, poster, poster_pdf, program_pdf]
+[OK] 2023-02-12-travelling-again.md  (concerts/index.md:454)
+     title="Travelling again"; date=2023-02-12; season=2022-2023; extracted=[video_embed, poster]
+[OK] 2022-10-30-a-costume-party-for-kids-of-all-ages.md  (concerts/index.md:487)
+     title="A Costume Party for Kids of All Ages"; date=2022-10-30; season=2022-2023; extracted=[video_embed, program_pdf]
+[OK] 2022-06-26-concert-in-the-park.md  (concerts/index.md:513)
+     title="Concert in the Park"; date=2022-06-26; season=2022-2023
+[OK] 2022-05-29-the-heroes-among-us.md  (concerts/index.md:533)
+     title="The Heroes Among Us"; date=2022-05-29; season=2021-2022; extracted=[poster, poster_pdf]
+[OK] 2022-04-03-celebrating-friends.md  (concerts/index.md:560)
+     title="Celebrating Friends"; date=2022-04-03; season=2021-2022; extracted=[video_embed]
+[OK] 2021-11-21-together-again.md  (concerts/index.md:584)
+     title="Together Again!"; date=2021-11-21; season=2021-2022
+[OK] 2020-02-09-symphonic-traditions.md  (concerts/index.md:614)
+     title="Symphonic Traditions!"; date=2020-02-09; season=2019-2020
+[OK] 2019-11-10-broadway-spectacular.md  (concerts/index.md:643)
+     title="Broadway Spectacular!"; date=2019-11-10; season=2019-2020
+[OK] 2019-05-26-looking-back-and-looking-forward.md  (concerts/index.md:676)
+     title="Looking Back and Looking Forward"; date=2019-05-26; season=2018-2019
+[OK] 2019-01-27-a-jewel-in-the-valley.md  (concerts/index.md:692)
+     title="A Jewel in the Valley"; date=2019-01-27; season=2018-2019
+[OK] 2018-11-04-the-dundas-valley-orchestra-at-forty.md  (concerts/index.md:714)
+     title="The Dundas Valley Orchestra at Forty!"; date=2018-11-04; season=2018-2019
+[OK] 2018-05-27-lands-of-the-midnight-sun.md  (concerts/index.md:734)
+     title="Lands of the Midnight Sun"; date=2018-05-27; season=2017-2018
+[OK] 2018-01-28-an-afternoon-at-the-opera.md  (concerts/index.md:751)
+     title="An Afternoon at the Opera"; date=2018-01-28; season=2017-2018
+[OK] 2017-11-12-fall-fair.md  (concerts/index.md:768)
+     title="Fall Fair"; date=2017-11-12; season=2017-2018
+[OK] 2017-05-28-happy-birthday-canada.md  (concerts/index.md:790)
+     title="Happy Birthday Canada"; date=2017-05-28; season=2016-2017
+[OK] 2017-01-29-movie-classics.md  (concerts/index.md:814)
+     title="Movie Classics"; date=2017-01-29; season=2016-2017
+[OK] 2016-11-06-spotlight-dundas.md  (concerts/index.md:835)
+     title="Spotlight Dundas"; date=2016-11-06; season=2016-2017
+[OK] 2016-05-29-spring-concert.md  (concerts/index.md:862)
+     title="Spring Concert"; date=2016-05-29; season=2015-2016
+[OK] 2016-01-24-hot-hot-hot.md  (concerts/index.md:872)
+     title="Hot! Hot! Hot!"; date=2016-01-24; season=2015-2016
+[OK] 2015-11-08-remembering-vimy.md  (concerts/index.md:884)
+     title="Remembering Vimy"; date=2015-11-08; season=2015-2016
+[REVIEW] 2015-06-07-todo.md  (concerts/index.md:898)
+     title="TODO"; date=2015-06-07; season=2014-2015; needs_review=["title"]
+[OK] 2015-05-24-immortal-beloved.md  (concerts/index.md:905)
+     title="Immortal Beloved"; date=2015-05-24; season=2014-2015
+[OK] 2015-01-25-a-celebration-of-black-history.md  (concerts/index.md:922)
+     title="A Celebration of Black History"; date=2015-01-25; season=2014-2015
+[REVIEW] 2014-11-09-todo.md  (concerts/index.md:954)
+     title="TODO"; date=2014-11-09; season=2013-2014; needs_review=["title"]
+[REVIEW] 2014-06-08-soir-e-in-the-afternoon.md  (concerts/index.md:958)
+     title="Soirée in the Afternoon"; date=2014-06-08; season=2013-2014; needs_review=["date scanned from body"]
+[OK] 2014-05-25-song-and-dance-the-music-of-opera-and-ballet.md  (concerts/index.md:979)
+     title="Song and Dance - the Music of Opera and Ballet"; date=2014-05-25; season=2013-2014
+[OK] 2014-01-19-winter-dreams.md  (concerts/index.md:997)
+     title="Winter Dreams"; date=2014-01-19; season=2013-2014
+[REVIEW] TODO-concert-on-sunday-january-at-3-00-p-m.md  (concerts/index.md:1033)
+     title="TODO"; date=; season=2012-2013; needs_review=["date", "title"]
+[REVIEW] TODO-concert-on-sunday-may-at-3-00-p-m.md  (concerts/index.md:1041)
+     title="TODO"; date=; season=2012-2013; needs_review=["date", "title"]
+[REVIEW] 2012-06-03-todo.md  (concerts/index.md:1053)
+     title="TODO"; date=2012-06-03; season=2011-2012; needs_review=["title"]
+[REVIEW] 2012-01-22-todo.md  (concerts/index.md:1073)
+     title="TODO"; date=2012-01-22; season=2011-2012; needs_review=["title"]
+
+=== STATS ===
+OK (clean, newly written):     38
+REVIEW (stub w/ needs_review): 7
+Skipped (already exist):       0
+Manual fixup needed:           0
+
+=== REVIEW (human fill-ins) ===
+concerts/index.md:898 → 2015-06-07-todo.md: needs_review=["title"]
+concerts/index.md:954 → 2014-11-09-todo.md: needs_review=["title"]
+concerts/index.md:958 → 2014-06-08-soir-e-in-the-afternoon.md: needs_review=["date scanned from body"]
+concerts/index.md:1033 → TODO-concert-on-sunday-january-at-3-00-p-m.md: needs_review=["date", "title"]
+concerts/index.md:1041 → TODO-concert-on-sunday-may-at-3-00-p-m.md: needs_review=["date", "title"]
+concerts/index.md:1053 → 2012-06-03-todo.md: needs_review=["title"]
+concerts/index.md:1073 → 2012-01-22-todo.md: needs_review=["title"]
+
+=== MANUAL FIXUP ===
+(none)

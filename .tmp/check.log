@@ -1,0 +1,93 @@
+=== CHECK REPORT — 2026-05-20 14:19:07 -0400 ===
+Actual:   /Users/simon/sandbox/dundasvalleyorchestra.ca/_concerts
+Expected: /Users/simon/sandbox/dundasvalleyorchestra.ca/.tmp/expected
+Mode:     all
+
+[CLEAN] 2014-01-19-winter-dreams.md
+[CLEAN] 2014-05-25-song-and-dance-the-music-of-opera-and-ballet.md
+[CLEAN] 2015-01-25-a-celebration-of-black-history.md
+[CLEAN] 2015-05-24-immortal-beloved.md
+[CLEAN] 2015-11-08-remembering-vimy.md
+[CLEAN] 2016-01-24-hot-hot-hot.md
+[CLEAN] 2016-05-29-spring-concert.md
+[CLEAN] 2016-11-06-spotlight-dundas.md
+[CLEAN] 2017-01-29-movie-classics.md
+[CLEAN] 2017-05-28-happy-birthday-canada.md
+[CLEAN] 2017-11-12-fall-fair.md
+[CLEAN] 2018-01-28-an-afternoon-at-the-opera.md
+[CLEAN] 2018-05-27-lands-of-the-midnight-sun.md
+[CLEAN] 2018-11-04-the-dundas-valley-orchestra-at-forty.md
+[CLEAN] 2019-01-27-a-jewel-in-the-valley.md
+[CLEAN] 2019-05-26-looking-back-and-looking-forward.md
+[CLEAN] 2019-11-10-broadway-spectacular.md
+[CLEAN] 2020-02-09-symphonic-traditions.md
+[CLEAN] 2021-11-21-together-again.md
+[CLEAN] 2022-04-03-celebrating-friends.md
+[CLEAN] 2022-05-29-the-heroes-among-us.md
+[CLEAN] 2022-06-26-concert-in-the-park.md
+[CLEAN] 2022-10-30-a-costume-party-for-kids-of-all-ages.md
+[CLEAN] 2023-02-12-travelling-again.md
+[CLEAN] 2023-05-28-swing-into-spring.md
+[CLEAN] 2023-11-12-requiem.md
+[CLEAN] 2024-02-04-romance-and-adventure.md
+[CLEAN] 2024-05-26-symphonic-spotlight.md
+[CLEAN] 2024-11-03-sight-sound-symphony.md
+[CLEAN] 2024-11-24-the-dundas-valley-orchestra-presents-the-nancy-cassals-christmas-chamber-music-concert.md
+[CLEAN] 2025-03-22-centuries-of-dance-rescheduled.md
+[CLEAN] 2025-05-25-from-the-new-world.md
+[CLEAN] 2025-06-22-peace.md
+[CLEAN] 2025-11-09-our-space-odyssey.md
+[CLEAN] 2025-12-07-the-dvo-presents-the-nancy-cassels-christmas-chamber-music-concert.md
+[CLEAN] 2026-02-01-celebration-of-black-history.md
+[CLEAN] 2026-03-31-special-online-only-performance-oliver-wesley-james-100th-birthday.md
+[CLEAN] 2026-05-31-the-dvo-plays-mahler.md
+[ONLY-ACTUAL] 2012-01-22-the-music-of-dance.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2012-06-03-the-jubilation-of-spring.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2013-01-20-songs-of-the-people.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2013-05-12-student-days.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2014-06-08-soiree-in-the-afternoon.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2014-11-09-concert-for-arts-dundas-weekend.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[ONLY-ACTUAL] 2015-06-07-dvo-annual-fundraiser-2015.md  (file in _concerts/ has no matching source chunk; possibly hand-authored or stale)
+[MISSING]     2012-01-22-todo.md  (source chunk converted but no file in _concerts/)
+[MISSING]     2012-06-03-todo.md  (source chunk converted but no file in _concerts/)
+[MISSING]     2014-06-08-soir-e-in-the-afternoon.md  (source chunk converted but no file in _concerts/)
+[MISSING]     2014-11-09-todo.md  (source chunk converted but no file in _concerts/)
+[MISSING]     2015-06-07-todo.md  (source chunk converted but no file in _concerts/)
+[MISSING]     TODO-concert-on-sunday-january-at-3-00-p-m.md  (source chunk converted but no file in _concerts/)
+[MISSING]     TODO-concert-on-sunday-may-at-3-00-p-m.md  (source chunk converted but no file in _concerts/)
+
+=== NO-FABRICATION PASS ===
+[FABRICATED] 2012-01-22-the-music-of-dance.md  (1 body lines not found in source)
+    Also on the afternoon agenda is Latin music and tunes from Lord of the Dance and Henry Mancini's Pennywhistle Jig, which will showcase DVO's assistant conductor Máté Szigeti on piccolo. The program will also feature the premiere performance of the new orchestration of Linda's Waltz by DVO Composer-in residence Mark Thomas.
+
+[FABRICATED] 2012-06-03-the-jubilation-of-spring.md  (3 body lines not found in source)
+    The event takes place at 3 p.m., June 3, St. Paul's United Church, 29 Park St. W., Dundas.
+    Music director Laura Thomas will lead the orchestra in a program featuring music written about and for springtime. The concert will include music by Canadian composer Alice Ho and Robert Schumann's Symphony No. 1. Also on the program will be On Hearing the First Cuckoo of Spring by Delius, Sibelius' Spring Song and The Voices of Spring by Johann Strauss, Jr.
+    The Dundas Valley Orchestra recently performed with many of Mohawk College's talented students at the annual music department Concerto Competition concert. Two of the soloists have been invited to perform again with the DVO on June 3. Violinists Marina Mulligan and Calypso McKnight will play the first movement of Mozart's Concertone for Two Violins. Both young musicians are students of Sonia Vizante.
+
+[FABRICATED] 2013-01-20-songs-of-the-people.md  (6 body lines not found in source)
+    The concert begins at 3 pm.
+    Cello soloist  Stephanie Kim will be performing the Kol Nidrei by Max Bruch. Kim is a talented music student from the Niagara area.
+    The program will also feature Rimsky-Korsakov’s Symphony No. 1, Vaughan-Williams English Folk Song Suite, Butterworth’s On the Banks of Green Willow, Harry Somers’ Little Suite (on French Canadian Themes) for String Orchestra, and Claude Champagne’s Danse Villageoise.
+    Many concert goers happily make donations of $10 or more, which will be acknowledged with a tax receipt. But as always, a donation is optional. The concert is provided free of charge.
+    There is a reception following the concert. Mingle with the musicians over a coffee and a snack.
+    See writeup in Greater Hamilton Musician: [Dundas Valley Orchestra's "Songs of the People" Concert Sunday January 20th](http://musicbizbites.blogspot.com/2013/01/dundas-valley-orchestras-songs-of.html)
+
+[FABRICATED] 2013-05-12-student-days.md  (5 body lines not found in source)
+    The program included:
+    - Pomp and Circumstance No. 1 by Edward Elgar
+    - McMaster Suite “Overture” by Mark Thomas
+    - Academic Festival Overture by Johannes Brahms
+    - Symphony No. 1 by Georges Bizet
+
+[FABRICATED] 2014-11-09-concert-for-arts-dundas-weekend.md  (1 body lines not found in source)
+    A concert was held Sunday November 9, 2014 at 2pm for Arts Dundas Weekend
+
+
+=== STATS ===
+clean (byte-identical):     38
+diff (review needed):       0
+only-actual (unexpected):   7
+missing (not yet in repo):  7
+no-fab clean:               40
+no-fab drift:               5
