@@ -5,7 +5,7 @@ time: "3:00 pm"
 season: "2016-2017"
 venue: "St. Augustine’s Catholic Church"
 venue_url: "http://www.staugustinesparish.ca"
-venue_address: "[59 Sydenham St., Dundas Ontario](http://maps.google.ca/maps?f=q&source=s_q&hl=en&geocode=&abauth=52c9b5ec3SKrOKcfEW8DWdUDQEC9NyZyiiI&authuser=0&q=St.+Augustine's+Parish,+Dundas,+ON&aq=2&oq=st+augustines&vps=2&jsv=472d&sll=43.268808,-79.95664&sspn=0.010609,0.016136&vpsrc=0&num=10)"
+venue_address: "59 Sydenham St., Dundas Ontario"
 ---
 
 _**Please note change in venue.** We will return to St. Paul's United Church for our next concert, following the completion of renovations._

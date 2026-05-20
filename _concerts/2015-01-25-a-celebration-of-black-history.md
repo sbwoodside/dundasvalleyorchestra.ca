@@ -29,4 +29,3 @@ Admission is free. DVO gratefully accepts donations, and tax receipts are provid
 
 DVO is comprised of talented amateur musicians from the Hamilton area. The ensemble presents two major public concerts each year and performs at Hamilton retirement homes. Audience members are welcome to meet the musicians at the post-concert reception.
 
-* * *

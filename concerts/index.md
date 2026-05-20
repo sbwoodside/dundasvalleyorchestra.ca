@@ -23,6 +23,8 @@ image:
 _No upcoming concerts scheduled. Check back soon._
 {% endif %}
 
+---
+
 ## Upcoming Concerts
 
 {% if upcoming.size > 1 %}
@@ -34,6 +36,8 @@ _No upcoming concerts scheduled. Check back soon._
 {% else %}
 _No additional upcoming concerts at this time._
 {% endif %}
+
+---
 
 ## Past Concerts
 
@@ -48,3 +52,5 @@ _No additional upcoming concerts at this time._
 <ul>
 {% for s in site.data.seasons.seasons %}{% unless s.id == most_recent_past_season %}<li><a href="/concerts/season/{{ s.id }}/">{{ s.label }}</a></li>
 {% endunless %}{% endfor %}</ul>
+
+*The DVO has been performing since 1978*

@@ -4,7 +4,7 @@ date: 2013-05-12
 season: "2012-2013"
 ---
 
-The program included:
+The program includes:
 
 - Pomp and Circumstance No. 1 by Edward Elgar
 - McMaster Suite “Overture” by Mark Thomas
