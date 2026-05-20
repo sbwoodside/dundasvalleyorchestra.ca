@@ -5,15 +5,7 @@ layout: page
 {% assign season_concerts = site.concerts | where: "season", page.season | sort: "date" | reverse %}
 
 <ul class="concert-cards">
-  {% for c in season_concerts %}
-  <li>
-    {% if c.poster %}
-    <a href="{{ c.url }}"><img src="{{ c.poster }}" alt="{{ c.title | escape }} concert poster"></a>
-    {% endif %}
-    <h2><a href="{{ c.url }}">{{ c.title }}</a></h2>
-    <p>{{ c.date | date: "%A, %B %-d, %Y" }}</p>
-  </li>
-  {% endfor %}
+  {% for c in season_concerts %}{% include concert-card.html concert=c %}{% endfor %}
 </ul>
 
 {{ content }}

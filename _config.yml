@@ -54,3 +54,9 @@ defaults:
       venue: "St. Paul's United Church"
       venue_url: "http://www.stpaulsdundas.com"
       venue_address: "29 Park St. W., Dundas (corner of Cross and Park Streets)"
+  - scope:
+      path: "concerts/season"
+      type: pages
+    values:
+      permalink: /concerts/season/:basename/
+      layout: season
