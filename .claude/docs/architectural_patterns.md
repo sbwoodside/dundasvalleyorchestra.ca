@@ -11,6 +11,16 @@ Jekyll uses a remote theme (`mmistakes/so-simple-theme@3.2.0`). To override them
 
 Jekyll's load order always prefers local files over gem/remote-theme files at the same path.
 
+### SCSS override entry point
+
+`assets/css/main.scss` is the project's single stylesheet. It mirrors the theme's own entry point and overrides it. It must:
+
+- Begin with YAML front matter (just `--- / sitemap: false / ---` is enough). Jekyll only Sass-compiles files that have front matter.
+- `@import "so-simple";` to pull in the theme's `_sass/` partials. Without this, the page is unstyled.
+- Add custom rules below the import. They cascade over theme defaults because they appear later.
+
+The theme's stock `main.scss` is in the gem at `jekyll-theme-so-simple-3.2.0/assets/css/main.scss` — useful as a reference for what to mirror, but the local file takes precedence at build time.
+
 ## Page File Layout
 
 Top-level sections use folder-as-route (a directory containing `index.md` or `index.html`):
