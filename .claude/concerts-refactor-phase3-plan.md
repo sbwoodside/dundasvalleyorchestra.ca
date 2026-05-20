@@ -123,9 +123,9 @@ Per CLAUDE.md guardrail: do not push past the phase boundary. Report to the user
 - Build status.
 - List of URLs spot-checked.
 
-## Known limitation (separate from this phase)
+## Known limitation (resolved by hand)
 
-The chunk loop treats the first non-blank line after an H3 as a "metadata" line and excludes it from the body. For chunk 954, that first line is the actual body content (an image) rather than a meta line, so the image is currently dropped from the body. The conversion will still produce a file with the correct date and `needs_review: ["title"]`, but the body will be empty until the human pastes the image back from source or the converter is fixed. A small heuristic (detect when `parse_metadata_line` finds nothing AND the line isn't an H4, then put it back at the front of `body_lines`) would fix this. Out of scope for this phase — call it out in the report if the human wants it fixed first.
+The chunk loop treats the first non-blank line after an H3 as a "metadata" line and excludes it from the body. For chunk 954, that first line is the actual body content (an image) rather than a meta line, so the converter dropped the image from the body. The human patched `_concerts/2014-11-09-concert-for-arts-dundas-weekend.md` by hand; the converter will not be changed.
 
 ## Critical files
 
@@ -140,5 +140,4 @@ The chunk loop treats the first non-blank line after an H3 as a "metadata" line 
 - Creating per-season stub pages under `concerts/season/` (Phase 4).
 - Adding `jekyll-redirect-from` aliases (Phase 5).
 - Any layout changes.
-- Fixing the image-line-as-meta bug described in "Known limitation" above.
 - Removing `.tmp/` — keep until Phase 5 merges.
