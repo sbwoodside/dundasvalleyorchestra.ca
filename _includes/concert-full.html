@@ -1,0 +1,38 @@
+<div class="concert">
+  <p class="concert-date">{{ include.concert.date | date: "%A, %B %-d, %Y" }}</p>
+  <p class="concert-meta">
+    {% if include.concert.time %}{{ include.concert.time }}{% endif %}
+    {% if include.concert.time and include.concert.venue %} at {% endif %}
+    {% if include.concert.venue_url %}<a href="{{ include.concert.venue_url }}">{{ include.concert.venue }}</a>{% else %}{{ include.concert.venue }}{% endif %}{% if include.concert.venue_address %}, {{ include.concert.venue_address }}{% endif %}
+  </p>
+
+  {% if include.concert.livestream_url %}
+  <p><a href="{{ include.concert.livestream_url }}" class="btn btn--accent">View concert livestream (on the day)</a></p>
+  {% endif %}
+
+  {% if include.concert.video_embed %}
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="{{ include.concert.video_embed }}" frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      title="{{ include.concert.title | escape }} – {{ include.concert.date | date: "%A, %B %-d, %Y" }}"></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+  {% endif %}
+
+  {% if include.concert.program_pdf %}
+  <p><a href="{{ include.concert.program_pdf | uri_escape }}" class="btn btn--accent">Download complete program</a></p>
+  {% endif %}
+
+  {% if include.concert.poster %}
+  <p>
+    {% if include.concert.poster_pdf %}<a href="{{ include.concert.poster_pdf }}">{% endif %}
+    <img src="{{ include.concert.poster }}" alt="{{ include.concert.title | escape }} concert poster">
+    {% if include.concert.poster_pdf %}</a>{% endif %}
+  </p>
+  {% endif %}
+
+  <div class="concert-body">
+    {{ include.concert.content }}
+  </div>
+</div>

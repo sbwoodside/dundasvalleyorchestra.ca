@@ -11,14 +11,24 @@ Jekyll uses a remote theme (`mmistakes/so-simple-theme@3.2.0`). To override them
 
 Jekyll's load order always prefers local files over gem/remote-theme files at the same path.
 
-## Folder-as-Route Convention
+### SCSS override entry point
 
-Each URL is a directory containing `index.md` (or `index.html`):
+`assets/css/main.scss` is the project's single stylesheet. It mirrors the theme's own entry point and overrides it. It must:
+
+- Begin with YAML front matter (just `--- / sitemap: false / ---` is enough). Jekyll only Sass-compiles files that have front matter.
+- `@import "so-simple";` to pull in the theme's `_sass/` partials. Without this, the page is unstyled.
+- Add custom rules below the import. They cascade over theme defaults because they appear later.
+
+The theme's stock `main.scss` is in the gem at `jekyll-theme-so-simple-3.2.0/assets/css/main.scss` — useful as a reference for what to mirror, but the local file takes precedence at build time.
+
+## Page File Layout
+
+Top-level sections use folder-as-route (a directory containing `index.md` or `index.html`):
 
 - `/about/` → `about/index.md`
 - `/students/young-musician-award/` → `students/young-musician-award/index.md`
 
-This pattern appears in every section. Don't create named `.md` files for top-level pages; use the directory convention.
+Named `.md` files at the same level are also acceptable when one-file-per-stub is more ergonomic than one-subdir-per-stub (e.g. per-season archive pages under `concerts/season/`). Either form is fine; pick whichever keeps the surrounding tree clean.
 
 ## Front Matter Conventions
 

@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% assign season_concerts = site.concerts | where: "season", page.season | sort: "date" | reverse %}
+
+<ul class="concert-cards">
+  {% for c in season_concerts %}{% include concert-card.html concert=c %}{% endfor %}
+</ul>
+
+{{ content }}
