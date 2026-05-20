@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Next concert Sunday, May 31, 2026
+title: Dundas Valley Orchestra
 description: "Dundas Valley Orchestra is an amateur orchestra in Hamilton, Ontario"
 image:
   path: /images/photos/2024-25 group picture cropped.jpeg
 ---
 
-### The DVO plays Mahler! – Sunday, May 31, 2026
+## Next Concert
 
-3pm at [St. Paul's United Church](http://www.stpaulsdundas.com), 29 Park St. W., Dundas (corner of Cross and Park Streets)
-
-[View concert livestream (on the day)](https://stpaulsdundas.com/dvo){: .btn .btn--accent}
-
-For the first time, the DVO is going to perform music by one of the titans of the symphonic repertoire – Symphony No. 4 by Gustav Mahler. A not-to-be missed DVO first! The concert will also feature our 2026 Student Composer Competition winning piece and a performance of Launy Grøndahl's Concerto for Trombone by our own Principal Trombonist, Dan Grieve.
-
-Pay what you like.
-The venue is wheelchair accessible. Please remember that St. Paul’s is a fragrance-free facility.
-{: .notice--info}
+{% assign sorted = site.concerts | sort: 'date' %}
+{% assign upcoming = sorted | where_exp: 'c', 'c.date >= site.time' %}
+{% assign next_concert = upcoming | first %}
+{% if next_concert %}
+### [{{ next_concert.title }}]({{ next_concert.url }})
+{% include concert-full.html concert=next_concert %}
+{% else %}
+_No upcoming concerts scheduled. Check back soon._
+{% endif %}
 
 [More concert information →](/concerts){: .btn .btn--accent}
 
