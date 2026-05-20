@@ -34,7 +34,7 @@ flush = lambda do
 end
 
 src_lines.each_with_index do |line, idx|
-  if (m = line.match(/^## Concerts of the (\d{4}-\d{4})/))
+  if (m = line.match(/^## Concerts(?: of the)? (\d{4}-\d{4})/))
     flush.call
     current_season = m[1]
   elsif line.start_with?('### ')
