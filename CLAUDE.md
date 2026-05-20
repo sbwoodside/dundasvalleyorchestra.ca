@@ -44,6 +44,10 @@ GitHub Pages auto-builds on push to `master`. `CNAME` at repo root sets the cust
 
 - `.claude/docs/architectural_patterns.md` — theme override pattern, content conventions, kramdown styling, embedded media
 
+## Collaboration preferences
+
+- Do not run destructive cleanup commands (`rm -rf`, `find … -delete`, etc.) — describe what should be removed and let the user run it. Applies even to scratch directories you produced earlier in the same session.
+
 ---
 
 ## Current focused task: Concerts page refactor
