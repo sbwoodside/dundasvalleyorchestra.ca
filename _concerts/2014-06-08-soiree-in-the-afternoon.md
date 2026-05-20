@@ -2,13 +2,13 @@
 title: "Soirée in the Afternoon"
 date: 2014-06-08
 season: "2013-2014"
-needs_review:
-  - "date scanned from body"
 ---
 
 * June 8, 2014 from 2-5 pm
 * At Valley City Manufacturing, 64 Hatt St, Dundas
 * $35 per person, $20 students, 10 for $250
+
+[![](/images/DVO-invitation-2014.png)](/images/DVO-invitation-2014.png)
 
 [Ticket purchase link →](http://dvosoiree.eventbrite.ca)
 
