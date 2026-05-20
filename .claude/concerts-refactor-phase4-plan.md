@@ -23,7 +23,7 @@ Two small includes eliminate the duplication that would otherwise exist between 
 
 2. **`_includes/concert-card.html`** — concert card (poster thumb + title + date + link). Takes `include.concert`. Body is the existing `_layouts/season.html` lines 9–15 (the `<li>` block) with `c.X` → `include.concert.X`.
 
-3. **`concerts/season/YYYY-YYYY/index.md`** × 14 — folder-as-route per `.claude/docs/architectural_patterns.md`. Each is two lines of front matter:
+3. **`concerts/season/YYYY-YYYY.md`** × 14 — named files (acceptable per `.claude/docs/architectural_patterns.md`; one file per season is cleaner than 14 subdirs). To keep the canonical URL form `/concerts/season/2025-2026/` (trailing slash, no `.html`), add a `permalink` to each stub or a `_config.yml` defaults rule for that path — see Risks below. Each file is:
 
    ```yaml
    ---
@@ -100,7 +100,7 @@ Two small includes eliminate the duplication that would otherwise exist between 
 
 - `_includes/concert-full.html` (new)
 - `_includes/concert-card.html` (new)
-- `concerts/season/<YYYY-YYYY>/index.md` × 14 (new)
+- `concerts/season/<YYYY-YYYY>.md` × 14 (new)
 - `_layouts/concert.html` (simplify to delegate to include)
 - `_layouts/season.html` (swap inline card for include)
 - `concerts/index.md` (full rewrite below front matter)
@@ -121,7 +121,7 @@ Two small includes eliminate the duplication that would otherwise exist between 
 ## Risks and rollback
 
 - **`where_exp` with Time comparison** — Liquid + Jekyll's GH-Pages-compatible version may handle `c.date >= site.time` correctly, or may stringify and break. If the split misbehaves, switch to an explicit for-loop with `c.date | date: '%Y%m%d' >= today_str` comparison.
-- **Folder-as-route consistency** — `concerts/season/2025-2026/index.md` form rather than `concerts/season/2025-2026.md` per architectural docs.
+- **Permalink behaviour for named .md files** — Jekyll's default permalink for `concerts/season/2025-2026.md` produces `/concerts/season/2025-2026.html` unless trailing-slash routing is in effect. The site's `_config.yml` should be checked; if needed, set `permalink: /concerts/season/:basename/` on each stub (or via collection-level config) to keep the canonical URL form `/concerts/season/2025-2026/`.
 - **Rollback** — `git revert` the Phase 4 commits; the per-concert pages and season data remain intact (they were Phase 3).
 
 ## Out of scope

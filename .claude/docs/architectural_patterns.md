@@ -11,14 +11,14 @@ Jekyll uses a remote theme (`mmistakes/so-simple-theme@3.2.0`). To override them
 
 Jekyll's load order always prefers local files over gem/remote-theme files at the same path.
 
-## Folder-as-Route Convention
+## Page File Layout
 
-Each URL is a directory containing `index.md` (or `index.html`):
+Top-level sections use folder-as-route (a directory containing `index.md` or `index.html`):
 
 - `/about/` → `about/index.md`
 - `/students/young-musician-award/` → `students/young-musician-award/index.md`
 
-This pattern appears in every section. Don't create named `.md` files for top-level pages; use the directory convention.
+Named `.md` files at the same level are also acceptable when one-file-per-stub is more ergonomic than one-subdir-per-stub (e.g. per-season archive pages under `concerts/season/`). Either form is fine; pick whichever keeps the surrounding tree clean.
 
 ## Front Matter Conventions
 
