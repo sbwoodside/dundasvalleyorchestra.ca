@@ -1,0 +1,27 @@
+---
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+// Concert cards (Past Concerts on /concerts/, all season archives)
+.concert-cards {
+  list-style: none;
+  padding: 0;
+
+  li {
+    border-bottom: 1px solid #ddd;
+    padding: 1em 0;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  img {
+    max-width: 150px;
+    height: auto;
+  }
+}
