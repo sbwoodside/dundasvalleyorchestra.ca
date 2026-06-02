@@ -4,6 +4,8 @@ date: 2026-05-31
 time: "3pm"
 season: "2025-2026"
 livestream_url: "https://stpaulsdundas.com/dvo"
+video_embed: "https://player.vimeo.com/video/1197135179"
+program_pdf: "/images/concerts/2026/2026-05-31 DVO program.pdf"
 poster: /images/concerts/2026/poster-2026-05-31.png
 ---
 
