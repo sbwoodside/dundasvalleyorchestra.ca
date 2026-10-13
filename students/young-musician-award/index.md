@@ -18,6 +18,7 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 *Full details for each winner appear below.*
 
+* 2026 - Wilder Belleville, Tuba
 * 2025 - Patrick Wilson, Saxophone
 * 2024 - Sohan Mukherjee, Violin
 * 2023 - Victoria Zeng, Piano
@@ -32,30 +33,34 @@ Every year, the Hamilton Association for the Advancement of Literature, Science 
 
 ***
 
+#### 2026 DVO-HAALSA Young Musician winner: Wilder Belleville, Tuba
+
+![Wilder Belleville](/images/competition/2026/2026-Wilder%20Belleville.jpg)
+
+Wilder Belleville is a Grade 11 student at Glendale Secondary School in Hamilton who has been playing the tuba for five years. He has performed with numerous honour band ensembles, including the 2025 Ontario Intermediate Honour Band and the Santa Clarita Honour Band.
+
+Wilder’s love of music extends well beyond the tuba. He has played trumpet for several years in school jazz bands, as well as trombone and, more recently, French horn, which he quickly took to after picking it up last year. Despite his love for learning new instruments, tuba remains his favourite.
+
+Wilder has performed with the Hamilton Youth Philharmonic and Concert Orchestra in 2025 on tuba and French horn. He has performed with the Kawartha Youth Orchestra in 2024. He’s played in numerous jazz bands including one he organized and led at Glendale Secondary, culminating in a performance in the spring of 2026. 
+
+Whether performing on stage, playing with an ensemble, or learning something new at home, Wilder is passionate about music and continually looks for ways to challenge himself and deepen his understanding of it.
+
+
 #### 2025 DVO-HAALSA Young Musician winner: Patrick Wilson, Saxophone
 
 ![Patrick Wilson](/images/competition/2025/2025-Patrick%20Wilson.jpg)
 
 Patrick Wilson is a Saxophone player and senior at Westdale Secondary School.
 
-Since discovering his passion for Jazz at age 14, he has worked diligently to develop his
-performance skills. He is greatly influenced by players like Stan Getz, Chalie Parker,
-Patrick Bartley, and many more.
+Since discovering his passion for Jazz at age 14, he has worked diligently to develop his performance skills. He is greatly influenced by players like Stan Getz, Chalie Parker, Patrick Bartley, and many more.
 
 Patrick has studied jazz saxophone locally with Scott Neilson for the past two years.
 
-This past summer he took part in the 5-Week Aspire program at the Berklee College of
-Music in Boston. There he studied jazz with some of the best students from across the
-globe under the tutelage of professors like Jonathan Suazo, Jeff Herrington, Greg Hopkins,
-and Ilona Kudina.
+This past summer he took part in the 5-Week Aspire program at the Berklee College of Music in Boston. There he studied jazz with some of the best students from across the globe under the tutelage of professors like Jonathan Suazo, Jeff Herrington, Greg Hopkins, and Ilona Kudina.
 
-Patrick is a member of the Hamilton Allstar Jazz Band, a big band based in Ancaster that
-performs regularly in Southern Ontario. He also leads a volunteer jazz trio that performs
-monthly at Extendicare Assisted Living.
+Patrick is a member of the Hamilton Allstar Jazz Band, a big band based in Ancaster that performs regularly in Southern Ontario. He also leads a volunteer jazz trio that performs monthly at Extendicare Assisted Living.
 
-Beyond his passion for jazz, Patrick also enjoys the local rock scene, playing regularly as a
-member of local indie band In The Same Bed. He has recently guested on a record by
-Hamilton band Smit, and in a live performance by local favourites Superstar Crush.
+Beyond his passion for jazz, Patrick also enjoys the local rock scene, playing regularly as a member of local indie band In The Same Bed. He has recently guested on a record by Hamilton band Smit, and in a live performance by local favourites Superstar Crush.
 
 #### 2024 DVO-HAALSA Young Musician winner: Sohan Mukherjee, Violin
 
