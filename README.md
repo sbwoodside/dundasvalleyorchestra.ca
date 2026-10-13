@@ -9,3 +9,5 @@ Based on the [So Simple Theme](https://mmistakes.github.io/so-simple-theme/)
 TODO
 - automatically update the home page last video, and include a link to the concert page
 - automatically download the videos from Vimeo and archive them on Google Drive
+- add a donate now button below the next concert listing on the concerts page
+- split award winners into separate md files as well
