@@ -7,7 +7,9 @@ poster: /images/concerts/2026/poster-2026-11-08.png
 poster_pdf: /images/concerts/2026/poster-2026-11-08.pdf
 ---
 
-Join the DVO in the opening concert of our 2026-27 season! We will be partnering with the Bruce Trail Conservancy for a concert celebrating nature. The concert will include music by Smetana, Vivaldi, Delius, and Leroy Anderson. DVO Concertmaster Naomi Dore Brown will be a featured soloist.
+Join the DVO in the opening concert of our 2026-27 season! We will be partnering with the Bruce Trail Conservancy for a concert celebrating nature. The concert will include music by Smetana, Vivaldi, Delius, and Leroy Anderson. Featuring violin soloist Valerie Gordon, and countertenor Richard Cunningham.
+
+**The Bruce Trail Conservancy will be offering a pre-concert, child-friendly workshop prior to the concert at 2:15pm.**
 
 Programme:
 
@@ -22,9 +24,6 @@ Programme:
 9. Bedřich Smetana: **Die Moldau (from *Má vlast*)**
 
 The concert will be held at St. Paul’s United Church, 29 Park St. W., Dundas (corner of Cross and Park Streets) in Dundas. There will be a reception following the concert.
-
-The Bruce Trail Conservancy will be offering a pre-concert, child-friendly workshop prior to the concert at 2 p.m.
-{: .notice--success}
 
 The concert is supported by the City of Hamilton Enrichment Fund, the incite Foundation for the Arts and The Hamilton Community Foundation.
 
