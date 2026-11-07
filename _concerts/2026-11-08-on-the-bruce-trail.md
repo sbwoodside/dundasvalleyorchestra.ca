@@ -3,6 +3,8 @@ title: "On the Bruce Trail"
 date: 2026-11-08
 time: "3pm"
 season: "2026-2027"
+livestream_url: "https://stpaulsdundas.com/dvo"
+program_pdf: "/images/concerts/2026/2026-11-08 DVO program.pdf"
 poster: /images/concerts/2026/poster-2026-11-08.png
 poster_pdf: /images/concerts/2026/poster-2026-11-08.pdf
 ---
@@ -13,14 +15,14 @@ Join the DVO in the opening concert of our 2026-27 season! We will be partnering
 
 Programme:
 
-1. Laura Thomas: **On The Trail: Queenston to Tobermory**
+1. Laura Thomas: **On The Trail: *Queenston to Tobermory***
 2. Frederick Delius: **On Hearing the First Cuckoo in Spring**
 3. Robert McMullin: **Prairie Sketches**
 4. Leroy Anderson: **Summer Skies**
-5. George Frideric Handel: **Ombra Mai Fu**
+5. George Frideric Handel: **Ombra Mai Fu** *(Richard Cunningham, countertenor)*
 6. Peter DeRose: **Autumn Serenade**
 7. Mindaugas Piecaidis: **Catcerto**
-8. Antonio Vivaldi: **Winter, 1st mvt. (from *The Seasons*)**
+8. Antonio Vivaldi: **Winter, 1st mvt. (from *The Seasons*)** *(Valerie Gordon, violin)*
 9. Bedřich Smetana: **Die Moldau (from *Má vlast*)**
 
 The concert will be held at St. Paul’s United Church, 29 Park St. W., Dundas (corner of Cross and Park Streets) in Dundas. There will be a reception following the concert.
