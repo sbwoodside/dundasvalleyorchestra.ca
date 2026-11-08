@@ -3,7 +3,7 @@ title: "On the Bruce Trail"
 date: 2026-11-08
 time: "3pm"
 season: "2026-2027"
-livestream_url: "https://stpaulsdundas.com/dvo"
+livestream_url: "https://vimeo.com/event/5061304"
 program_pdf: "/images/concerts/2026/2026-11-08 DVO program.pdf"
 poster: /images/concerts/2026/poster-2026-11-08.png
 poster_pdf: /images/concerts/2026/poster-2026-11-08.pdf
@@ -12,6 +12,7 @@ poster_pdf: /images/concerts/2026/poster-2026-11-08.pdf
 Join the DVO in the opening concert of our 2026-27 season! We will be partnering with the Bruce Trail Conservancy for a concert celebrating nature. The concert will include music by Smetana, Vivaldi, Delius, and Leroy Anderson. Featuring violin soloist Valerie Gordon, and countertenor Richard Cunningham.
 
 **The Bruce Trail Conservancy will be offering a pre-concert, child-friendly workshop prior to the concert at 2:15pm.**
+
 
 Programme:
 
