@@ -3,6 +3,7 @@ title: "Kilts to Wigs: Nancy Cassels Chamber Music Concert"
 date: 2026-11-22
 time: "2pm"
 season: "2026-2027"
+livestream_url: "https://vimeo.com/event/5061304"
 poster: /images/concerts/2026/poster-2026-11-22.png
 poster_pdf: /images/concerts/2026/poster-2026-11-22.pdf
 ---
