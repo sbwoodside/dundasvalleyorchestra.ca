@@ -3,7 +3,7 @@ title: "On the Bruce Trail"
 date: 2026-11-08
 time: "3pm"
 season: "2026-2027"
-livestream_url: "https://vimeo.com/event/5061304"
+video_embed: "https://player.vimeo.com/video/1244888652"
 program_pdf: "/images/concerts/2026/2026-11-08 DVO program.pdf"
 poster: /images/concerts/2026/poster-2026-11-08.png
 poster_pdf: /images/concerts/2026/poster-2026-11-08.pdf
