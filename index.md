@@ -33,7 +33,7 @@ _No upcoming concerts scheduled. Check back soon._
 Full livestream:
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-    <iframe src="https://player.vimeo.com/video/1197135179" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The DVO plays Mahler! – Sunday, May 31, 2026" data-ready="true"></iframe>
+    <iframe src="https://player.vimeo.com/video/1244888652" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="On the Bruce Trail" data-ready="true"></iframe>
   </div>
 
 ***
