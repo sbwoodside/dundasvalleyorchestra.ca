@@ -11,3 +11,7 @@ TODO
 - automatically download the videos from Vimeo and archive them on Google Drive
 - add a donate now button below the next concert listing on the concerts page
 - split award winners into separate md files as well
+
+
+GitHub Pages build problems? Look at https://github.com/sbwoodside/dundasvalleyorchestra.ca/actions
+- And check this out: https://jekyllrb.com/docs/continuous-integration/github-actions/
