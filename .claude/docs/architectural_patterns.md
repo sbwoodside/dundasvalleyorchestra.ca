@@ -6,7 +6,7 @@ Jekyll uses a remote theme (`mmistakes/so-simple-theme@3.2.0`). To override them
 
 - `_includes/` — HTML partials (e.g. `_includes/footer-custom.html` overrides theme footer)
 - `assets/` — CSS/JS (e.g. `assets/css/main.scss` imports and extends theme styles)
-- `_layouts/` — page layouts (none currently overridden)
+- `_layouts/` — page layouts (project adds `concert.html` and `season.html`; theme layouts not overridden)
 - `_sass/` — Sass partials (none currently overridden)
 
 Jekyll's load order always prefers local files over gem/remote-theme files at the same path.
@@ -47,14 +47,14 @@ The `image.path` key sets the hero image. Omit it on pages without a header imag
 
 ## Kramdown Attribute Lists for Styling
 
-Theme CSS classes are applied via kramdown attribute syntax rather than raw HTML elements. This pattern appears throughout `concerts/index.md`, `students/`, `support-us/`, and `members/`:
+Theme CSS classes are applied via kramdown attribute syntax rather than raw HTML elements. This pattern appears throughout `_concerts/*.md`, `students/`, `support-us/`, and `members/`:
 
 - Buttons: `[Label](url){: .btn .btn--accent}` / `.btn--success` / `.btn--info`
 - Notice blocks: paragraph text followed immediately by `{: .notice--info}`, `{: .notice--warning}`, or `{: .notice--success}`
 
 ## Embedded Media Pattern
 
-External content is embedded via raw HTML `<iframe>` blocks inside Markdown. Used across `index.md` and `concerts/index.md`:
+External content is embedded via raw HTML `<iframe>` blocks inside Markdown. Used in `index.md` and some `_concerts/*.md` bodies:
 
 - YouTube: `<iframe src="https://www.youtube.com/embed/VIDEO_ID" ...>`
 - Vimeo: `<iframe src="https://player.vimeo.com/video/VIDEO_ID" ...>`
@@ -62,7 +62,7 @@ External content is embedded via raw HTML `<iframe>` blocks inside Markdown. Use
 
 ## Concert Listing Growth Pattern
 
-`concerts/index.md` is a single long file with sections: "Next Concert", "Upcoming Concerts", "Past Concerts". New concerts are prepended to the top of the appropriate section; older concerts accumulate at the bottom. Embedded video iframes appear inline in Markdown when a recording is available.
+Each concert is its own file in the `_concerts/` collection. `concerts/index.md` contains no concert content — it is pure Liquid that sorts the collection by `date` and splits it against `site.time` into "Next Concert", "Upcoming Concerts" (rendered in full via `_includes/concert-full.html`) and "Past Concerts" (cards via `_includes/concert-card.html` for the most recent past season, plus links to `/concerts/season/<id>/` archives from `_data/seasons.yml`). Media and links are front-matter fields (`video_embed`, `livestream_url`, `poster`, `program_pdf`, …) rendered by the include, not inline Markdown.
 
 ## Data-Driven Navigation
 
@@ -73,7 +73,7 @@ Top navigation is defined in `_data/navigation.yml` and consumed entirely by the
 All global site identity lives in `_config.yml`:
 
 - `title`, `description`, `url` — site identity
-- `owner` block — conductor/author info and social links
+- `author` block — site owner name, picture, email
 - `footer_links` — FontAwesome icon links rendered in footer
 - `google_analytics` — UA tracking ID
 - `google_fonts` — font family declarations

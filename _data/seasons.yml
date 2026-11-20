@@ -1,6 +1,8 @@
 # List of concert seasons, populated in Phase 3 of the concerts refactor.
 # Each entry: { id: "YYYY-YYYY", label: "YYYY-YYYY Season" }
 seasons:
+  - id: "2026-2027"
+    label: "2026-2027 Season"
   - id: "2025-2026"
     label: "2025-2026 Season"
   - id: "2024-2025"
