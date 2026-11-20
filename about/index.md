@@ -45,7 +45,7 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 | Past President | Vacant |
 | Treasurer | Claire Morris |
 | Secretary | Jim Jones |
-| Members at Large | Stan Alama, Andrea Bandow, Brenda Hurlburt, Rudin Knights (on leave), Sharon Miller, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn |
+| Members at Large | Stan Alama, Andrea Bandow, Brenda Hurlburt, Rudin Knights (on leave), Sharon Miller, Kate Lynn Robles, Margaret Sherman-Bell, Baya Vertes, Glenn Welbourn |
 
 ### Ex-Officio Board Members
 
@@ -68,10 +68,10 @@ Ms Thomas has been actively committed to music education in the Niagara area for
 
 ### Communications & Marketing
 
-| Social Media & Program Notes | Stan Alama
-| Social Media | Ian Kivell
-| Web Support | Simon Woodside
 | Graphic Design | Kate Lynn Robles
+| Program Notes | Stan Alama
+| Social Media | Stan Alama, Kate Lynn Robles
+| Web Support | Simon Woodside
 
 ### Patron Services
 
